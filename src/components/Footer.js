@@ -12,7 +12,7 @@ function Footer({ id }) {
         <div className="flex justify-center gap-6">
           {/* WhatsApp */}
           <a
-            href="https://api.whatsapp.com/message/M277ELEEEZXXC1?autoload=1&app_absent=0"
+            href="https://wa.me/5535998428761"
             target="_blank"
             rel="noopener noreferrer"
             className="icon-circle"
