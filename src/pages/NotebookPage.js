@@ -65,7 +65,7 @@ function NotebookPage() {
 
             <div className="mt-6">
               <a
-                href={`https://wa.me/5511999999999?text=${encodeURIComponent(
+                href={`https://wa.me/555535998428761?text=${encodeURIComponent(
                   `Olá, tenho interesse no notebook "${notebook.titulo}". Poderia me passar mais informações?`
                 )}`}
                 target="_blank"

@@ -118,7 +118,7 @@ export const notebooks = [
 
 export const redesSociais = {
   instagram: "https://instagram.com/notebooks_seminovos",
-  whatsapp: "https://wa.me/5511999999999",
+  whatsapp: "https://wa.me/5535998428761",
   facebook: "https://facebook.com/notebooksseminovos",
   email: "contato@notebooksseminovos.com.br",
 };

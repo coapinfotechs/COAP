@@ -65,7 +65,7 @@ function HomePage() {
                   Formatamos, trocamos peças, limpamos e damos aquele upgrade!
                 </p>
                 <a
-                  href="https://wa.me/5511999999999"
+                  href="https://wa.me/5535998428761"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn btn-gradient"
@@ -87,7 +87,7 @@ function HomePage() {
                   dados!
                 </p>
                 <a
-                  href="https://wa.me/5511999999999"
+                  href="https://wa.me/5535998428761"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn btn-gradient"
