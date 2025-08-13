@@ -14,9 +14,9 @@ export const notebooks = [
       "MacBook Pro em excelente estado, com apenas 1 ano de uso. Acompanha carregador original e caixa. Bateria com 92% de saúde.",
     estado: "Excelente",
     imagens: [
-      "/images/notebook1.jpeg",
-      "/images/notebook1.jpeg",
-      "/images/notebook1.jpeg",
+      process.env.PUBLIC_URL + "/images/notebook1.jpeg",
+      process.env.PUBLIC_URL + "/images/notebook1.jpeg",
+      process.env.PUBLIC_URL + "/images/notebook1.jpeg",
     ],
   },
   {
@@ -33,7 +33,10 @@ export const notebooks = [
     descricao:
       "Dell XPS 13 em ótimo estado, com pouquíssimo uso. Acompanha carregador original e mochila para transporte.",
     estado: "Ótimo",
-    imagens: ["/images/notebook2.jpeg", "/images/notebook2.jpeg"],
+    imagens: [
+      process.env.PUBLIC_URL + "/images/notebook2.jpeg",
+      process.env.PUBLIC_URL + "/images/notebook2.jpeg",
+    ],
   },
   {
     id: 3,
@@ -49,7 +52,10 @@ export const notebooks = [
     descricao:
       "ThinkPad X1 Carbon em bom estado, ideal para trabalho. Teclado retroiluminado e bateria com boa duração.",
     estado: "Bom",
-    imagens: ["/images/notebook3.jpeg", "/images/notebook3.jpeg"],
+    imagens: [
+      process.env.PUBLIC_URL + "/images/notebook3.jpeg",
+      process.env.PUBLIC_URL + "/images/notebook3.jpeg",
+    ],
   },
   {
     id: 4,
@@ -65,7 +71,10 @@ export const notebooks = [
     descricao:
       "HP Spectre x360 conversível, com tela touch e caneta inclusa. Perfeito para designers e profissionais criativos.",
     estado: "Muito Bom",
-    imagens: ["/images/notebook4.jpeg", "/images/notebook4.jpeg"],
+    imagens: [
+      process.env.PUBLIC_URL + "/images/notebook4.jpeg",
+      process.env.PUBLIC_URL + "/images/notebook4.jpeg",
+    ],
   },
   {
     id: 5,
@@ -81,7 +90,10 @@ export const notebooks = [
     descricao:
       "Notebook gamer em excelente estado, ideal para jogos pesados e trabalhos que exigem alto desempenho gráfico.",
     estado: "Excelente",
-    imagens: ["/images/notebook5.jpeg", "/images/notebook5.jpeg"],
+    imagens: [
+      process.env.PUBLIC_URL + "/images/notebook5.jpeg",
+      process.env.PUBLIC_URL + "/images/notebook5.jpeg",
+    ],
   },
   {
     id: 6,
@@ -97,7 +109,10 @@ export const notebooks = [
     descricao:
       "ASUS ZenBook Duo com tela dupla, perfeito para multitarefas e produtividade. Acompanha caneta stylus.",
     estado: "Muito Bom",
-    imagens: ["/images/notebook6.jpeg", "/images/notebook6.jpeg"],
+    imagens: [
+      process.env.PUBLIC_URL + "/images/notebook6.jpeg",
+      process.env.PUBLIC_URL + "/images/notebook6.jpeg",
+    ],
   },
 ];
 
@@ -109,7 +124,7 @@ export const redesSociais = {
 };
 
 export const avaliacoes = [
-  "/images/avaliacao-1.jpg",
-  "/images/avaliacao-2.png",
-  "/images/avaliacao-3.png",
+  process.env.PUBLIC_URL + "/images/avaliacao-1.jpg",
+  process.env.PUBLIC_URL + "/images/avaliacao-2.png",
+  process.env.PUBLIC_URL + "/images/avaliacao-3.png",
 ];

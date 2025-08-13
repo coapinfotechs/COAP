@@ -17,7 +17,7 @@ export default function AvaliacaoCarousel({ avaliacoes }) {
 
   return (
     <div className="avaliacao-carousel-container">
-      <h2 className="text-2xl font-semibold mb-6">Avaliações de Clientes</h2>
+      <h2 className="text-2xl font-semibold mb-6 some-text ">Avaliações de Clientes</h2>
 
       <div className="relative flex items-center justify-center w-full">
         {/* Seta Esquerda */}
