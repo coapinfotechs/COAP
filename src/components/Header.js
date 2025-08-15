@@ -73,7 +73,7 @@ function Header({ searchTerm, setSearchTerm }) {
 
         <nav className="nav-links">
           <Link to="/">Início</Link>
-          <a href="#contato">Contato</a>
+          <a href="/#/contato">Contato</a>
         </nav>
       </div>
     </header>
