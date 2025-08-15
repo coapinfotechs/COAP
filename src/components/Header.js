@@ -6,7 +6,7 @@ function Header({ searchTerm, setSearchTerm }) {
   const inputRef = useRef();
   const location = useLocation();
 
-  const isNotebookPage = location.pathname.startsWith("/notebook")
+  const isNotebookPage = location.pathname.startsWith("/notebook");
 
   const suggestions = ["Dell", "Lenovo", "Samsung", "Acer"];
 
@@ -28,52 +28,61 @@ function Header({ searchTerm, setSearchTerm }) {
           </Link>
         </div>
         {!isNotebookPage && (
-        <div
-          className="search-bar"
-          onBlur={() => setShowSuggestions(false)}
-          onFocus={() => setShowSuggestions(true)}
-        >
-          
-          <div className="search-input-wrapper">
-            <input
-              type="text"
-              ref={inputRef}
-              placeholder="Pesquisar notebooks..."
-              value={searchTerm}
-              onChange={(e) => setSearchTerm(e.target.value)}
-              onClick={() => setShowSuggestions(true)}
-              
-            />
-            {searchTerm && (
-              <button
-                className="clear-btn"
-                onMouseDown={(e) => {
-                  e.preventDefault();
-                  setSearchTerm("");
-                  setShowSuggestions(false);
-                }}
-              >
-                ×
-              </button>
+          <div
+            className="search-bar"
+            onBlur={() => setShowSuggestions(false)}
+            onFocus={() => setShowSuggestions(true)}
+          >
+            <div className="search-input-wrapper">
+              <input
+                type="text"
+                ref={inputRef}
+                placeholder="Pesquisar notebooks..."
+                value={searchTerm}
+                onChange={(e) => setSearchTerm(e.target.value)}
+                onClick={() => setShowSuggestions(true)}
+              />
+              {searchTerm && (
+                <button
+                  className="clear-btn"
+                  onMouseDown={(e) => {
+                    e.preventDefault();
+                    setSearchTerm("");
+                    setShowSuggestions(false);
+                  }}
+                >
+                  ×
+                </button>
+              )}
+            </div>
+
+            {showSuggestions && (
+              <ul className="suggestion-dropdown">
+                <li className="suggestion-header">Sugestões de modelo/marca</li>
+                {suggestions.map((sug, idx) => (
+                  <li key={idx} onMouseDown={() => handleSuggestionClick(sug)}>
+                    {sug}
+                  </li>
+                ))}
+              </ul>
             )}
           </div>
-
-          {showSuggestions && (
-            <ul className="suggestion-dropdown">
-              <li className="suggestion-header">Sugestões de modelo/marca</li>
-              {suggestions.map((sug, idx) => (
-                <li key={idx} onMouseDown={() => handleSuggestionClick(sug)}>
-                  {sug}
-                </li>
-              ))}
-            </ul>
-          )}
-        </div>
         )}
 
         <nav className="nav-links">
           <Link to="/">Início</Link>
-          <a href="/#/contato">Contato</a>
+          <Link
+            to="/#contato"
+            onClick={(e) => {
+              e.preventDefault();
+              const section = document.getElementById("contato");
+              if (section) {
+                section.scrollIntoView({ behavior: "smooth" });
+              }
+            }}
+          >
+            Contato
+          </Link>
         </nav>
       </div>
     </header>
