@@ -1,7 +1,7 @@
 export const notebooks = [
   {
     id: 1,
-    titulo: "MacBook Pro 2022",
+    titulo: "MacBook Pro",
     marca: "Apple",
     modelo: "MacBook Pro",
     processador: "Apple M1 Pro",
