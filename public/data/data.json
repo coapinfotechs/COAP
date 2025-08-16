@@ -1,0 +1,124 @@
+{
+  "notebooks": [
+    {
+      "id": 1,
+      "titulo": "MacBook Pro",
+      "marca": "Apple",
+      "modelo": "MacBook Pro",
+      "processador": "Apple M1 Pro",
+      "memoria": "16GB",
+      "armazenamento": "512GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "14 polegadas Retina",
+      "preco": 8999.99,
+      "descricao": "MacBook Pro em excelente estado, com apenas 1 ano de uso. Acompanha carregador original e caixa. Bateria com 92% de saúde.",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook1.jpeg",
+        "/images/notebook1.jpeg",
+        "/images/notebook1.jpeg"
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "Dell XPS 13 - Como Novo",
+      "marca": "Dell",
+      "modelo": "XPS 13",
+      "processador": "Intel Core i7 11ª Geração",
+      "memoria": "16GB",
+      "armazenamento": "1TB SSD",
+      "placaVideo": "Intel Iris Xe",
+      "tela": "13.4 polegadas Full HD+",
+      "preco": 6499.99,
+      "descricao": "Dell XPS 13 em ótimo estado, com pouquíssimo uso. Acompanha carregador original e mochila para transporte.",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook2.jpeg",
+        "/images/notebook2.jpeg"
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "Dell XPS 13 - Como Novo",
+      "marca": "Dell",
+      "modelo": "XPS 13",
+      "processador": "Intel Core i7 11ª Geração",
+      "memoria": "16GB",
+      "armazenamento": "1TB SSD",
+      "placaVideo": "Intel Iris Xe",
+      "tela": "13.4 polegadas Full HD+",
+      "preco": 6499.99,
+      "descricao": "Dell XPS 13 em ótimo estado, com pouquíssimo uso. Acompanha carregador original e mochila para transporte.",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook2.jpeg",
+        "/images/notebook2.jpeg"
+      ]
+    },
+    {
+      "id": 4,
+      "titulo": "Dell XPS 13 - Como Novo",
+      "marca": "Dell",
+      "modelo": "XPS 13",
+      "processador": "Intel Core i7 11ª Geração",
+      "memoria": "16GB",
+      "armazenamento": "1TB SSD",
+      "placaVideo": "Intel Iris Xe",
+      "tela": "13.4 polegadas Full HD+",
+      "preco": 6499.99,
+      "descricao": "Dell XPS 13 em ótimo estado, com pouquíssimo uso. Acompanha carregador original e mochila para transporte.",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook2.jpeg",
+        "/images/notebook2.jpeg"
+      ]
+    },
+    {
+      "id": 5,
+      "titulo": "Dell XPS 13 - Como Novo",
+      "marca": "Dell",
+      "modelo": "XPS 13",
+      "processador": "Intel Core i7 11ª Geração",
+      "memoria": "16GB",
+      "armazenamento": "1TB SSD",
+      "placaVideo": "Intel Iris Xe",
+      "tela": "13.4 polegadas Full HD+",
+      "preco": 6499.99,
+      "descricao": "Dell XPS 13 em ótimo estado, com pouquíssimo uso. Acompanha carregador original e mochila para transporte.",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook2.jpeg",
+        "/images/notebook2.jpeg"
+      ]
+    },
+    {
+      "id": 6,
+      "titulo": "Dell XPS 13 - Como Novo",
+      "marca": "Dell",
+      "modelo": "XPS 13",
+      "processador": "Intel Core i7 11ª Geração",
+      "memoria": "16GB",
+      "armazenamento": "1TB SSD",
+      "placaVideo": "Intel Iris Xe",
+      "tela": "13.4 polegadas Full HD+",
+      "preco": 6499.99,
+      "descricao": "Dell XPS 13 em ótimo estado, com pouquíssimo uso. Acompanha carregador original e mochila para transporte.",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook2.jpeg",
+        "/images/notebook2.jpeg"
+      ]
+    }
+  ],
+  "redesSociais": {
+    "instagram": "https://instagram.com/notebooks_seminovos",
+    "whatsapp": "https://wa.me/5535998428761",
+    "facebook": "https://facebook.com/notebooksseminovos",
+    "email": "contato@notebooksseminovos.com.br"
+  },
+  "avaliacoes": [
+    "/images/avaliacao-1.jpg",
+    "/images/avaliacao-2.png",
+    "/images/avaliacao-3.png"
+  ]
+}

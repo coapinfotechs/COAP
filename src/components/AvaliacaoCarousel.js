@@ -1,10 +1,25 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronLeft, ChevronRight } from "lucide-react";
-import "../index.css"; // Certifique-se de importar seu CSS
+import "../index.css";
+import { useDados } from "../hooks/useDados";
 
-export default function AvaliacaoCarousel({ avaliacoes }) {
+export default function AvaliacaoCarousel() {
+  const { avaliacoes, loading, erro } = useDados();
   const [index, setIndex] = useState(0);
+
+  if (loading) {
+    return <p className="text-center">Carregando avaliações...</p>;
+  }
+
+  if (erro) {
+    return <p className="text-center text-red-500">Erro ao carregar avaliações: {erro}</p>;
+  }
+
+  if (!avaliacoes || avaliacoes.length === 0) {
+    return <p className="text-center">Nenhuma avaliação disponível.</p>;
+  }
+
   const total = avaliacoes.length;
 
   const handleNext = () => {
@@ -17,7 +32,7 @@ export default function AvaliacaoCarousel({ avaliacoes }) {
 
   return (
     <div className="avaliacao-carousel-container">
-      <h2 className="text-2xl font-semibold mb-6 some-text ">Avaliações de Clientes</h2>
+      <h2 className="text-2xl font-semibold mb-6 some-text">Avaliações de Clientes</h2>
 
       <div className="relative flex items-center justify-center w-full">
         {/* Seta Esquerda */}

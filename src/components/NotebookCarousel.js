@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import NotebookCard from "./NotebookCard";
 import { ChevronLeft, ChevronRight } from "lucide-react";
+import { useDados } from "../hooks/useDados";
 
 function useItemsPerPage() {
   const [itemsPerPage, setItemsPerPage] = useState(getItemsPerPage());
@@ -22,15 +23,31 @@ function useItemsPerPage() {
   return itemsPerPage;
 }
 
-function NotebookCarousel({ notebooks }) {
+export default function NotebookCarousel() {
+  const { notebooks, loading, erro } = useDados();
   const itemsPerPage = useItemsPerPage();
   const [page, setPage] = useState(0);
 
-  const totalPages = Math.ceil(notebooks.length / itemsPerPage);
+  const totalPages = notebooks && notebooks.length > 0
+    ? Math.ceil(notebooks.length / itemsPerPage)
+    : 0;
 
   useEffect(() => {
-    setPage(0); // Sempre volta pra página 0 ao mudar a lista
+    setPage(0); // Sempre volta pra página 0 quando lista ou tela muda
   }, [notebooks, itemsPerPage]);
+
+  // Agora os returns condicionais vêm depois
+  if (loading) {
+    return <p className="text-center">Carregando notebooks...</p>;
+  }
+
+  if (erro) {
+    return <p className="text-center text-red-500">Erro ao carregar: {erro}</p>;
+  }
+
+  if (!notebooks || notebooks.length === 0) {
+    return <p className="text-center">Nenhum notebook disponível no momento.</p>;
+  }
 
   const handleNext = () => {
     if (page < totalPages - 1) setPage(page + 1);
@@ -63,7 +80,7 @@ function NotebookCarousel({ notebooks }) {
         <div className="flex gap-6 w-full max-w-6xl">
           <AnimatePresence mode="wait">
             <motion.div
-              key={page + notebooks.length} // forçar re-render ao mudar lista
+              key={page + notebooks.length}
               initial={{ opacity: 0, x: 100 }}
               animate={{ opacity: 1, x: 0 }}
               exit={{ opacity: 0, x: -100 }}
@@ -100,5 +117,3 @@ function NotebookCarousel({ notebooks }) {
     </div>
   );
 }
-
-export default NotebookCarousel;

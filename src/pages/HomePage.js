@@ -1,9 +1,9 @@
-import React, { useState } from "react";
-import { notebooks, avaliacoes } from "../data/notebooks";
+import React, { useState, useMemo } from "react";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import NotebookCarousel from "../components/NotebookCarousel";
 import AvaliacaoCarousel from "../components/AvaliacaoCarousel";
+import { useDados } from "../hooks/useDados";
 import {
   WrenchScrewdriverIcon,
   CurrencyDollarIcon,
@@ -11,39 +11,59 @@ import {
 
 function HomePage() {
   const [searchTerm, setSearchTerm] = useState("");
+  const { notebooks, avaliacoes, loading, erro } = useDados();
 
-  // Se tiver algo digitado, filtra, senão mostra todos
-  const filteredNotebooks =
-    searchTerm.trim() === ""
-      ? notebooks
-      : notebooks.filter((n) =>
-          (
-            n.modelo +
-            " " +
-            n.marca +
-            " " +
-            n.titulo +
-            " " +
-            n.processador +
-            " " +
-            n.memoria +
-            " " +
-            n.armazenamento
-          )
-            .toLowerCase()
-            .includes(searchTerm.toLowerCase())
-        );
+  // Filtra notebooks quando já carregados
+  const filteredNotebooks = useMemo(() => {
+    if (!notebooks || searchTerm.trim() === "") return notebooks || [];
+
+    return notebooks.filter((n) =>
+      (
+        n.modelo +
+        " " +
+        n.marca +
+        " " +
+        n.titulo +
+        " " +
+        n.processador +
+        " " +
+        n.memoria +
+        " " +
+        n.armazenamento
+      )
+        .toLowerCase()
+        .includes(searchTerm.toLowerCase())
+    );
+  }, [notebooks, searchTerm]);
 
   return (
     <div className="min-h-screen flex flex-col">
       <Header searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
 
       <main className="flex-grow">
-        {/* NOTEBOOKS SEMPRE VISÍVEL */}
-        {filteredNotebooks.length > 0 ? (
-          <NotebookCarousel notebooks={filteredNotebooks} />
-        ) : (
-          <div className="no-results-message">Nenhum notebook encontrado.</div>
+        {/* ESTADO DE CARREGAMENTO */}
+        {loading && (
+          <div className="text-center py-6">Carregando dados...</div>
+        )}
+
+        {/* ERRO AO CARREGAR */}
+        {erro && (
+          <div className="text-center py-6 text-red-500">
+            Erro ao carregar os dados: {erro}
+          </div>
+        )}
+
+        {/* NOTEBOOKS */}
+        {!loading && !erro && notebooks && (
+          <>
+            {filteredNotebooks.length > 0 ? (
+              <NotebookCarousel notebooks={filteredNotebooks} />
+            ) : (
+              <div className="text-center py-6 text-gray-500">
+                Nenhum notebook encontrado.
+              </div>
+            )}
+          </>
         )}
 
         {/* SESSÃO DE SERVIÇOS */}
@@ -53,6 +73,7 @@ function HomePage() {
               Manutenção ou Venda de Notebook
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+              {/* Card 1 */}
               <div className="bg-gray-100 p-10 rounded-xl shadow transition-transform hover:-translate-y-1">
                 <WrenchScrewdriverIcon
                   style={{ width: "100px", height: "100px" }}
@@ -74,6 +95,7 @@ function HomePage() {
                 </a>
               </div>
 
+              {/* Card 2 */}
               <div className="bg-gray-100 p-10 rounded-xl shadow transition-transform hover:-translate-y-1">
                 <CurrencyDollarIcon
                   style={{ width: "100px", height: "100px" }}
@@ -100,7 +122,10 @@ function HomePage() {
         </section>
 
         {/* AVALIAÇÕES */}
-        <AvaliacaoCarousel avaliacoes={avaliacoes} />
+        {!loading && !erro && avaliacoes && (
+          <AvaliacaoCarousel avaliacoes={avaliacoes} />
+        )}
+
         <Footer id="contato" />
       </main>
     </div>

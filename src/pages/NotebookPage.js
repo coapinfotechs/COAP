@@ -1,14 +1,36 @@
 import { useParams, useNavigate } from "react-router-dom";
-import { notebooks } from "../data/notebooks";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import ImageGalleryCarousel from "../components/ImageGalleryCarousel";
 import { ArrowLeft } from "lucide-react";
+import { useDados } from "../hooks/useDados";
 
 function NotebookPage() {
   const { id } = useParams();
   const navigate = useNavigate();
+  const { notebooks, loading, error } = useDados(); // Hook para buscar os dados
 
+  // Enquanto carrega os dados
+  if (loading) {
+    return (
+      <div className="min-h-screen flex flex-col items-center justify-center">
+        <p className="text-xl">Carregando informações...</p>
+      </div>
+    );
+  }
+
+  // Se deu erro ao buscar
+  if (error) {
+    return (
+      <div className="min-h-screen flex flex-col items-center justify-center">
+        <p className="text-red-500 text-lg">
+          Erro ao carregar os dados: {error}
+        </p>
+      </div>
+    );
+  }
+
+  // Procura o notebook pelo ID
   const notebook = notebooks.find((n) => n.id === Number(id));
 
   if (!notebook) {
