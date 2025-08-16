@@ -10,19 +10,17 @@ export function useDados() {
   const [erro, setErro] = useState(null);
 
   useEffect(() => {
-    fetch(process.env.PUBLIC_URL + "/data/data.json")
-      .then((response) => {
-        if (!response.ok) {
-          throw new Error("Erro ao carregar dados");
-        }
-        return response.json();
+    fetch("https://raw.githubusercontent.com/coapinfotechs/COAP/blob/main/public/data/data.json")
+      .then((res) => {
+        if (!res.ok) throw new Error("Erro ao carregar dados");
+        return res.json();
       })
       .then((data) => {
         setDados(data);
         setLoading(false);
       })
-      .catch((error) => {
-        setErro(error.message);
+      .catch((err) => {
+        setErro(err.message);
         setLoading(false);
       });
   }, []);
