@@ -10,7 +10,7 @@ export function useDados() {
   const [erro, setErro] = useState(null);
 
   useEffect(() => {
-    fetch("https://raw.githubusercontent.com/coapinfotechs/COAP/blob/main/public/data/data.json")
+    fetch("https://raw.githubusercontent.com/coapinfotechs/COAP/public/data/data.json")
       .then((res) => {
         if (!res.ok) throw new Error("Erro ao carregar dados");
         return res.json();
