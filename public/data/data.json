@@ -2,11 +2,11 @@
   "notebooks": [
     {
       "id": 1,
-      "titulo": "MacBook Prozin",
+      "titulo": "MacBook 2025",
       "marca": "Apple",
       "modelo": "MacBook Prozin",
       "processador": "Apple M1 Pro",
-      "memoria": "16GB",
+      "memoria": "8GB",
       "armazenamento": "512GB SSD",
       "placaVideo": "Integrada",
       "tela": "14 polegadas Retina",
