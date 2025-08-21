@@ -21,21 +21,21 @@
     },
      {
       "id": 2,
-      "titulo": "Samsung Book 2025",
+      "titulo": "Notebook Samsung Book i3-1115G4",
       "marca": "Samsung",
       "modelo": "Book",
-      "processador": "Apple M1 Pro",
+      "processador": "Intel core i3-1115G4  3.00 ghz",
       "memoria": "8GB",
-      "armazenamento": "512GB SSD",
+      "armazenamento": "256GB SSD",
       "placaVideo": "Integrada",
-      "tela": "14 polegadas Retina",
-      "preco": 3500.00,
-      "descricao": "MacBook Pro em excelente estado, com apenas 1 ano de uso. Acompanha carregador original e caixa. Bateria com 92% de saúde.",
+      "tela": "15,6 polegadas FHD",
+      "preco": 1940.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 11 pro ativado Pacote office ativado Acompanha carregador original ",
       "estado": "Excelente",
       "imagens": [
-        "/images/notebook1.jpeg",
-        "/images/notebook1.jpeg",
-        "/images/notebook1.jpeg"
+        "/images/notebook2-1.jpeg",
+        "/images/notebook2-2.jpeg",
+        "/images/notebook2-3.jpeg"
       ]
     },
      {
