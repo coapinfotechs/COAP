@@ -2,15 +2,15 @@
   "notebooks": [
     {
       "id": 1,
-      "titulo": "MacBook 2025",
-      "marca": "Apple",
-      "modelo": "MacBook Prozin",
+      "titulo": "Samsung Book 2025",
+      "marca": "Samsung",
+      "modelo": "Book",
       "processador": "Apple M1 Pro",
       "memoria": "8GB",
       "armazenamento": "512GB SSD",
       "placaVideo": "Integrada",
       "tela": "14 polegadas Retina",
-      "preco": 8999.99,
+      "preco": 3500,00,
       "descricao": "MacBook Pro em excelente estado, com apenas 1 ano de uso. Acompanha carregador original e caixa. Bateria com 92% de saúde.",
       "estado": "Excelente",
       "imagens": [
