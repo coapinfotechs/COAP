@@ -2,16 +2,40 @@
   "notebooks": [
     {
       "id": 1,
-      "titulo": "Samsung Book 111",
-      "marca": "Samsung",
-      "modelo": "Book",
-      "processador": "Apple M1 Pro",
-      "memoria": "8GB",
+      "titulo": "Notebook Gamer Acer Nitro 5",
+      "marca": "Acer",
+      "modelo": "Nitro 5",
+      "processador": "Intel Core i5-12450H 4.5ghz turbo 12th",
+      "memoria": "16GB",
       "armazenamento": "512GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "14 polegadas Retina",
-      "preco": 3500.00,
-      "descricao": "MacBook Pro em excelente estado, com apenas 1 ano de uso. Acompanha carregador original e caixa. Bateria com 92% de saúde.",
+      "placaVideo": "RTX 3050 4gb",
+      "tela": "15,6 polegadas",
+      "preco": 3990.00,
+      "descricao": "Notebook Gamer Acer Nitro 5 i5-12th Ram 16GB SSD 512GB Tela 15.6' FHD 144hz RTX 3050 W11 pro
+
+-Entrega gratuita em toda região.
+-Parcelamento em até 10x sem juros.
+-Revisado, formatado e higienizado.
+-Garantia de 6 meses.
+
+*Notebook com espetacular configuração, não trava, roda todos os jogos com tranquilidade. 
+*Voltado para alta performance, com 2 ventoinhas internas, wi-fi turbo, maximização da memória Ram, teclado retroiluminado, placa de vídeo potente dedicada GTX 3050 com 4gb.
+*Pouquíssimo tempo de uso.
+*Ideal para estudar, trabalhar com design e edição e jogar jogos pesados.
+
+Especificações:
+Processador Intel Core i5-12450H 4.5ghz turbo 12th
+Memória Ram 16GB
+Armazenamento SSD 512GB Nvme
+Vídeo dedicado NVidia geforce 
+RTX 3050 4gb
+Tela 15.6'  Full HD 144 hz
+Câmera / Áudio / Microfone / Hdmi / Wi-fi turbo / Bluetooth/ Leitor de cartão de memória / teclado alfanumérico e retroiluminado 
+
+Bateria com autonomia média de 3h
+Windows 11 pro ativado 
+Pacote office ativado 
+Acompanha carregador original",
       "estado": "Excelente",
       "imagens": [
         "/images/notebook1.jpeg",
@@ -150,10 +174,10 @@
     }
   ],
   "redesSociais": {
-    "instagram": "https://instagram.com/notebooks_seminovos",
+    "instagram": "https://instagram.com/coapinfotech",
     "whatsapp": "https://wa.me/5535998428761",
-    "facebook": "https://facebook.com/notebooksseminovos",
-    "email": "contato@notebooksseminovos.com.br"
+    "facebook": "https://facebook.com/coapinfotech",
+    "email": "coapinfotech@gmail.com"
   },
   "avaliacoes": [
     "/images/avaliacao-1.jpg",
