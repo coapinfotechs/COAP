@@ -313,24 +313,6 @@
         "/images/notebook2.jpeg"
       ]
     },
-    {
-      "id": 18,
-      "titulo": "Dell XPS 13 - Como Novo",
-      "marca": "Dell",
-      "modelo": "XPS 13",
-      "processador": "Intel Core i7 11ª Geração",
-      "memoria": "16GB",
-      "armazenamento": "1TB SSD",
-      "placaVideo": "Intel Iris Xe",
-      "tela": "13.4 polegadas Full HD+",
-      "preco": 6499.99,
-      "descricao": "Dell XPS 13 em ótimo estado, com pouquíssimo uso. Acompanha carregador original e mochila para transporte.",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook2.jpeg",
-        "/images/notebook2.jpeg"
-      ]
-    }
   ]
     {
     "redesSociais": [
