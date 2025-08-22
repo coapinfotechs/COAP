@@ -321,12 +321,10 @@
     "facebook": "https://facebook.com/coapinfotech",
     "email": "coapinfotech@gmail.com"
     ]
-  }
-    {
-  "avaliacoes": [
+    "avaliacoes": [
     "/images/avaliacao-1.jpg",
     "/images/avaliacao-2.png",
     "/images/avaliacao-3.png"
-  ]
+      ]
 }
-}
+    }
