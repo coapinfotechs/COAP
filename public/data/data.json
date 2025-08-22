@@ -332,12 +332,14 @@
       ]
     },
     {
-    "redesSociais": {
+    "redesSociais": [
     "instagram": "https://instagram.com/coapinfotech",
     "whatsapp": "https://wa.me/5535998428761",
     "facebook": "https://facebook.com/coapinfotech",
     "email": "coapinfotech@gmail.com"
+    ]
   },
+    {
   "avaliacoes": [
     "/images/avaliacao-1.jpg",
     "/images/avaliacao-2.png",
