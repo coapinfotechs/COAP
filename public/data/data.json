@@ -135,20 +135,21 @@
     },
     {
       "id": 8,
-      "titulo": "Dell XPS 13 - Como Novo",
+      "titulo": "Notebook Dell Vostro 5470",
       "marca": "Dell",
-      "modelo": "XPS 13",
-      "processador": "Intel Core i7 11ª Geração",
-      "memoria": "16GB",
-      "armazenamento": "1TB SSD",
-      "placaVideo": "Intel Iris Xe",
-      "tela": "13.4 polegadas Full HD+",
-      "preco": 6499.99,
-      "descricao": "Dell XPS 13 em ótimo estado, com pouquíssimo uso. Acompanha carregador original e mochila para transporte.",
-      "estado": "Ótimo",
+      "modelo": "Vostro 547",
+      "processador": "Intel i5-4510U 2.60ghz",
+      "memoria": "8GB",
+      "armazenamento": "240GB SSD",
+      "placaVideo": "NVidia Geforce 730M 2gb",
+      "tela": "14 polegadas",
+      "preco": 1540.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
       "imagens": [
-        "/images/notebook2.jpeg",
-        "/images/notebook2.jpeg"
+        "/images/notebook8-1.jpeg",
+        "/images/notebook8-2.jpeg",
+        "/images/notebook8-3.jpeg"
       ]
     }
   ],
