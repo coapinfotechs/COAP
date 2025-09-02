@@ -133,7 +133,7 @@
         "/images/notebook7-3.jpeg"
       ]
     },
-    {
+     {
       "id": 8,
       "titulo": "Notebook Dell Vostro 5470",
       "marca": "Dell",
@@ -150,6 +150,310 @@
         "/images/notebook8-1.jpeg",
         "/images/notebook8-2.jpeg",
         "/images/notebook8-3.jpeg"
+      ]
+    },
+     {
+      "id": 9,
+      "titulo": "Notebook Gamer Dell G5",
+      "marca": "Dell",
+      "modelo": "G5",
+      "processador": "Intel Core i7-9750H 2.60ghz",
+      "memoria": "16GB",
+      "armazenamento": "512GB SSD",
+      "placaVideo": "NVidia geforce GTX1650 4gb",
+      "tela": "15.6 polegadas Full HD",
+      "preco": 3590.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook9-1.jpeg",
+        "/images/notebook9-2.jpeg",
+        "/images/notebook9-3.jpeg"
+      ]
+    },
+     {
+      "id": 10,
+      "titulo": "Notebook Gamer Dell G5",
+      "marca": "Dell",
+      "modelo": "G5",
+      "processador": "Intel Core i7-9750H 2.60ghz",
+      "memoria": "16GB",
+      "armazenamento": "512GB SSD",
+      "placaVideo": "NVidia geforce GTX1650 4gb",
+      "tela": "15.6 polegadas Full HD",
+      "preco": 3590.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook10-1.jpeg",
+        "/images/notebook10-2.jpeg",
+        "/images/notebook10-3.jpeg"
+      ]
+    },
+     {
+      "id": 11,
+      "titulo": "Notebook Gamer Dell G5",
+      "marca": "Dell",
+      "modelo": "G5",
+      "processador": "Intel Core i7-9750H 2.60ghz",
+      "memoria": "16GB",
+      "armazenamento": "512GB SSD",
+      "placaVideo": "NVidia geforce GTX1650 4gb",
+      "tela": "15.6 polegadas Full HD",
+      "preco": 3590.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook11-1.jpeg",
+        "/images/notebook11-2.jpeg",
+        "/images/notebook11-3.jpeg"
+      ]
+    },
+     {
+      "id": 12,
+      "titulo": "Notebook Gamer Dell G5",
+      "marca": "Dell",
+      "modelo": "G5",
+      "processador": "Intel Core i7-9750H 2.60ghz",
+      "memoria": "16GB",
+      "armazenamento": "512GB SSD",
+      "placaVideo": "NVidia geforce GTX1650 4gb",
+      "tela": "15.6 polegadas Full HD",
+      "preco": 3590.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook12-1.jpeg",
+        "/images/notebook12-2.jpeg",
+        "/images/notebook12-3.jpeg"
+      ]
+    },
+     {
+      "id": 13,
+      "titulo": "Notebook Gamer Dell G5",
+      "marca": "Dell",
+      "modelo": "G5",
+      "processador": "Intel Core i7-9750H 2.60ghz",
+      "memoria": "16GB",
+      "armazenamento": "512GB SSD",
+      "placaVideo": "NVidia geforce GTX1650 4gb",
+      "tela": "15.6 polegadas Full HD",
+      "preco": 3590.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook13-1.jpeg",
+        "/images/notebook13-2.jpeg",
+        "/images/notebook13-3.jpeg"
+      ]
+    },
+     {
+      "id": 14,
+      "titulo": "Notebook Gamer Dell G5",
+      "marca": "Dell",
+      "modelo": "G5",
+      "processador": "Intel Core i7-9750H 2.60ghz",
+      "memoria": "16GB",
+      "armazenamento": "512GB SSD",
+      "placaVideo": "NVidia geforce GTX1650 4gb",
+      "tela": "15.6 polegadas Full HD",
+      "preco": 3590.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook14-1.jpeg",
+        "/images/notebook14-2.jpeg",
+        "/images/notebook14-3.jpeg"
+      ]
+    },
+     {
+      "id": 15,
+      "titulo": "Notebook Gamer Dell G5",
+      "marca": "Dell",
+      "modelo": "G5",
+      "processador": "Intel Core i7-9750H 2.60ghz",
+      "memoria": "16GB",
+      "armazenamento": "512GB SSD",
+      "placaVideo": "NVidia geforce GTX1650 4gb",
+      "tela": "15.6 polegadas Full HD",
+      "preco": 3590.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook15-1.jpeg",
+        "/images/notebook15-2.jpeg",
+        "/images/notebook15-3.jpeg"
+      ]
+    },
+     {
+      "id": 16,
+      "titulo": "Notebook Gamer Dell G5",
+      "marca": "Dell",
+      "modelo": "G5",
+      "processador": "Intel Core i7-9750H 2.60ghz",
+      "memoria": "16GB",
+      "armazenamento": "512GB SSD",
+      "placaVideo": "NVidia geforce GTX1650 4gb",
+      "tela": "15.6 polegadas Full HD",
+      "preco": 3590.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook16-1.jpeg",
+        "/images/notebook16-2.jpeg",
+        "/images/notebook16-3.jpeg"
+      ]
+    },
+     {
+      "id": 17,
+      "titulo": "Notebook Gamer Dell G5",
+      "marca": "Dell",
+      "modelo": "G5",
+      "processador": "Intel Core i7-9750H 2.60ghz",
+      "memoria": "16GB",
+      "armazenamento": "512GB SSD",
+      "placaVideo": "NVidia geforce GTX1650 4gb",
+      "tela": "15.6 polegadas Full HD",
+      "preco": 3590.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook17-1.jpeg",
+        "/images/notebook17-2.jpeg",
+        "/images/notebook17-3.jpeg"
+      ]
+    },
+     {
+      "id": 18,
+      "titulo": "Notebook Gamer Dell G5",
+      "marca": "Dell",
+      "modelo": "G5",
+      "processador": "Intel Core i7-9750H 2.60ghz",
+      "memoria": "16GB",
+      "armazenamento": "512GB SSD",
+      "placaVideo": "NVidia geforce GTX1650 4gb",
+      "tela": "15.6 polegadas Full HD",
+      "preco": 3590.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook18-1.jpeg",
+        "/images/notebook18-2.jpeg",
+        "/images/notebook18-3.jpeg"
+      ]
+    },
+     {
+      "id": 19,
+      "titulo": "Notebook Gamer Dell G5",
+      "marca": "Dell",
+      "modelo": "G5",
+      "processador": "Intel Core i7-9750H 2.60ghz",
+      "memoria": "16GB",
+      "armazenamento": "512GB SSD",
+      "placaVideo": "NVidia geforce GTX1650 4gb",
+      "tela": "15.6 polegadas Full HD",
+      "preco": 3590.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook19-1.jpeg",
+        "/images/notebook19-2.jpeg",
+        "/images/notebook19-3.jpeg"
+      ]
+    },
+     {
+      "id": 20,
+      "titulo": "Notebook Gamer Dell G5",
+      "marca": "Dell",
+      "modelo": "G5",
+      "processador": "Intel Core i7-9750H 2.60ghz",
+      "memoria": "16GB",
+      "armazenamento": "512GB SSD",
+      "placaVideo": "NVidia geforce GTX1650 4gb",
+      "tela": "15.6 polegadas Full HD",
+      "preco": 3590.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook20-1.jpeg",
+        "/images/notebook20-2.jpeg",
+        "/images/notebook20-3.jpeg"
+      ]
+    },
+     {
+      "id": 21,
+      "titulo": "Notebook Gamer Dell G5",
+      "marca": "Dell",
+      "modelo": "G5",
+      "processador": "Intel Core i7-9750H 2.60ghz",
+      "memoria": "16GB",
+      "armazenamento": "512GB SSD",
+      "placaVideo": "NVidia geforce GTX1650 4gb",
+      "tela": "15.6 polegadas Full HD",
+      "preco": 3590.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook21-1.jpeg",
+        "/images/notebook21-2.jpeg",
+        "/images/notebook21-3.jpeg"
+      ]
+    },
+     {
+      "id": 22,
+      "titulo": "Notebook Gamer Dell G5",
+      "marca": "Dell",
+      "modelo": "G5",
+      "processador": "Intel Core i7-9750H 2.60ghz",
+      "memoria": "16GB",
+      "armazenamento": "512GB SSD",
+      "placaVideo": "NVidia geforce GTX1650 4gb",
+      "tela": "15.6 polegadas Full HD",
+      "preco": 3590.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook22-1.jpeg",
+        "/images/notebook22-2.jpeg",
+        "/images/notebook22-3.jpeg"
+      ]
+    },
+     {
+      "id": 23,
+      "titulo": "Notebook Gamer Dell G5",
+      "marca": "Dell",
+      "modelo": "G5",
+      "processador": "Intel Core i7-9750H 2.60ghz",
+      "memoria": "16GB",
+      "armazenamento": "512GB SSD",
+      "placaVideo": "NVidia geforce GTX1650 4gb",
+      "tela": "15.6 polegadas Full HD",
+      "preco": 3590.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook23-1.jpeg",
+        "/images/notebook23-2.jpeg",
+        "/images/notebook23-3.jpeg"
+      ]
+    },
+    {
+      "id": 24,
+      "titulo": "Notebook Dell Vostro 5470",
+      "marca": "Dell",
+      "modelo": "Vostro 547",
+      "processador": "Intel i5-4510U 2.60ghz",
+      "memoria": "8GB",
+      "armazenamento": "240GB SSD",
+      "placaVideo": "NVidia Geforce 730M 2gb",
+      "tela": "14 polegadas",
+      "preco": 1540.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook24-1.jpeg",
+        "/images/notebook24-2.jpeg",
+        "/images/notebook24-3.jpeg"
       ]
     }
   ],
