@@ -33,7 +33,7 @@ header {
 
 .logo img {
   width: 200px;
-  height: 80px;
+  height: auto;
   object-fit: contain;
   object-position: center;
 }
