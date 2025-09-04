@@ -34,10 +34,10 @@ header {
 }
 
 .logo img {
-  max-height: 80px;           /* nunca passa disso */
-  width: auto;                /* mantém proporção */
-  height: auto;               /* mantém proporção */
-  object-fit: contain;        /* sem cortes */
+  max-height: 80px !important;
+  width: auto !important;
+  height: auto !important;
+  object-fit: contain !important;
 }
 
 /* Responsivo para telas menores */
