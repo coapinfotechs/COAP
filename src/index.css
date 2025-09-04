@@ -8,7 +8,7 @@ body {
   background: linear-gradient(135deg, #358ac7, #50c878);
 }
 
-.some-text  {
+.some-text {
   color: white !important;
 }
 
@@ -22,25 +22,28 @@ header {
 
 .header-container {
   display: flex;
-  align-items: center
+  align-items: center;        /* corrigido com ; */
   justify-content: space-between;
-  height: auto;          
+  height: auto;
 }
 
 .logo {
-  height: auto;
-  max-height: 80px;      
+  display: flex;
+  align-items: center;
+  max-height: 80px;           /* limite da logo */
 }
 
 .logo img {
-  width: auto;           
-  height: 100%;          
-  object-fit: contain;   
+  max-height: 80px;           /* nunca passa disso */
+  width: auto;                /* mantém proporção */
+  height: auto;               /* mantém proporção */
+  object-fit: contain;        /* sem cortes */
 }
+
 /* Responsivo para telas menores */
 @media (max-width: 768px) {
   .logo img {
-    max-width: 200px;      /* ajuste para mobile */
+    max-width: 200px;         /* ajuste para mobile */
     height: auto;
   }
 }
