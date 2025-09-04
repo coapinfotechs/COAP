@@ -21,32 +21,22 @@ header {
 }
 
 .header-container {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 1rem;
   display: flex;
-  align-items: center;
+  align-items: center
   justify-content: space-between;
+  height: auto;          
 }
 
-/* ===== LOGO ===== */
 .logo {
-  display: flex;
-  align-items: center;      /* centraliza verticalmente */
-  justify-content: flex-start; /* ou center se quiser centralizar */
-  width: auto;
   height: auto;
+  max-height: 80px;      
 }
 
 .logo img {
-  width: 100%;             /* ocupa todo o container */
-  max-width: 300px;        /* limite máximo opcional */
-  height: auto;            /* mantém proporção */
-  object-fit: contain;     /* garante que a logo inteira apareça */
-  object-position: center;
-  display: block;          /* remove espaço em branco abaixo da imagem */
+  width: auto;           
+  height: 100%;          
+  object-fit: contain;   
 }
-
 /* Responsivo para telas menores */
 @media (max-width: 768px) {
   .logo img {
