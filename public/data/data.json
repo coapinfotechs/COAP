@@ -1,25 +1,6 @@
 {
   "notebooks": [
-    {
-      "id": 2,
-      "titulo": "Notebook Samsung Book i3-1115G4",
-      "marca": "Samsung",
-      "modelo": "Book",
-      "processador": "Intel core i3-1115G4  3.00 ghz",
-      "memoria": "8GB",
-      "armazenamento": "256GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "15,6 polegadas FHD",
-      "preco": 1940.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 11 pro ativado Pacote office ativado Acompanha carregador original ",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook2-1.jpeg",
-        "/images/notebook2-2.jpeg",
-        "/images/notebook2-3.jpeg"
-      ]
-    },
-    {
+       {
       "id": 3,
       "titulo": "Notebook HP Elitebook",
       "marca": "HP",
@@ -361,26 +342,7 @@
         "/images/notebook22-3.jpeg"
       ]
     },
-     {
-      "id": 23,
-      "titulo": "Notebook Ultrabook Lenovo(TouchScreen) ThinkPad T480",
-      "marca": "Lenovo",
-      "modelo": "Ultrabook ThinkPad T480",
-      "processador": "Intel Core i7-9750H 2.60ghz",
-      "memoria": "8GB",
-      "armazenamento": "256GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "14 polegadas FHD",
-      "preco": 1990.00,
-      "descricao": "Bateria com autonomia média de 2h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook23-1.jpeg",
-        "/images/notebook23-2.jpeg",
-        "/images/notebook23-3.jpeg"
-      ]
-    },
-    {
+         {
       "id": 24,
       "titulo": "Notebook Ultrabook Lenovo (TouchScreen) ThinkPad T470",
       "marca": "Lenovo",
