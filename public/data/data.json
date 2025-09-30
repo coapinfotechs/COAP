@@ -304,6 +304,25 @@
       ]
     },
     {
+      "id": 17,
+      "titulo": "Notebook Dell Latitude 5480",
+      "marca": "Dell",
+      "modelo": "Latitude 5480",
+      "processador": "Intel core i7-6600U 2.60 ghz",
+      "memoria": "16GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Nvme Vídeo",
+      "tela": "14 polegadas",
+      "preco": 1990.00,
+      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook17-1.jpeg",
+        "/images/notebook17-2.jpeg",
+        "/images/notebook17-3.jpeg"
+      ]
+    },
+    {
       "id": 18,
       "titulo": "Notebook Lenovo Intel I5-7200U",
       "marca": "Lenovo",
@@ -396,6 +415,25 @@
         "/images/notebook22-1.jpeg",
         "/images/notebook22-2.jpeg",
         "/images/notebook22-3.jpeg"
+      ]
+    },
+    {
+      "id": 23,
+      "titulo": "Notebook HP 240 G7",
+      "marca": "HP",
+      "modelo": "HP 240 G7",
+      "processador": "Intel i5-8250U 1.60 Ghz",
+      "memoria": "8GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "14 polegadas",
+      "preco": 1690.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook23-1.jpeg",
+        "/images/notebook23-2.jpeg",
+        "/images/notebook23-3.jpeg"
       ]
     },
     {
