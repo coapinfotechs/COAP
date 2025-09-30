@@ -1,66 +1,441 @@
 {
-"notebooks": [
-{
-"id": 1,
-"titulo": "Notebook Dell Inspiron 15",
-"marca": "Dell",
-"modelo": "Dell Inspiron 15",
-"processador": "Intel i7-7500U",
-"memoria": "8GB",
-"armazenamento": "256GB SSD",
-"placaVideo": "Integrada",
-"tela": "15.6 polegadas",
-"preco": 1890.00,
-"descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Acompanha carregador original",
-"estado": "Ótimo",
-"imagens": [
-"/images/notebook1-1.jpeg",
-"/images/notebook1-2.jpeg"
-]
-},
-{
-"id": 2,
-"titulo": "Notebook Dell Vostro 3460",
-"marca": "Dell",
-"modelo": "Dell Vostro 3460",
-"processador": "Intel i7-3632QM",
-"memoria": "8GB",
-"armazenamento": "128GB SSD",
-"placaVideo": "Integrada",
-"tela": "14 polegadas",
-"preco": 1090.00,
-"descricao": "Bateria nova Windows 10 ativado Pacote Office ativado Acompanha carregador original",
-"estado": "Ótimo",
-"imagens": [
-"/images/notebook2-1.jpeg",
-"/images/notebook2-2.jpeg",
-"/images/notebook2-3.jpeg"
-]
-},
-{
-"id": 3,
-"titulo": "Notebook HP Elitebook",
-"marca": "HP",
-"modelo": "Elitebook",
-"processador": "Intel i5-6300U",
-"memoria": "8GB",
-"armazenamento": "128GB SSD",
-"placaVideo": "Integrada",
-"tela": "15.6 polegadas",
-"preco": 1490.00,
-"descricao": "Bateria com autonomia média de 3h Windows 10 ativado Office ativado Acompanha carregador original",
-"estado": "Ótimo",
-"imagens": [
-"/images/notebook3-1.jpeg",
-"/images/notebook3-2.jpeg",
-"/images/notebook3-3.jpeg"
-]
-},
-{
-"id": 4,
-"titulo": "Notebook HP Elitebook",
-"marca": "HP",
-"modelo": "Elitebook",
-"processador": "Intel i5-6300U 2.50 ghz",
-"memoria": "8GB",
+  "notebooks": [
+    {
+      "id": 1,
+      "titulo": "Notebook Dell Inspiron 15",
+      "marca": "Dell",
+      "modelo": "Dell Inspiron 15",
+      "processador": "Intel i7-7500U",
+      "memoria": "8GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "15.6 polegadas",
+      "preco": 1890.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Acompanha carregador original",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook1-1.jpeg",
+        "/images/notebook1-2.jpeg"
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "Notebook Dell Vostro 3460",
+      "marca": "Dell",
+      "modelo": "Dell Vostro 3460",
+      "processador": "Intel i7-3632QM",
+      "memoria": "8GB",
+      "armazenamento": "128GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "14 polegadas",
+      "preco": 1090.00,
+      "descricao": "Bateria nova Windows 10 ativado Pacote Office ativado Acompanha carregador original",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook2-1.jpeg",
+        "/images/notebook2-2.jpeg",
+        "/images/notebook2-3.jpeg"
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "Notebook HP Elitebook",
+      "marca": "HP",
+      "modelo": "Elitebook",
+      "processador": "Intel i5-6300U",
+      "memoria": "8GB",
+      "armazenamento": "128GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "15.6 polegadas",
+      "preco": 1490.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 ativado Office ativado Acompanha carregador original",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook3-1.jpeg",
+        "/images/notebook3-2.jpeg",
+        "/images/notebook3-3.jpeg"
+      ]
+    },
+    {
+      "id": 4,
+      "titulo": "Notebook HP Elitebook",
+      "marca": "HP",
+      "modelo": "Elitebook",
+      "processador": "Intel i5-6300U 2.50 ghz",
+      "memoria": "8GB",
+      "armazenamento": "128GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "14 polegadas",
+      "preco": 1540.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 ativado Office ativado Acompanha carregador original.",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook4-1.jpeg",
+        "/images/notebook4-2.jpeg",
+        "/images/notebook4-3.jpeg"
+      ]
+    },
+    {
+      "id": 5,
+      "titulo": "Notebook HP Elitebook",
+      "marca": "HP",
+      "modelo": "Elitebook",
+      "processador": "Intel i5-8350U 1.90 GHz",
+      "memoria": "8GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "14 polegadas",
+      "preco": 1790.00,
+      "descricao": "Bateria com autonomia média de 3h Pacote office ativado Windows 10 pro ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook5-1.jpeg",
+        "/images/notebook5-2.jpeg",
+        "/images/notebook5-3.jpeg"
+      ]
+    },
+    {
+      "id": 6,
+      "titulo": "Notebook Dell 3420",
+      "marca": "Dell",
+      "modelo": "3420",
+      "processador": "Intel i5-11th",
+      "memoria": "8GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "14 polegadas",
+      "preco": 1990.00,
+      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook6-1.jpeg",
+        "/images/notebook6-2.jpeg",
+        "/images/notebook6-3.jpeg"
+      ]
+    },
+    {
+      "id": 7,
+      "titulo": "Notebook Dell Latitude 7480",
+      "marca": "Dell",
+      "modelo": "Latitude 7480",
+      "processador": "Intel i7-7600u",
+      "memoria": "16GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "14 polegadas",
+      "preco": 1940.00,
+      "descricao": "Bateria com duração média de 3 horas Windows 10 pro ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook7-1.jpeg",
+        "/images/notebook7-2.jpeg",
+        "/images/notebook7-3.jpeg"
+      ]
+    },
+    {
+      "id": 8,
+      "titulo": "Notebook Dell Vostro 5470",
+      "marca": "Dell",
+      "modelo": "Vostro 5470",
+      "processador": "Intel i5-4510U 2.60ghz",
+      "memoria": "8GB",
+      "armazenamento": "240GB SSD",
+      "placaVideo": "NVidia Geforce 730M 2gb",
+      "tela": "14 polegadas",
+      "preco": 1540.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook8-1.jpeg",
+        "/images/notebook8-2.jpeg",
+        "/images/notebook8-3.jpeg"
+      ]
+    },
+    {
+      "id": 9,
+      "titulo": "Notebook Lenovo ThinkPad E14",
+      "marca": "Lenovo",
+      "modelo": "ThinkPad E14",
+      "processador": "AMD Ryzen 3 4300U",
+      "memoria": "8GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "14 polegadas Full HD",
+      "preco": 1840.00,
+      "descricao": "Bateria com autonomia média de 4h Windows 10 pro ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook9-1.jpeg",
+        "/images/notebook9-2.jpeg",
+        "/images/notebook9-3.jpeg"
+      ]
+    },
+    {
+      "id": 10,
+      "titulo": "Notebook Probook G6 Ryzen 7",
+      "marca": "HP",
+      "modelo": "Probook G6",
+      "processador": "AMD Ryzen 7 3700u",
+      "memoria": "8GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "15.6 polegadas Full HD",
+      "preco": 1790.00,
+      "descricao": "Bateria com duração média de 3 horas Pacote Office ativado Windows 11 pro ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook10-1.jpeg",
+        "/images/notebook10-2.jpeg",
+        "/images/notebook10-3.jpeg"
+      ]
+    },
+    {
+      "id": 11,
+      "titulo": "Notebook Ultrabook Lenovo ThinkPad T495",
+      "marca": "Lenovo",
+      "modelo": "ThinkPad T495",
+      "processador": "AMD Ryzen 7 3700u 2.30GHz",
+      "memoria": "16GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "14 polegadas Full HD",
+      "preco": 2390.00,
+      "descricao": "Bateria com duração média de 4h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook11-1.jpeg",
+        "/images/notebook11-2.jpeg",
+        "/images/notebook11-3.jpeg"
+      ]
+    },
+    {
+      "id": 12,
+      "titulo": "Notebook Vaio Intel i3",
+      "marca": "Vaio",
+      "modelo": "Vaio Intel i3",
+      "processador": "Intel i3-6100U 2.30ghz",
+      "memoria": "8GB",
+      "armazenamento": "240GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "15.6 polegadas Full HD",
+      "preco": 1390.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Bom",
+      "imagens": [
+        "/images/notebook12-1.jpeg",
+        "/images/notebook12-2.jpeg",
+        "/images/notebook12-3.jpeg"
+      ]
+    },
+    {
+      "id": 13,
+      "titulo": "Notebook Lenovo ThinkPad E14",
+      "marca": "Lenovo",
+      "modelo": "ThinkPad E14",
+      "processador": "Intel i5-10210U 2.10ghz",
+      "memoria": "16GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "14 polegadas Full HD",
+      "preco": 2240.00,
+      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook13-1.jpeg",
+        "/images/notebook13-2.jpeg",
+        "/images/notebook13-3.jpeg"
+      ]
+    },
+    {
+      "id": 14,
+      "titulo": "Notebook Lenovo ThinkPad E14",
+      "marca": "Lenovo",
+      "modelo": "ThinkPad E14",
+      "processador": "Intel i5-1135G7 2.40ghz",
+      "memoria": "8GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "14 polegadas Full HD",
+      "preco": 2190.00,
+      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook14-1.jpeg",
+        "/images/notebook14-2.jpeg",
+        "/images/notebook14-3.jpeg"
+      ]
+    },
+    {
+      "id": 15,
+      "titulo": "Notebook Lenovo ThinkPad E14",
+      "marca": "Lenovo",
+      "modelo": "ThinkPad E14",
+      "processador": "Intel i5-1135G7 2.40ghz",
+      "memoria": "16GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "14 polegadas Full HD",
+      "preco": 2340.00,
+      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook15-1.jpeg",
+        "/images/notebook15-2.jpeg",
+        "/images/notebook15-3.jpeg"
+      ]
+    },
+    {
+      "id": 16,
+      "titulo": "Notebook Dell Latitude 5470",
+      "marca": "Dell",
+      "modelo": "Latitude 5470",
+      "processador": "Intel core i5-6200U 2.40 ghz",
+      "memoria": "8GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "14 polegadas",
+      "preco": 1590.00,
+      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook16-1.jpeg",
+        "/images/notebook16-2.jpeg",
+        "/images/notebook16-3.jpeg"
+      ]
+    },
+    {
+      "id": 18,
+      "titulo": "Notebook Lenovo Intel I5-7200U",
+      "marca": "Lenovo",
+      "modelo": "Lenovo I5",
+      "processador": "Intel i5-7200U 2.70 Ghz",
+      "memoria": "12GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "14 polegadas",
+      "preco": 1640.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook18-1.jpeg",
+        "/images/notebook18-2.jpeg",
+        "/images/notebook18-3.jpeg"
+      ]
+    },
+    {
+      "id": 19,
+      "titulo": "Notebook DELL Inspiron Core I3-8th",
+      "marca": "Dell",
+      "modelo": "Inspiron",
+      "processador": "Intel Core I3-8130U 2.20ghz",
+      "memoria": "8GB",
+      "armazenamento": "240GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "14 polegadas",
+      "preco": 1690.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook19-1.jpeg",
+        "/images/notebook19-2.jpeg",
+        "/images/notebook19-3.jpeg"
+      ]
+    },
+    {
+      "id": 20,
+      "titulo": "Notebook HP G7 i3-10th",
+      "marca": "HP",
+      "modelo": "G7",
+      "processador": "Intel core i3-1005G1",
+      "memoria": "8GB",
+      "armazenamento": "240GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "14 polegadas",
+      "preco": 1790.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook20-1.jpeg",
+        "/images/notebook20-2.jpeg",
+        "/images/notebook20-3.jpeg"
+      ]
+    },
+    {
+      "id": 21,
+      "titulo": "Notebook Dell Vostro i3-10th",
+      "marca": "Dell",
+      "modelo": "Vostro",
+      "processador": "Intel core i3-1005G1",
+      "memoria": "8GB",
+      "armazenamento": "240GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "15.6 polegadas",
+      "preco": 1640.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook21-1.jpeg",
+        "/images/notebook21-2.jpeg",
+        "/images/notebook21-3.jpeg"
+      ]
+    },
+    {
+      "id": 22,
+      "titulo": "Notebook HP Elitebook Intel I5-7200U",
+      "marca": "HP",
+      "modelo": "Elitebook",
+      "processador": "Intel i5-7200U 2.70 Ghz",
+      "memoria": "8GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "NVidia geforce GTX1650 4gb",
+      "tela": "14 polegadas FHD",
+      "preco": 3590.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook22-1.jpeg",
+        "/images/notebook22-2.jpeg",
+        "/images/notebook22-3.jpeg"
+      ]
+    },
+    {
+      "id": 24,
+      "titulo": "Notebook Ultrabook Lenovo (TouchScreen) ThinkPad T470",
+      "marca": "Lenovo",
+      "modelo": "Ultrabook ThinkPad T470",
+      "processador": "Intel core i5-6300U 2.50GHz",
+      "memoria": "8GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "Tela LED 14' antireflexo e HD",
+      "preco": 1840.00,
+      "descricao": "2 baterias (uma interna e outra externa) com duração aproximada de 1:30h pra cada, somando assim duração média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook24-1.jpeg",
+        "/images/notebook24-2.jpeg",
+        "/images/notebook24-3.jpeg"
+      ]
+    }
+  ],
+  "redesSociais": {
+    "instagram": "https://instagram.com/coapinfotech",
+    "whatsapp": "https://wa.me/5535998428761",
+    "facebook": "https://facebook.com/coapinfotech",
+    "email": "coapinfotech@gmail.com"
+  },
+  "avaliacoes": [
+    "/images/avaliacao-1.png",
+    "/images/avaliacao-2.png",
+    "/images/avaliacao-3.png",
+    "/images/avaliacao-4.png",
+    "/images/avaliacao-5.png",
+    "/images/avaliacao-6.png",
+    "/images/avaliacao-7.png",
+    "/images/avaliacao-8.png",
+    "/images/avaliacao-9.png",
+    "/images/avaliacao-10.png"
+  ]
 }
+
+  
