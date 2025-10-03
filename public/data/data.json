@@ -20,17 +20,17 @@
     },
     {
       "id": 2,
-      "titulo": "Notebook Dell Vostro 3460",
-      "marca": "Dell",
-      "modelo": "Dell Vostro 3460",
-      "processador": "Intel i7-3632QM",
-      "memoria": "8GB",
-      "armazenamento": "128GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "14 polegadas",
-      "preco": 1090.00,
-      "descricao": "Bateria nova Windows 10 ativado Pacote Office ativado Acompanha carregador original",
-      "estado": "Ótimo",
+      "titulo": "Notebook Gamer Acer Nitro 5",
+      "marca": "Acer",
+      "modelo": "Nitro 5",
+      "processador": "Intel Core i5-11400H",
+      "memoria": "16GB",
+      "armazenamento": "1TB SSD",
+      "placaVideo": "Vídeo dedicado NVidia geforce GTX1650 4gb",
+      "tela": "15.6 polegadas Full HD 144 hz",
+      "preco": 3590.00,
+      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Pacote Office ativado Acompanha carregador original",
+      "estado": "Excelente",
       "imagens": [
         "/images/notebook2-1.jpeg",
         "/images/notebook2-2.jpeg",
@@ -208,26 +208,7 @@
         "/images/notebook11-3.jpeg"
       ]
     },
-    {
-      "id": 12,
-      "titulo": "Notebook Vaio Intel i3",
-      "marca": "Vaio",
-      "modelo": "Vaio Intel i3",
-      "processador": "Intel i3-6100U 2.30ghz",
-      "memoria": "8GB",
-      "armazenamento": "240GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "15.6 polegadas Full HD",
-      "preco": 1390.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
-      "estado": "Bom",
-      "imagens": [
-        "/images/notebook12-1.jpeg",
-        "/images/notebook12-2.jpeg",
-        "/images/notebook12-3.jpeg"
-      ]
-    },
-    {
+        {
       "id": 13,
       "titulo": "Notebook Lenovo ThinkPad E14",
       "marca": "Lenovo",
