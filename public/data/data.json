@@ -511,6 +511,25 @@
         "/images/notebook27-2.jpeg",
         "/images/notebook27-3.jpeg"
       ]
+    },
+    {
+      "id": 28,
+      "titulo": "Notebook Ultrabook Lenovo ThinkPad T495 Ryzen 7 3700u",
+      "marca": "Lenovo",
+      "modelo": "Ryzen 7 3700u",
+      "processador": "Ryzen 7 3700u 2.30Ghz",
+      "memoria": "16GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "AMD Radeon Vega 10",
+      "tela": "Tela 14' FHD ",
+      "preco": 2390.00,
+      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook28-1.jpeg",
+        "/images/notebook28-2.jpeg",
+        "/images/notebook28-3.jpeg"
+      ]
     }
   ],
   "redesSociais": {
