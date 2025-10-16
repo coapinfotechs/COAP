@@ -208,6 +208,25 @@
         "/images/notebook11-3.jpeg"
       ]
     },
+            {
+      "id": 12,
+      "titulo": "Notebook Dell Latitude 3420",
+      "marca": "Dell",
+      "modelo": "Latitude 3420",
+      "processador": "Intel i7-1165G7 2.80ghz",
+      "memoria": "16GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Intel Iris Xe graphics",
+      "tela": "14 polegadas Full HD",
+      "preco": 2590.00,
+      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook12-1.jpeg",
+        "/images/notebook12-2.jpeg",
+        "/images/notebook12-3.jpeg"
+      ]
+    }
         {
       "id": 13,
       "titulo": "Notebook Lenovo ThinkPad E14",
@@ -434,6 +453,63 @@
         "/images/notebook24-1.jpeg",
         "/images/notebook24-2.jpeg",
         "/images/notebook24-3.jpeg"
+      ]
+    },
+       {
+      "id": 25,
+      "titulo": "Notebook Asus Vivobook i3-N305",
+      "marca": "Asus",
+      "modelo": "Vivobook i3-N305",
+      "processador": "Intel core i3-N305 1.8 ghz",
+      "memoria": "4GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "15.6 FHD",
+      "preco": 1790.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook25-1.jpeg",
+        "/images/notebook25-2.jpeg",
+        "/images/notebook25-3.jpeg"
+      ]
+    },
+       {
+      "id": 26,
+      "titulo": "Notebook Asus X451CA I3-3217U",
+      "marca": "Asus",
+      "modelo": "X451CA",
+      "processador": "Intel core i3-3217U 1.80 GHz",
+      "memoria": "8GB",
+      "armazenamento": "128GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "Tela LED 14' ",
+      "preco": 1040.00,
+      "descricao": "Bateria Nova Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook26-1.jpeg",
+        "/images/notebook26-2.jpeg",
+        "/images/notebook26-3.jpeg"
+      ]
+    },
+       {
+      "id": 27,
+      "titulo": "Notebook HP G6 Intel I5-7200U ",
+      "marca": "HP",
+      "modelo": "G6",
+      "processador": "Intel core i5-7200U 2.70GHz",
+      "memoria": "8GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "Tela 14' ",
+      "preco": 1540.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook27-1.jpeg",
+        "/images/notebook27-2.jpeg",
+        "/images/notebook27-3.jpeg"
       ]
     }
   ],
