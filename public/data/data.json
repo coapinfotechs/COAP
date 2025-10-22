@@ -530,6 +530,63 @@
         "/images/notebook28-2.jpeg",
         "/images/notebook28-3.jpeg"
       ]
+    },
+    {
+      "id": 29,
+      "titulo": "Notebook Dell Latitude E7450 i5-5300U",
+      "marca": "Dell",
+      "modelo": "Latitude E7450",
+      "processador": "Intel core i5-5300U 2.30 Ghz",
+      "memoria": "8GB",
+      "armazenamento": "240GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "Tela 14'",
+      "preco": 1390.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Bom",
+      "imagens": [
+        "/images/notebook29-1.jpeg",
+        "/images/notebook29-2.jpeg",
+        "/images/notebook29-3.jpeg"
+      ]
+    },
+    {
+      "id": 30,
+      "titulo": "Notebook Acer Aspire i3 M350",
+      "marca": "Acer",
+      "modelo": "Aspire i3",
+      "processador": "Intel Core i3 M350 2.30GHz",
+      "memoria": "4GB",
+      "armazenamento": "128GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "Tela 15.6'",
+      "preco": 990.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook30-1.jpeg",
+        "/images/notebook30-2.jpeg",
+        "/images/notebook30-3.jpeg"
+      ]
+    },
+    {
+      "id": 31,
+      "titulo": "Notebook DELL Inspiron N4050",
+      "marca": "Dell",
+      "modelo": "Inspiron N4050",
+      "processador": "Intel Core I3-2350M 2.30GHz",
+      "memoria": "8GB",
+      "armazenamento": "128GB SSD + 320GB HD",
+      "placaVideo": "Integrada",
+      "tela": "Tela 14' ",
+      "preco": 10400.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook31-1.jpeg",
+        "/images/notebook31-2.jpeg",
+        "/images/notebook31-3.jpeg"
+      ]
     }
   ],
   "redesSociais": {
