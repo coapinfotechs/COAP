@@ -19,25 +19,6 @@
       ]
     },
     {
-      "id": 2,
-      "titulo": "Notebook Gamer Acer Nitro 5",
-      "marca": "Acer",
-      "modelo": "Nitro 5",
-      "processador": "Intel Core i5-11400H",
-      "memoria": "16GB",
-      "armazenamento": "1TB SSD",
-      "placaVideo": "Vídeo dedicado NVidia geforce GTX1650 4gb",
-      "tela": "15.6 polegadas Full HD 144 hz",
-      "preco": 3590.00,
-      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Pacote Office ativado Acompanha carregador original",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook2-1.jpeg",
-        "/images/notebook2-2.jpeg",
-        "/images/notebook2-3.jpeg"
-      ]
-    },
-    {
       "id": 3,
       "titulo": "Notebook HP Elitebook",
       "marca": "HP",
