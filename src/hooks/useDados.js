@@ -10,7 +10,8 @@ export function useDados() {
   const [erro, setErro] = useState(null);
 
   useEffect(() => {
-    fetch("https://raw.githubusercontent.com/coapinfotechs/COAP/main/public/data/data.json")
+    // ✅ Caminho correto para GitHub Pages (usa o domínio atual automaticamente)
+    fetch(`${process.env.PUBLIC_URL || ""}/data/data.json`)
       .then((res) => {
         if (!res.ok) throw new Error("Erro ao carregar dados");
         return res.json();
