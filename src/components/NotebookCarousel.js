@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import NotebookCard from "./NotebookCard";
 import { ChevronLeft, ChevronRight } from "lucide-react";
-import { useDados } from "../hooks/useDados";
 
 function useItemsPerPage() {
   const [itemsPerPage, setItemsPerPage] = useState(getItemsPerPage());
@@ -23,20 +22,19 @@ function useItemsPerPage() {
   return itemsPerPage;
 }
 
-export default function NotebookCarousel() {
-  const { notebooks, loading, erro } = useDados();
+export default function NotebookCarousel({ notebooks = [], loading, erro }) {
   const itemsPerPage = useItemsPerPage();
   const [page, setPage] = useState(0);
 
-  const totalPages = notebooks && notebooks.length > 0
-    ? Math.ceil(notebooks.length / itemsPerPage)
-    : 0;
+  const totalPages =
+    notebooks && notebooks.length > 0
+      ? Math.ceil(notebooks.length / itemsPerPage)
+      : 0;
 
   useEffect(() => {
-    setPage(0); // Sempre volta pra página 0 quando lista ou tela muda
+    setPage(0);
   }, [notebooks, itemsPerPage]);
 
-  // Agora os returns condicionais vêm depois
   if (loading) {
     return <p className="text-center">Carregando notebooks...</p>;
   }
@@ -46,7 +44,7 @@ export default function NotebookCarousel() {
   }
 
   if (!notebooks || notebooks.length === 0) {
-    return <p className="text-center">Nenhum notebook disponível no momento.</p>;
+    return <p className="text-center">Nenhum notebook encontrado.</p>;
   }
 
   const handleNext = () => {
@@ -103,7 +101,6 @@ export default function NotebookCarousel() {
         </button>
       </div>
 
-      {/* Indicadores */}
       <div className="carousel-indicators">
         {Array.from({ length: totalPages }).map((_, index) => (
           <button
