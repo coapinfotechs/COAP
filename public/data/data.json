@@ -19,6 +19,25 @@
       ]
     },
     {
+      "id": 2,
+      "titulo": "Notebook Dell Latitude 3490 Intel i7-8th",
+      "marca": "Dell",
+      "modelo": "Latitude 3490",
+      "processador": "Intel i7-8550U 2.00 Ghz",
+      "memoria": "16GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "14 polegadas",
+      "preco": 1940.00,
+      "descricao": "Bateria com autonomia média de 4h Windows 10 ativado Office ativado Acompanha carregador original",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook2-1.jpeg",
+        "/images/notebook2-2.jpeg",
+        "/images/notebook2-3.jpeg"
+      ]
+    },
+    {
       "id": 3,
       "titulo": "Notebook HP Elitebook",
       "marca": "HP",
@@ -27,7 +46,7 @@
       "memoria": "8GB",
       "armazenamento": "128GB SSD",
       "placaVideo": "Integrada",
-      "tela": "15.6 polegadas",
+      "tela": "14 polegadas",
       "preco": 1490.00,
       "descricao": "Bateria com autonomia média de 3h Windows 10 ativado Office ativado Acompanha carregador original",
       "estado": "Ótimo",
@@ -153,16 +172,16 @@
     },
     {
       "id": 10,
-      "titulo": "Notebook Probook G6 Ryzen 7",
-      "marca": "HP",
-      "modelo": "Probook G6",
-      "processador": "AMD Ryzen 7 3700u",
+      "titulo": "Notebook Lenovo Intel I5-7200U",
+      "marca": "Lenovo",
+      "modelo": "Lenovo Intel I5",
+      "processador": "Intel i5-7200U 2.70 Ghz",
       "memoria": "8GB",
       "armazenamento": "256GB SSD",
       "placaVideo": "Integrada",
-      "tela": "15.6 polegadas Full HD",
-      "preco": 1790.00,
-      "descricao": "Bateria com duração média de 3 horas Pacote Office ativado Windows 11 pro ativado Acompanha carregador original",
+      "tela": "14 polegadas Full HD",
+      "preco": 1490.00,
+      "descricao": "Bateria Nova Pacote Office ativado Windows 10 pro ativado Acompanha carregador original",
       "estado": "Excelente",
       "imagens": [
         "/images/notebook10-1.jpeg",
@@ -389,7 +408,7 @@
       "armazenamento": "256GB SSD",
       "placaVideo": "NVidia geforce GTX1650 4gb",
       "tela": "14 polegadas FHD",
-      "preco": 3590.00,
+      "preco": 1640.00,
       "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
       "estado": "Excelente",
       "imagens": [
