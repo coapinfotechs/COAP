@@ -38,25 +38,6 @@
       ]
     },
     {
-      "id": 3,
-      "titulo": "Notebook HP Elitebook",
-      "marca": "HP",
-      "modelo": "Elitebook",
-      "processador": "Intel i5-6300U",
-      "memoria": "8GB",
-      "armazenamento": "128GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "14 polegadas",
-      "preco": 1490.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 ativado Office ativado Acompanha carregador original",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook3-1.jpeg",
-        "/images/notebook3-2.jpeg",
-        "/images/notebook3-3.jpeg"
-      ]
-    },
-    {
       "id": 4,
       "titulo": "Notebook HP Elitebook",
       "marca": "HP",
@@ -189,26 +170,7 @@
         "/images/notebook11-3.jpeg"
       ]
     },
-    {
-      "id": 12,
-      "titulo": "Notebook Dell Latitude 3420",
-      "marca": "Dell",
-      "modelo": "Latitude 3420",
-      "processador": "Intel i7-1165G7 2.80ghz",
-      "memoria": "16GB",
-      "armazenamento": "256GB SSD",
-      "placaVideo": "Intel Iris Xe graphics",
-      "tela": "14 polegadas Full HD",
-      "preco": 2590.00,
-      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook12-1.jpeg",
-        "/images/notebook12-2.jpeg",
-        "/images/notebook12-3.jpeg"
-      ]
-    },
-    {
+       {
       "id": 13,
       "titulo": "Notebook Lenovo ThinkPad E14",
       "marca": "Lenovo",
@@ -455,26 +417,7 @@
         "/images/notebook25-3.jpeg"
       ]
     },
-       {
-      "id": 26,
-      "titulo": "Samsung rv411 i5 M430",
-      "marca": "Samsung",
-      "modelo": "RV411",
-      "processador": "Intel core i5-M430 2.30 GHz",
-      "memoria": "6GB",
-      "armazenamento": "128GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "14 polegadas",
-      "preco": 890.00,
-      "descricao": "Bateria Nova com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook26-1.jpeg",
-        "/images/notebook26-2.jpeg",
-        "/images/notebook26-3.jpeg"
-      ]
-    },
-       {
+    {
       "id": 27,
       "titulo": "Notebook HP G6 Intel I5-7200U ",
       "marca": "HP",
