@@ -419,15 +419,15 @@
     },
     {
       "id": 27,
-      "titulo": "Notebook HP G6 Intel I5-7200U ",
-      "marca": "HP",
-      "modelo": "G6",
-      "processador": "Intel core i5-7200U 2.70GHz",
+      "titulo": "Notebook Dell Latitude E5470",
+      "marca": "Dell",
+      "modelo": "Latitude E5470",
+      "processador": "Intel core i5-6200U 2.40 ghz",
       "memoria": "8GB",
-      "armazenamento": "256GB SSD",
+      "armazenamento": "240GB SSD",
       "placaVideo": "Integrada",
-      "tela": "Tela 14' ",
-      "preco": 1540.00,
+      "tela": "14 polegadas FHD",
+      "preco": 1590.00,
       "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
       "estado": "Excelente",
       "imagens": [
@@ -472,25 +472,6 @@
         "/images/notebook29-1.jpeg",
         "/images/notebook29-2.jpeg",
         "/images/notebook29-3.jpeg"
-      ]
-    },
-    {
-      "id": 31,
-      "titulo": "Notebook DELL Inspiron N4050",
-      "marca": "Dell",
-      "modelo": "Inspiron N4050",
-      "processador": "Intel Core I3-2350M 2.30GHz",
-      "memoria": "8GB",
-      "armazenamento": "128GB SSD + 320GB HD",
-      "placaVideo": "Integrada",
-      "tela": "Tela 14' ",
-      "preco": 1040.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook31-1.jpeg",
-        "/images/notebook31-2.jpeg",
-        "/images/notebook31-3.jpeg"
       ]
     }
   ],
