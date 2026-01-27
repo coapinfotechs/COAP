@@ -473,6 +473,24 @@
         "/images/notebook25-2.jpeg",
         "/images/notebook25-3.jpeg"
       ]
+      {
+      "id": 26,
+      "titulo": "Notebook Dell Vostro",
+      "marca": "Dell",
+      "modelo": "Vostro",
+      "processador": "Core I3-8thz",
+      "memoria": "8GB",
+      "armazenamento": "256GB",
+      "placaVideo": "Integrada",
+      "tela": "14 polegadas",
+      "preco": 1590.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Bom",
+      "imagens": [
+        "/images/notebook26-1.jpeg",
+        "/images/notebook26-2.jpeg",
+        "/images/notebook26-3.jpeg"
+      ]
     },
     {
       "id": 27,
@@ -529,6 +547,25 @@
         "/images/notebook29-1.jpeg",
         "/images/notebook29-2.jpeg",
         "/images/notebook29-3.jpeg"
+      ]
+    },
+    {
+      "id": 30,
+      "titulo": "Notebook Gamer thinkpad T480",
+      "marca": "Lenovo",
+      "modelo": "Thinkpad T480",
+      "processador": "Intel i7-8650U",
+      "memoria": "16GB",
+      "armazenamento": "2256GB SSD",
+      "placaVideo": "Nvidia MX190 2gb",
+      "tela": "Tela 14 FHD",
+      "preco": 2190.00,
+      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook30-1.jpeg",
+        "/images/notebook30-2.jpeg",
+        "/images/notebook30-3.jpeg"
       ]
     }
   ],
