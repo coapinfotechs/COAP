@@ -551,21 +551,40 @@
     },
     {
       "id": 30,
-      "titulo": "Notebook Gamer thinkpad T480",
+      "titulo": "Notebook Lenovo Ryzen 5 7520U",
       "marca": "Lenovo",
-      "modelo": "Thinkpad T480",
-      "processador": "Intel i7-8650U",
-      "memoria": "16GB",
-      "armazenamento": "2256GB SSD",
-      "placaVideo": "Nvidia MX190 2gb",
-      "tela": "Tela 14 FHD",
-      "preco": 2190.00,
+      "modelo": "Ryzen 5",
+      "processador": "AMD Ryzen 5 7520",
+      "memoria": "8GB LDDR5",
+      "armazenamento": "256GB nvme",
+      "placaVideo": "Integrada",
+      "tela": "Tela 15.6",
+      "preco": 2240.00,
       "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
       "estado": "Excelente",
       "imagens": [
         "/images/notebook30-1.jpeg",
         "/images/notebook30-2.jpeg",
         "/images/notebook30-3.jpeg"
+      ]
+    },
+     {
+      "id": 31,
+      "titulo": "Notebook Dell i5 11th",
+      "marca": "Dell",
+      "modelo": "Dell i5",
+      "processador": "Intel i5-1135G7 2.40ghz",
+      "memoria": "16GB",
+      "armazenamento": "256GB nvme",
+      "placaVideo": "Intel iris Xe",
+      "tela": "Tela 15.6",
+      "preco": 2490.00,
+      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook31-1.jpeg",
+        "/images/notebook31-2.jpeg",
+        "/images/notebook31-3.jpeg"
       ]
     }
   ],
