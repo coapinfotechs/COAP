@@ -587,6 +587,25 @@
         "/images/notebook31-2.jpeg",
         "/images/notebook31-3.jpeg"
       ]
+    },
+    {
+      "id": 32,
+      "titulo": "Notebook Lenovo Z470",
+      "marca": "Lenovo",
+      "modelo": "Z470",
+      "processador": "i5 2410M 2.40 ghz",
+      "memoria": "8GB",
+      "armazenamento": "120GB",
+      "placaVideo": "Integrada",
+      "tela": "Tela 14",
+      "preco": 990.00,
+      "descricao": "Bateria com autonomia média de 1:30h Windows 10 pro ativado Pacote office ativado Acompanha carregador",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook32-1.jpeg",
+        "/images/notebook32-2.jpeg",
+        "/images/notebook32-3.jpeg"
+      ]
     }
   ],
   "redesSociais": {
