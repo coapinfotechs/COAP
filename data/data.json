@@ -172,16 +172,16 @@
     },
     {
       "id": 10,
-      "titulo": "Notebook Lenovo ThinkPad E14",
-      "marca": "Lenovo",
-      "modelo": "ThinkPad E14",
-      "processador": "AMD Ryzen 5 5500U",
+      "titulo": "Notebook HP Elitebook Intel I7-6600U",
+      "marca": "HP",
+      "modelo": "Elitebook",
+      "processador": "Intel i7-6600U 2.80 Ghz vpro",
       "memoria": "16GB",
       "armazenamento": "256GB SSD",
       "placaVideo": "Integrada",
-      "tela": "14 polegadas Full HD",
-      "preco": 2090.00,
-      "descricao": "Bateria com autonomia média de 4h Windows 10 pro ativado Acompanha carregador original",
+      "tela": "15,6 polegadas",
+      "preco": 1890.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Acompanha carregador original",
       "estado": "Excelente",
       "imagens": [
         "/images/notebook10-1.jpeg",
@@ -378,8 +378,8 @@
         "/images/notebook20-2.jpeg",
         "/images/notebook20-3.jpeg"
       ]
-     },
-      {
+    },
+    {
       "id": 21,
       "titulo": "Notebook Dell Vostro i3-10th",
       "marca": "Dell",
@@ -415,6 +415,25 @@
         "/images/notebook22-1.jpeg",
         "/images/notebook22-2.jpeg",
         "/images/notebook22-3.jpeg"
+      ]
+    },
+    {
+      "id": 23,
+      "titulo": "Notebook HP Elitebook Intel i5-6300U",
+      "marca": "HP",
+      "modelo": "Elitebook",
+      "processador": "Intel i5-6300U 2.50 ghz",
+      "memoria": "8GB",
+      "armazenamento": "SSD 128GB Nvme",
+      "placaVideo": "Integrada",
+      "tela": "14 polegadas",
+      "preco": 1490.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook23-1.jpeg",
+        "/images/notebook23-2.jpeg",
+        "/images/notebook23-3.jpeg"
       ]
     },
     {
