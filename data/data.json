@@ -96,17 +96,17 @@
     },
     {
       "id": 6,
-      "titulo": "Notebook Lenovo Ideapad Celeron N4020",
+      "titulo": "Notebook Lenovo ThinkPad T440p",
       "marca": "Lenovo",
-      "modelo": "Ideapad",
-      "processador": "Intel Celeron",
+      "modelo": "ThinkPad T440p",
+      "processador": "Intel Core i5-4200M 2.60GHz",
       "memoria": "8GB",
       "armazenamento": "256GB SSD",
       "placaVideo": "Integrada",
-      "tela": "15.6 polegadas",
-      "preco": 1390.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
-      "estado": "Excelente",
+      "tela": "14 polegadas",
+      "preco": 1190.00,
+      "descricao": "Bateria com autonomia média de 1:30h Windows 10 pro ativado Pacote office ativado Acompanha carregador",
+      "estado": "Bom",
       "imagens": [
         "/images/notebook6-1.jpeg",
         "/images/notebook6-2.jpeg",
@@ -586,25 +586,6 @@
         "/images/notebook31-1.jpeg",
         "/images/notebook31-2.jpeg",
         "/images/notebook31-3.jpeg"
-      ]
-    },
-    {
-      "id": 32,
-      "titulo": "Notebook Lenovo Z470",
-      "marca": "Lenovo",
-      "modelo": "Z470",
-      "processador": "i5 2410M 2.40 ghz",
-      "memoria": "8GB",
-      "armazenamento": "120GB",
-      "placaVideo": "Integrada",
-      "tela": "Tela 14",
-      "preco": 990.00,
-      "descricao": "Bateria com autonomia média de 1:30h Windows 10 pro ativado Pacote office ativado Acompanha carregador",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook32-1.jpeg",
-        "/images/notebook32-2.jpeg",
-        "/images/notebook32-3.jpeg"
       ]
     }
   ],
