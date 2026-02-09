@@ -38,25 +38,6 @@
       ]
     },
     {
-      "id": 3,
-      "titulo": "Notebook Dell Latitude 7480",
-      "marca": "Dell",
-      "modelo": "Latitude 7480",
-      "processador": "Intel i7-7600U 2.90 GHz",
-      "memoria": "16GB",
-      "armazenamento": "256GB SSD",
-      "placaVideo": "Integrada ",
-      "tela": "14 polegadas",
-      "preco": 1940.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Office ativado Acompanha carregador original",
-      "estado": "Bom",
-      "imagens": [
-        "/images/notebook3-1.jpeg",
-        "/images/notebook3-2.jpeg",
-        "/images/notebook3-3.jpeg"
-      ]
-    },
-    {
       "id": 4,
       "titulo": "Notebook HP Elitebook",
       "marca": "HP",
@@ -151,26 +132,7 @@
         "/images/notebook8-3.jpeg"
       ]
     },
-     {
-      "id": 9,
-      "titulo": "Notebook Gamer Acer Nitro 5",
-      "marca": "Acer",
-      "modelo": "Nitro 5",
-      "processador": "Intel Core i5-10300H 10th",
-      "memoria": "16GB",
-      "armazenamento": "512GB SSD",
-      "placaVideo": "NVidia geforce GTX1650 4gb",
-      "tela": "Super tela de 17' Full HD 144 hz 3ms",
-      "preco": 3590.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook9-1.jpeg",
-        "/images/notebook9-2.jpeg",
-        "/images/notebook9-3.jpeg"
-      ]
-    },
-    {
+        {
       "id": 10,
       "titulo": "Notebook HP Elitebook Intel I7-6600U",
       "marca": "HP",
@@ -320,25 +282,6 @@
         "/images/notebook17-1.jpeg",
         "/images/notebook17-2.jpeg",
         "/images/notebook17-3.jpeg"
-      ]
-    },
-    {
-      "id": 18,
-      "titulo": "Notebook Dell Latitude E5470",
-      "marca": "Dell",
-      "modelo": "Latitude E5470",
-      "processador": "Intel i7-6600U 2.80 Ghz vpro",
-      "memoria": "16GB",
-      "armazenamento": "256GB SSD",
-      "placaVideo": "AMD Radeon R7 M360 2gb",
-      "tela": "14 FHD",
-      "preco": 2090.00,
-      "descricao": "Bateria com autonomia média de 4h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook18-1.jpeg",
-        "/images/notebook18-2.jpeg",
-        "/images/notebook18-3.jpeg"
       ]
     },
     {
@@ -587,27 +530,7 @@
         "/images/notebook31-2.jpeg",
         "/images/notebook31-3.jpeg"
       ]
-    },
-        {
-      "id": 32,
-      "titulo": "Notebook Gamer ThinkPad T480",
-      "marca": "Lenovo",
-      "modelo": "ThinkPad T480",
-      "processador": "Intel i7-8650U",
-      "memoria": "16GB",
-      "armazenamento": "256GB SSD",
-      "placaVideo": "Nvidia MX130 2gb",
-      "tela": "Tela 14 FHD",
-      "preco": 2190.00,
-      "descricao": "Bateria com autonomia média de 4h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook32-1.jpeg",
-        "/images/notebook32-2.jpeg",
-        "/images/notebook32-3.jpeg"
-      ]
-    },
-        {
+      {
       "id": 33,
       "titulo": "Notebook ACER Aspire I3 8th",
       "marca": "Acer",
