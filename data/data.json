@@ -494,25 +494,6 @@
       ]
     },
     {
-      "id": 30,
-      "titulo": "Notebook Lenovo Ryzen 5 7520U",
-      "marca": "Lenovo",
-      "modelo": "Ryzen 5",
-      "processador": "AMD Ryzen 5 7520",
-      "memoria": "8GB LDDR5",
-      "armazenamento": "256GB nvme",
-      "placaVideo": "Integrada",
-      "tela": "Tela 15.6",
-      "preco": 2240.00,
-      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook30-1.jpeg",
-        "/images/notebook30-2.jpeg",
-        "/images/notebook30-3.jpeg"
-      ]
-    },
-     {
       "id": 31,
       "titulo": "Notebook Dell i5 11th",
       "marca": "Dell",
