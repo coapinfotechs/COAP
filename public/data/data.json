@@ -95,6 +95,25 @@
       ]
     },
     {
+      "id": 6,
+      "titulo": "Notebook Dell Inspiron N5010",
+      "marca": "Dell",
+      "modelo": "N5010",
+      "processador": "Intel i5 M480 2.70 ghz",
+      "memoria": "6GB",
+      "armazenamento": "120GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "15.6",
+      "preco": 990.00,
+      "descricao": "Bateria com duração média de 3 horas Windows 10 pro ativado Acompanha carregador original",
+      "estado": "Bom",
+      "imagens": [
+        "/images/notebook6-1.jpeg",
+        "/images/notebook6-2.jpeg",
+        "/images/notebook6-3.jpeg"
+      ]
+    },
+    {
       "id": 7,
       "titulo": "Notebook Dell Latitude E5470",
       "marca": "Dell",
@@ -132,6 +151,25 @@
         "/images/notebook8-3.jpeg"
       ]
     },
+    {
+      "id": 9,
+      "titulo": "Notebook HP 240 G7",
+      "marca": "HP",
+      "modelo": "240 G7",
+      "processador": "Intel i5-8250U 1.60 Ghz pro",
+      "memoria": "8GB",
+      "armazenamento": "128GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "14 polegadas",
+      "preco": 1490.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Acompanha carregador original",
+      "estado": "Bom",
+      "imagens": [
+        "/images/notebook9-1.jpeg",
+        "/images/notebook9-2.jpeg",
+        "/images/notebook9-3.jpeg"
+      ]
+    },
         {
       "id": 10,
       "titulo": "Notebook HP Elitebook Intel I7-6600U",
@@ -149,6 +187,25 @@
         "/images/notebook10-1.jpeg",
         "/images/notebook10-2.jpeg",
         "/images/notebook10-3.jpeg"
+      ]
+    },
+    {
+      "id": 11,
+      "titulo": "Notebook Samsung RV511",
+      "marca": "Samsung",
+      "modelo": "RV511",
+      "processador": " Intel i3 M380 2.50 ghz",
+      "memoria": "6GB",
+      "armazenamento": "120GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "15.6 polegadas",
+      "preco": 890.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Bom",
+      "imagens": [
+        "/images/notebook11-1.jpeg",
+        "/images/notebook11-2.jpeg",
+        "/images/notebook11-3.jpeg"
       ]
     },
     {
