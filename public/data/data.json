@@ -323,6 +323,25 @@
       ]
     },
     {
+      "id": 18,
+      "titulo": "Notebook Dell Latitude E5420",
+      "marca": "Dell",
+      "modelo": "Latitude E5420",
+      "processador": "Intel Core i5 2520M 2.50 ghz",
+      "memoria": "8GB",
+      "armazenamento": "120GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "14 polegadas",
+      "preco": 990.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook18-1.jpeg",
+        "/images/notebook18-2.jpeg",
+        "/images/notebook18-3.jpeg"
+      ]
+    },
+    {
       "id": 19,
       "titulo": "Notebook DELL Inspiron Core I3-8th",
       "marca": "Dell",
