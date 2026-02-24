@@ -2,20 +2,21 @@
   "notebooks": [
     {
       "id": 1,
-      "titulo": "Notebook Dell Inspiron 15",
-      "marca": "Dell",
-      "modelo": "Dell Inspiron 15",
-      "processador": "Intel i7-7500U",
+      "titulo": "Notebook HP 240 G4",
+      "marca": "HP",
+      "modelo": "HP G4",
+      "processador": "Intel i3-5005U 2.00 ghz",
       "memoria": "8GB",
-      "armazenamento": "256GB SSD",
+      "armazenamento": "120GB SSD",
       "placaVideo": "Integrada",
-      "tela": "15.6 polegadas",
-      "preco": 1890.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Acompanha carregador original",
-      "estado": "Ótimo",
+      "tela": "14 polegadas",
+      "preco": 1240.00,
+      "descricao": "Bateria com autonomia média de 2h Windows 10 pro ativado Acompanha carregador",
+      "estado": "Bom",
       "imagens": [
         "/images/notebook1-1.jpeg",
-        "/images/notebook1-2.jpeg"
+        "/images/notebook1-2.jpeg",
+        "/images/notebook1-3.jpeg"
       ]
     },
     {
@@ -92,25 +93,6 @@
         "/images/notebook5-1.jpeg",
         "/images/notebook5-2.jpeg",
         "/images/notebook5-3.jpeg"
-      ]
-    },
-    {
-      "id": 6,
-      "titulo": "Notebook Dell Inspiron N5010",
-      "marca": "Dell",
-      "modelo": "N5010",
-      "processador": "Intel i5 M480 2.70 ghz",
-      "memoria": "6GB",
-      "armazenamento": "120GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "15.6",
-      "preco": 990.00,
-      "descricao": "Bateria com duração média de 3 horas Windows 10 pro ativado Acompanha carregador original",
-      "estado": "Bom",
-      "imagens": [
-        "/images/notebook6-1.jpeg",
-        "/images/notebook6-2.jpeg",
-        "/images/notebook6-3.jpeg"
       ]
     },
     {
@@ -529,25 +511,6 @@
         "/images/notebook29-1.jpeg",
         "/images/notebook29-2.jpeg",
         "/images/notebook29-3.jpeg"
-      ]
-    },
-    {
-      "id": 33,
-      "titulo": "Notebook ACER Aspire I3 8th",
-      "marca": "Acer",
-      "modelo": "Aspire i3",
-      "processador": "Intel Core I3-8130U 2.20ghz",
-      "memoria": "8GB",
-      "armazenamento": "256GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "Tela 15.6",
-      "preco": 1690.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook33-1.jpeg",
-        "/images/notebook33-2.jpeg",
-        "/images/notebook33-3.jpeg"
       ]
     }
   ],
