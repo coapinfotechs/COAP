@@ -96,14 +96,33 @@
       ]
     },
     {
+      "id": 6,
+      "titulo": "Notebook Dell Inspiron 3583",
+      "marca": "Dell",
+      "modelo": "Inspiron 3583",
+      "processador": "Intel i5-8265U 1.80 Ghz",
+      "memoria": "8GB",
+      "armazenamento": "256GB Nvme",
+      "placaVideo": "Integrada",
+      "tela": "14",
+      "preco": 1790.00,
+      "descricao": "Bateria com duração média de 2 horas Windows 10 pro ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook6-1.jpeg",
+        "/images/notebook6-2.jpeg",
+        "/images/notebook6-3.jpeg"
+      ]
+    },
+    {
       "id": 7,
       "titulo": "Notebook Dell Latitude E5470",
       "marca": "Dell",
       "modelo": "Latitude E5470",
       "processador": "Intel core i5-6200U  2.40 ghz",
       "memoria": "8GB",
-      "armazenamento": "256GB SSD",
-      "placaVideo": "NVME",
+      "armazenamento": "256GB Nvme",
+      "placaVideo": "Integrada",
       "tela": "14",
       "preco": 1590.00,
       "descricao": "Bateria com duração média de 3 horas Windows 10 pro ativado Acompanha carregador original",
@@ -173,17 +192,17 @@
     },
     {
       "id": 11,
-      "titulo": "Notebook Samsung RV511",
-      "marca": "Samsung",
-      "modelo": "RV511",
-      "processador": " Intel i3 M380 2.50 ghz",
-      "memoria": "6GB",
+      "titulo": "Notebook HP Compaq 510",
+      "marca": "HP",
+      "modelo": "Compaq 510",
+      "processador": " Core 2 duo T5870 2.00 ghz",
+      "memoria": "4GB",
       "armazenamento": "120GB SSD",
       "placaVideo": "Integrada",
-      "tela": "15.6 polegadas",
-      "preco": 890.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
-      "estado": "Bom",
+      "tela": "14 polegadas",
+      "preco": 690.00,
+      "descricao": "Bateria com autonomia média de 1:30h Windows 10 pro ativado Pacote office ativado Acompanha carregador",
+      "estado": "Ótimo",
       "imagens": [
         "/images/notebook11-1.jpeg",
         "/images/notebook11-2.jpeg",
@@ -533,3 +552,4 @@
     "/images/avaliacao-10.png"
   ]
 }
+
