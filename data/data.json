@@ -20,6 +20,25 @@
       ]
     },
     {
+      "id": 2,
+      "titulo": "Notebook Lenovo S145 Intel i3-8th",
+      "marca": "Lenovo",
+      "modelo": "S145",
+      "processador": "Intel i3-8130U 2.20 ghz",
+      "memoria": "8GB",
+      "armazenamento": "240GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "15.6",
+      "preco": 1540.00,
+      "descricao": "Bateria com autonomia média de 2h Windows 10 pro ativado Office ativado Acompanha carregador original",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook2-1.jpeg",
+        "/images/notebook2-2.jpeg",
+        "/images/notebook2-3.jpeg"
+      ]
+    },
+    {
       "id": 3,
       "titulo": "Notebook Dell latitude 3420 Intel i5-11th",
       "marca": "Dell",
@@ -40,16 +59,16 @@
     },
     {
       "id": 4,
-      "titulo": "Notebook HP Elitebook",
-      "marca": "HP",
-      "modelo": "Elitebook",
-      "processador": "Intel i5-6300U 2.50 ghz",
+      "titulo": "Notebook Dell Latitude 3470 i5-6200U",
+      "marca": "Dell",
+      "modelo": "Latitude 3470",
+      "processador": "Intel core i5-6200U  2.40 ghz",
       "memoria": "8GB",
-      "armazenamento": "128GB SSD",
+      "armazenamento": "256GB Nvme",
       "placaVideo": "Integrada",
-      "tela": "14 polegadas",
-      "preco": 1540.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 ativado Office ativado Acompanha carregador original.",
+      "tela": "14",
+      "preco": 1590.00,
+      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Office ativado Acompanha carregador original",
       "estado": "Ótimo",
       "imagens": [
         "/images/notebook4-1.jpeg",
@@ -93,6 +112,25 @@
         "/images/notebook6-1.jpeg",
         "/images/notebook6-2.jpeg",
         "/images/notebook6-3.jpeg"
+      ]
+    },
+    {
+      "id": 7,
+      "titulo": "Notebook Dell Latitude 5280 / I5 7th",
+      "marca": "Dell",
+      "modelo": "Latitude 5280",
+      "processador": "Intel i5-7300U 2.70 Ghz",
+      "memoria": "8GB",
+      "armazenamento": "256GB Nvme",
+      "placaVideo": "Integrada",
+      "tela": "14",
+      "preco": 1740.00,
+      "descricao": "Bateria com duração média de 4 horas Windows 10 pro ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook7-1.jpeg",
+        "/images/notebook7-2.jpeg",
+        "/images/notebook7-3.jpeg"
       ]
     },
     {
@@ -172,6 +210,25 @@
       ]
     },
     {
+      "id": 12,
+      "titulo": "Notebook Dell Latitude 7480 / i7 7th",
+      "marca": "Dell",
+      "modelo": "Latitude 7480",
+      "processador": "Intel i7-7600U 2.90 Ghz",
+      "memoria": "16GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "14 polegadas",
+      "preco": 1990.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook12-1.jpeg",
+        "/images/notebook12-2.jpeg",
+        "/images/notebook12-3.jpeg"
+      ]
+    },
+    {
       "id": 13,
       "titulo": "Notebook Lenovo ThinkPad E14",
       "marca": "Lenovo",
@@ -207,6 +264,63 @@
         "/images/notebook14-1.jpeg",
         "/images/notebook14-2.jpeg",
         "/images/notebook14-3.jpeg"
+      ]
+    },
+    {
+      "id": 15,
+      "titulo": "Notebook Dell Inspiron / i7 7th",
+      "marca": "Dell",
+      "modelo": "Inspiron",
+      "processador": "Intel i7-7500U 2.90 Ghz",
+      "memoria": "8GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "15.6 polegadas",
+      "preco": 1740.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook15-1.jpeg",
+        "/images/notebook15-2.jpeg",
+        "/images/notebook15-3.jpeg"
+      ]
+    },
+    {
+      "id": 16,
+      "titulo": "Notebook Acer Aspire / i3 6th",
+      "marca": "Acer",
+      "modelo": "Aspire",
+      "processador": "Intel i7-7500U 2.90 Ghz",
+      "memoria": "8GB",
+      "armazenamento": "240GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "15.6 polegadas",
+      "preco": 1390.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook16-1.jpeg",
+        "/images/notebook16-2.jpeg",
+        "/images/notebook16-3.jpeg"
+      ]
+    },
+    {
+      "id": 17,
+      "titulo": "Notebook DELL Inspiron N4050 / I3-2350M",
+      "marca": "Dell",
+      "modelo": "Inspiron N4050",
+      "processador": "Intel Core I3-2350M 2.30GHz",
+      "memoria": "8GB",
+      "armazenamento": "128GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "14 polegadas",
+      "preco": 1040.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook17-1.jpeg",
+        "/images/notebook17-2.jpeg",
+        "/images/notebook17-3.jpeg"
       ]
     },
     {
@@ -342,18 +456,18 @@
         "/images/notebook24-3.jpeg"
       ]
     },
-    {
+     {
       "id": 25,
-      "titulo": "Notebook Lenovo ThinkPad E14",
-      "marca": "Lenovo",
-      "modelo": "Thinkpad E14",
-      "processador": "AMD Ryzen 7 5700U (16 threads e 8 nucleos) 4.30ghz",
-      "memoria": "16GB",
-      "armazenamento": "256GB SSD",
-      "placaVideo": "Rx Vega 8",
-      "tela": "Tela 14 FULL HD",
-      "preco": 2640.00,
-      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
+      "titulo": "Notebook HP Probook 645 G4 Ryzen 3",
+      "marca": "HP",
+      "modelo": "Probook 645",
+      "processador": "Ryzen 3 PRO 2300u 2.00ghz",
+      "memoria": "8GB",
+      "armazenamento": "128GB SSD",
+      "placaVideo": "Vega 6",
+      "tela": "14 polegadas",
+      "preco": 1490.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador origina",
       "estado": "Excelente",
       "imagens": [
         "/images/notebook25-1.jpeg",
@@ -373,11 +487,30 @@
       "tela": "14 polegadas",
       "preco": 1590.00,
       "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
-      "estado": "Bom",
+      "estado": "ótimo",
       "imagens": [
         "/images/notebook26-1.jpeg",
         "/images/notebook26-2.jpeg",
         "/images/notebook26-3.jpeg"
+      ]
+    },
+    {
+      "id": 27,
+      "titulo": "Notebook Lenovo ThinkPad T470 / i5 7th",
+      "marca": "Lenovo",
+      "modelo": "Thinkpad T470",
+      "processador": "Intel core i5-7300U 2.7 ghz",
+      "memoria": "8GB",
+      "armazenamento": "256GB",
+      "placaVideo": "Integrada",
+      "tela": "14 FHD",
+      "preco": 1740.00,
+      "descricao": "Bateria com autonomia média de 4h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook27-1.jpeg",
+        "/images/notebook27-2.jpeg",
+        "/images/notebook27-3.jpeg"
       ]
     },
     {
