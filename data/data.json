@@ -40,16 +40,16 @@
     },
     {
       "id": 3,
-      "titulo": "Notebook Dell latitude 3420 Intel i5-11th",
-      "marca": "Dell",
-      "modelo": "Latitude 3420",
-      "processador": "Intel i5-1135G7 2.40 Ghz",
+      "titulo": "Notebook Lenovo i3 11th",
+      "marca": "Lenovo",
+      "modelo": "Lenovo",
+      "processador": "Intel Core i3 1115G4 3.00 ghz",
       "memoria": "8GB",
       "armazenamento": "256GB SSD",
-      "placaVideo": "Intel Iris Xe graphics",
-      "tela": "14 FHD",
-      "preco": 2140.00,
-      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Office ativado Acompanha carregador original",
+      "placaVideo": "Integrada",
+      "tela": "15.6 Full HD e antireflexo",
+      "preco": 1940.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 11 pro ativado Office ativado Acompanha carregador original",
       "estado": "Ótimo",
       "imagens": [
         "/images/notebook3-1.jpeg",
@@ -207,25 +207,6 @@
         "/images/notebook12-1.jpeg",
         "/images/notebook12-2.jpeg",
         "/images/notebook12-3.jpeg"
-      ]
-    },
-    {
-      "id": 13,
-      "titulo": "Notebook Lenovo ThinkPad E14",
-      "marca": "Lenovo",
-      "modelo": "ThinkPad E14",
-      "processador": "Intel i5-10210U 2.10 ghz",
-      "memoria": "16GB",
-      "armazenamento": "256GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "14 polegadas Full HD",
-      "preco": 2240.00,
-      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook13-1.jpeg",
-        "/images/notebook13-2.jpeg",
-        "/images/notebook13-3.jpeg"
       ]
     },
     {
