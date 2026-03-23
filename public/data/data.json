@@ -134,25 +134,6 @@
       ]
     },
     {
-      "id": 8,
-      "titulo": "Notebook Dell Vostro 5470",
-      "marca": "Dell",
-      "modelo": "Vostro 5470",
-      "processador": "Intel i5-4510U 2.60 ghz",
-      "memoria": "8GB",
-      "armazenamento": "240GB SSD",
-      "placaVideo": "NVidia Geforce 730M 2gb",
-      "tela": "14 polegadas",
-      "preco": 1540.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook8-1.jpeg",
-        "/images/notebook8-2.jpeg",
-        "/images/notebook8-3.jpeg"
-      ]
-    },
-    {
       "id": 9,
       "titulo": "Notebook HP 240 G7",
       "marca": "HP",
@@ -172,25 +153,6 @@
       ]
     },
     {
-      "id": 10,
-      "titulo": "Notebook Dell Latitude E7470",
-      "marca": "Dell",
-      "modelo": "E7470",
-      "processador": "Intel i7-6600U 2.80 Ghz vpro",
-      "memoria": "16GB",
-      "armazenamento": "256GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "Tela 14' FHD com touch-screen",
-      "preco": 2090.00,
-      "descricao": "Bateria com autonomia média de 4h Windows 10 pro ativado Pacote office ativado Acompanha carregador",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook10-1.jpeg",
-        "/images/notebook10-2.jpeg",
-        "/images/notebook10-3.jpeg"
-      ]
-    },
-    {
       "id": 11,
       "titulo": "Notebook HP Compaq 510",
       "marca": "HP",
@@ -207,25 +169,6 @@
         "/images/notebook11-1.jpeg",
         "/images/notebook11-2.jpeg",
         "/images/notebook11-3.jpeg"
-      ]
-    },
-    {
-      "id": 12,
-      "titulo": "Notebook Dell Latitude 7480 / i7 7th",
-      "marca": "Dell",
-      "modelo": "Latitude 7480",
-      "processador": "Intel i7-7600U 2.90 Ghz",
-      "memoria": "16GB",
-      "armazenamento": "256GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "14 polegadas",
-      "preco": 1990.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook12-1.jpeg",
-        "/images/notebook12-2.jpeg",
-        "/images/notebook12-3.jpeg"
       ]
     },
     {
