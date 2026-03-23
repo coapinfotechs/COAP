@@ -229,25 +229,6 @@
       ]
     },
     {
-      "id": 19,
-      "titulo": "Notebook DELL Inspiron Core I3-8th",
-      "marca": "Dell",
-      "modelo": "Inspiron",
-      "processador": "Intel Core I3-8130U 2.20 ghz",
-      "memoria": "8GB",
-      "armazenamento": "240GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "14 polegadas",
-      "preco": 1690.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook19-1.jpeg",
-        "/images/notebook19-2.jpeg",
-        "/images/notebook19-3.jpeg"
-      ]
-    },
-    {
       "id": 20,
       "titulo": "Notebook HP G7 i3-10th",
       "marca": "HP",
