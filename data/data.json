@@ -172,6 +172,25 @@
       ]
     },
     {
+      "id": 10,
+      "titulo": "Notebook Acer Aspire A515-52G ",
+      "marca": "Acer",
+      "modelo": "Aspire A515-52G",
+      "processador": "Intel i5-8265U 8ª geração",
+      "memoria": "16GB RAM",
+      "armazenamento": "SSD NVMe 256GB (muito rápido",
+      "placaVideo": "Placa de vídeo dedicada NVIDIA GeForce MX130 2GB",
+      "tela": "15.6 polegadas",
+      "preco": 1940.00,
+      "descricao": "Windows 10 + office ativados, acompanha carregador, Revisado e pronto pra uso",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook10-1.jpeg",
+        "/images/notebook10-2.jpeg",
+        "/images/notebook10-3.jpeg"
+      ]
+    },
+    {
       "id": 11,
       "titulo": "Notebook HP Compaq 510",
       "marca": "HP",
