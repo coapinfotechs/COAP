@@ -134,6 +134,25 @@
       ]
     },
     {
+      "id": 8,
+      "titulo": "Notebook HP EliteBook 820 G3",
+      "marca": "HP",
+      "modelo": "820 G3",
+      "processador": "i5-6300U (6ª geração)",
+      "memoria": "8GB RAM",
+      "armazenamento": " SSD 128GB NVMe",
+      "placaVideo": "Integrada",
+      "tela": "12.5 polegadas",
+      "preco": 1490.00,
+      "descricao": "Bateria nova até 4h, Windows 10 + Office ativados, Revisado e pronto pra uso",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook8-1.jpeg",
+        "/images/notebook8-2.jpeg",
+        "/images/notebook8-3.jpeg"
+      ]
+    },
+    {
       "id": 9,
       "titulo": "Notebook HP 240 G7",
       "marca": "HP",
