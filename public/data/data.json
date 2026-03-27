@@ -210,6 +210,25 @@
       ]
     },
     {
+      "id": 12,
+      "titulo": "Notebook Dell Latitude 7480",
+      "marca": "Dell",
+      "modelo": "Latitude 7480",
+      "processador": "Intel i7-7600U 2.90 Ghz",
+      "memoria": "16GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "14 polegadas",
+      "preco": 1840.00,
+      "descricao": "Bateria com autonomia média de 3:00h Windows 10 pro ativado Acompanha carregador",
+      "estado": "Bom",
+      "imagens": [
+        "/images/notebook12-1.jpeg",
+        "/images/notebook12-2.jpeg",
+        "/images/notebook12-3.jpeg"
+      ]
+    },
+    {
       "id": 13,
       "titulo": "Notebook Gamer Thinkpad E480",
       "marca": "Lenovo",
@@ -264,6 +283,25 @@
         "/images/notebook15-1.jpeg",
         "/images/notebook15-2.jpeg",
         "/images/notebook15-3.jpeg"
+      ]
+    },
+    {
+      "id": 16,
+      "titulo": "Notebook Gamer Acer Nitro 5",
+      "marca": "Acer",
+      "modelo": "Nitro 5",
+      "processador": "Ryzen 5 3550H",
+      "memoria": "16GB",
+      "armazenamento": "480GB SSD",
+      "placaVideo": "GTX 1650 4GB dedicada",
+      "tela": "15.6 polegadas",
+      "preco": 1740.00,
+      "descricao": "Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook16-1.jpeg",
+        "/images/notebook16-2.jpeg",
+        "/images/notebook16-3.jpeg"
       ]
     },
     {
