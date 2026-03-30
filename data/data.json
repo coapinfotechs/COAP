@@ -153,25 +153,6 @@
       ]
     },
     {
-      "id": 9,
-      "titulo": "Notebook HP 240 G7",
-      "marca": "HP",
-      "modelo": "240 G7",
-      "processador": "Intel i5-8250U 1.60 Ghz pro",
-      "memoria": "8GB",
-      "armazenamento": "128GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "14 polegadas",
-      "preco": 1490.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Acompanha carregador original",
-      "estado": "Bom",
-      "imagens": [
-        "/images/notebook9-1.jpeg",
-        "/images/notebook9-2.jpeg",
-        "/images/notebook9-3.jpeg"
-      ]
-    },
-    {
       "id": 10,
       "titulo": "Notebook Acer Aspire|i3 6ª Geração",
       "marca": "Acer",
@@ -264,25 +245,6 @@
         "/images/notebook14-1.jpeg",
         "/images/notebook14-2.jpeg",
         "/images/notebook14-3.jpeg"
-      ]
-    },
-    {
-      "id": 15,
-      "titulo": "Notebook Dell Inspiron / i7 7th",
-      "marca": "Dell",
-      "modelo": "Inspiron",
-      "processador": "Intel i7-7500U 2.90 Ghz",
-      "memoria": "8GB",
-      "armazenamento": "256GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "15.6 polegadas",
-      "preco": 1740.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook15-1.jpeg",
-        "/images/notebook15-2.jpeg",
-        "/images/notebook15-3.jpeg"
       ]
     },
     {
