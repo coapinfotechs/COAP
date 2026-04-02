@@ -248,25 +248,6 @@
       ]
     },
     {
-      "id": 16,
-      "titulo": "Notebook Gamer Acer Nitro 5",
-      "marca": "Acer",
-      "modelo": "Nitro 5",
-      "processador": "Ryzen 5 3550H",
-      "memoria": "16GB",
-      "armazenamento": "480GB SSD",
-      "placaVideo": "GTX 1650 4GB dedicada",
-      "tela": "15.6 polegadas",
-      "preco": 1740.00,
-      "descricao": "Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook16-1.jpeg",
-        "/images/notebook16-2.jpeg",
-        "/images/notebook16-3.jpeg"
-      ]
-    },
-    {
       "id": 20,
       "titulo": "Notebook HP G7 i3-10th",
       "marca": "HP",
