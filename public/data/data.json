@@ -172,25 +172,6 @@
       ]
     },
     {
-      "id": 11,
-      "titulo": "Notebook HP Compaq 510",
-      "marca": "HP",
-      "modelo": "Compaq 510",
-      "processador": " Core 2 duo T5870 2.00 ghz",
-      "memoria": "4GB",
-      "armazenamento": "120GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "14 polegadas",
-      "preco": 690.00,
-      "descricao": "Bateria com autonomia média de 1:30h Windows 10 pro ativado Pacote office ativado Acompanha carregador",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook11-1.jpeg",
-        "/images/notebook11-2.jpeg",
-        "/images/notebook11-3.jpeg"
-      ]
-    },
-    {
       "id": 12,
       "titulo": "Notebook Dell Latitude 7480",
       "marca": "Dell",
