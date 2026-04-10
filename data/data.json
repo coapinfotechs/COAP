@@ -38,6 +38,25 @@
         "/images/notebook2-3.jpeg"
       ]
     },
+        {
+      "id": 3,
+      "titulo": " Notebook Lenovo ThinkPad T480 | i7 8ª Geração",
+      "marca": "Lenovo",
+      "modelo": "T480",
+      "processador": " Intel i7-8650U 8ª geração",
+      "memoria": "16GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": " MX130 2GB dedicada",
+      "tela": "14 Full HD",
+      "preco": 2290.00,
+      "descricao": "Windows 10 pro ativado Office ativado Acompanha carregador original",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook3-1.jpeg",
+        "/images/notebook3-2.jpeg",
+        "/images/notebook3-3.jpeg"
+      ]
+    },
     {
       "id": 4,
       "titulo": "Notebook Dell Latitude 3470 i5-6200U",
@@ -96,6 +115,25 @@
       ]
     },
     {
+      "id": 7,
+      "titulo": "Notebook Gamer Dell G3 | i5 9ª Geração",
+      "marca": "Dell",
+      "modelo": "Gamer",
+      "processador": "Intel Core i5-9300H (9ª geração)",
+      "memoria": "16GB",
+      "armazenamento": "480GB Nvme",
+      "placaVideo": "GTX 1050 3GB dedicada",
+      "tela": "15.6 Full HD",
+      "preco": 3140.00,
+      "descricao": "Windows 11 pro ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook7-1.jpeg",
+        "/images/notebook7-2.jpeg",
+        "/images/notebook7-3.jpeg"
+      ]
+    },
+    {
       "id": 8,
       "titulo": "Notebook HP EliteBook 820 G3",
       "marca": "HP",
@@ -131,44 +169,6 @@
         "/images/notebook10-1.jpeg",
         "/images/notebook10-2.jpeg",
         "/images/notebook10-3.jpeg"
-      ]
-    },
-    {
-      "id": 12,
-      "titulo": "Notebook Dell Latitude 7480",
-      "marca": "Dell",
-      "modelo": "Latitude 7480",
-      "processador": "Intel i7-7600U 2.90 Ghz",
-      "memoria": "16GB",
-      "armazenamento": "256GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "14 polegadas",
-      "preco": 1840.00,
-      "descricao": "Bateria com autonomia média de 3:00h Windows 10 pro ativado Acompanha carregador",
-      "estado": "Bom",
-      "imagens": [
-        "/images/notebook12-1.jpeg",
-        "/images/notebook12-2.jpeg",
-        "/images/notebook12-3.jpeg"
-      ]
-    },
-    {
-      "id": 13,
-      "titulo": "Notebook Gamer Thinkpad E480",
-      "marca": "Lenovo",
-      "modelo": "Thinkpad E480",
-      "processador": "Intel i7-8550U 2.00 ghz",
-      "memoria": "16GB",
-      "armazenamento": "256GB SSD",
-      "placaVideo": "Vídeo dedicado RX550 2gb",
-      "tela": "14 polegadas",
-      "preco": 2190.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 11 pro ativado Pacote office ativado Acompanha carregador original",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook13-1.jpeg",
-        "/images/notebook13-2.jpeg",
-        "/images/notebook13-3.jpeg"
       ]
     },
     {
@@ -264,25 +264,6 @@
         "/images/notebook23-1.jpeg",
         "/images/notebook23-2.jpeg",
         "/images/notebook23-3.jpeg"
-      ]
-    },
-    {
-      "id": 25,
-      "titulo": "Notebook HP Probook 645 G4 Ryzen 3",
-      "marca": "HP",
-      "modelo": "Probook 645",
-      "processador": "Ryzen 3 PRO 2300u 2.00ghz",
-      "memoria": "8GB",
-      "armazenamento": "128GB SSD",
-      "placaVideo": "Vega 6",
-      "tela": "14 polegadas",
-      "preco": 1490.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador origina",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook25-1.jpeg",
-        "/images/notebook25-2.jpeg",
-        "/images/notebook25-3.jpeg"
       ]
     },
     {
