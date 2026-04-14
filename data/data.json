@@ -115,25 +115,6 @@
       ]
     },
     {
-      "id": 7,
-      "titulo": "Notebook Gamer Dell G3 | i5 9ª Geração",
-      "marca": "Dell",
-      "modelo": "Gamer",
-      "processador": "Intel Core i5-9300H (9ª geração)",
-      "memoria": "16GB",
-      "armazenamento": "480GB Nvme",
-      "placaVideo": "GTX 1050 3GB dedicada",
-      "tela": "15.6 Full HD",
-      "preco": 3140.00,
-      "descricao": "Windows 11 pro ativado Acompanha carregador original",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook7-1.jpeg",
-        "/images/notebook7-2.jpeg",
-        "/images/notebook7-3.jpeg"
-      ]
-    },
-    {
       "id": 8,
       "titulo": "Notebook HP EliteBook 820 G3",
       "marca": "HP",
