@@ -115,6 +115,25 @@
       ]
     },
     {
+      "id": 7,
+      "titulo": "Notebook Dell | i5 12ª Geração",
+      "marca": "Dell",
+      "modelo": "Dell i5",
+      "processador": " Intel i5-1234U 12ª geração",
+      "memoria": "8GB",
+      "armazenamento": "256GB Nvme",
+      "placaVideo": "Gráfico integrado Intel Iris Xe",
+      "tela": "15.6” Full HD",
+      "preco": 2390.00,
+      "descricao": "Windows 11 pro ativado Acompanha carregador",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook7-1.jpeg",
+        "/images/notebook7-2.jpeg",
+        "/images/notebook7-3.jpeg"
+      ]
+    },
+    {
       "id": 8,
       "titulo": "Notebook HP EliteBook 820 G3",
       "marca": "HP",
@@ -134,6 +153,25 @@
       ]
     },
     {
+      "id": 9,
+      "titulo": "Notebook Dell Latitude E7250 | i5 5ª Geração",
+      "marca": "Dell",
+      "modelo": "Latitude E7250",
+      "processador": "Intel i5-5300U 5ª geração",
+      "memoria": "8GB",
+      "armazenamento": "256GB",
+      "placaVideo": "Integrada",
+      "tela": "14",
+      "preco": 1440.00,
+      "descricao": "Windows 10 pro ativado Acompanha carregador",
+      "estado": "Bom",
+      "imagens": [
+        "/images/notebook9-1.jpeg",
+        "/images/notebook9-2.jpeg",
+        "/images/notebook9-3.jpeg"
+      ]
+    }, 
+    {
       "id": 10,
       "titulo": "Notebook Acer Aspire|i3 6ª Geração",
       "marca": "Acer",
@@ -152,6 +190,25 @@
         "/images/notebook10-3.jpeg"
       ]
     },
+     {
+      "id": 11,
+      "titulo": "Notebook Dell Latitude E7250 | i7 5ª Geração",
+      "marca": "Dell",
+      "modelo": "Latitude E7250",
+      "processador": "Intel i7-5600U 5ª geração",
+      "memoria": "8GB",
+      "armazenamento": "256GB",
+      "placaVideo": "Integrada",
+      "tela": "14",
+      "preco": 1640.00,
+      "descricao": "Windows 10 pro ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook11-1.jpeg",
+        "/images/notebook11-2.jpeg",
+        "/images/notebook11-3.jpeg"
+      ]
+    },     
     {
       "id": 14,
       "titulo": "Notebook Lenovo ThinkPad E14",
