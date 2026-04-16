@@ -267,6 +267,44 @@
       ]
     },
     {
+      "id": 15,
+      "titulo": "Notebook Dell Latitude E7470 | i7 6ª Geração",
+      "marca": "Dell",
+      "modelo": "Latitude E7470",
+      "processador": "Intel i7-6600U 6ª geração",
+      "memoria": "16GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "Tela 14” Full HD Touchscreen",
+      "preco": 2090.00,
+      "descricao": "Windows 10 pro ativado Pacote office ativado Acompanha carregador",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook15-1.jpeg",
+        "/images/notebook15-2.jpeg",
+        "/images/notebook15-3.jpeg"
+      ]
+    },
+    {
+      "id": 16,
+      "titulo": "Notebook Dell Latitude E5570 | i5 6ª Geração",
+      "marca": "Dell",
+      "modelo": "Latitude E5570",
+      "processador": "Intel i5-6300U 6ª geração",
+      "memoria": "8GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "Tela 14” Touchscreen",
+      "preco": 1790.00,
+      "descricao": "Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook16-1.jpeg",
+        "/images/notebook16-2.jpeg",
+        "/images/notebook16-3.jpeg"
+      ]
+    },
+    {
       "id": 20,
       "titulo": "Notebook HP G7 i3-10th",
       "marca": "HP",
