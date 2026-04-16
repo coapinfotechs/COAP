@@ -57,6 +57,25 @@
         "/images/notebook3-3.jpeg"
       ]
     },
+     {
+      "id": 4,
+      "titulo": "Notebook Samsung RV411 i5 M430",
+      "marca": "Samsung",
+      "modelo": "RV411",
+      "processador": "Intel Core i5 M430 2.30G",
+      "memoria": "6GB",
+      "armazenamento": "128GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "14",
+      "preco": 790.00,
+      "descricao": "Windows 10 pro ativado Office ativado Acompanha carregador",
+      "estado": "Bom",
+      "imagens": [
+        "/images/notebook4-1.jpeg",
+        "/images/notebook4-2.jpeg",
+        "/images/notebook4-3.jpeg"
+      ]
+    },
     {
       "id": 5,
       "titulo": "Notebook HP Elitebook",
@@ -189,7 +208,45 @@
         "/images/notebook11-2.jpeg",
         "/images/notebook11-3.jpeg"
       ]
-    },     
+    },   
+    {
+      "id": 12,
+      "titulo": "Notebook HP ProBook 640 G2 | i5",
+      "marca": "HP",
+      "modelo": " ProBook 640",
+      "processador": "i5-6300U 6ª geração",
+      "memoria": "8GB",
+      "armazenamento": "128GB",
+      "placaVideo": "Integrada",
+      "tela": "14",
+      "preco": 1290.00,
+      "descricao": "Windows 10 pro ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook12-1.jpeg",
+        "/images/notebook12-2.jpeg",
+        "/images/notebook12-3.jpeg"
+      ]
+    },  
+    {
+      "id": 13,
+      "titulo": "Notebook Acer Aspire | i3 10ª Geração ",
+      "marca": "Acer",
+      "modelo": "Acer Aspire",
+      "processador": "Intel i3-1005G1 10ª geração",
+      "memoria": "8GB",
+      "armazenamento": "256GB Nvme",
+      "placaVideo": "Integrada",
+      "tela": "14",
+      "preco": 1190.00,
+      "descricao": "Windows 11 pro ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook13-1.jpeg",
+        "/images/notebook13-2.jpeg",
+        "/images/notebook13-3.jpeg"
+      ]
+    },  
     {
       "id": 14,
       "titulo": "Notebook Lenovo ThinkPad E14",
