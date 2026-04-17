@@ -305,6 +305,25 @@
       ]
     },
     {
+      "id": 17,
+      "titulo": "Notebook HP Probook 645 G4 Ryzen 3",
+      "marca": "HP",
+      "modelo": "Probook 645",
+      "processador": "Ryzen 3 PRO 2300u 2.00gh",
+      "memoria": "8GB",
+      "armazenamento": "128GB SSD",
+      "placaVideo": "Vega 6",
+      "tela": "Tela 14",
+      "preco": 1490.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook17-1.jpeg",
+        "/images/notebook17-2.jpeg",
+        "/images/notebook17-3.jpeg"
+      ]
+    },
+    {
       "id": 20,
       "titulo": "Notebook HP G7 i3-10th",
       "marca": "HP",
