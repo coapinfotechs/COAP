@@ -96,25 +96,6 @@
       ]
     },
     {
-      "id": 6,
-      "titulo": "Notebook Dell Inspiron 3583",
-      "marca": "Dell",
-      "modelo": "Inspiron 3583",
-      "processador": "Intel i5-8265U 1.80 Ghz",
-      "memoria": "8GB",
-      "armazenamento": "256GB Nvme",
-      "placaVideo": "Integrada",
-      "tela": "14",
-      "preco": 1790.00,
-      "descricao": "Bateria com duração média de 2 horas Windows 10 pro ativado Acompanha carregador original",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook6-1.jpeg",
-        "/images/notebook6-2.jpeg",
-        "/images/notebook6-3.jpeg"
-      ]
-    },
-    {
       "id": 7,
       "titulo": "Notebook Dell | i5 12ª Geração",
       "marca": "Dell",
@@ -190,25 +171,6 @@
         "/images/notebook10-3.jpeg"
       ]
     },
-     {
-      "id": 11,
-      "titulo": "Notebook Dell Latitude E7250 | i7 5ª Geração",
-      "marca": "Dell",
-      "modelo": "Latitude E7250",
-      "processador": "Intel i7-5600U 5ª geração",
-      "memoria": "8GB",
-      "armazenamento": "256GB",
-      "placaVideo": "Integrada",
-      "tela": "14",
-      "preco": 1640.00,
-      "descricao": "Windows 10 pro ativado Acompanha carregador",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook11-1.jpeg",
-        "/images/notebook11-2.jpeg",
-        "/images/notebook11-3.jpeg"
-      ]
-    },   
     {
       "id": 12,
       "titulo": "Notebook HP ProBook 640 G2 | i5",
