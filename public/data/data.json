@@ -77,44 +77,6 @@
       ]
     },
     {
-      "id": 5,
-      "titulo": "Notebook HP Elitebook",
-      "marca": "HP",
-      "modelo": "Elitebook",
-      "processador": "Intel i5-8350U 1.90 GHz",
-      "memoria": "8GB",
-      "armazenamento": "256GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "14 polegadas",
-      "preco": 1790.00,
-      "descricao": "Bateria com autonomia média de 3h Pacote office ativado Windows 10 pro ativado Acompanha carregador original",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook5-1.jpeg",
-        "/images/notebook5-2.jpeg",
-        "/images/notebook5-3.jpeg"
-      ]
-    },
-    {
-      "id": 7,
-      "titulo": "Notebook Dell | i5 12ª Geração",
-      "marca": "Dell",
-      "modelo": "Dell i5",
-      "processador": " Intel i5-1234U 12ª geração",
-      "memoria": "8GB",
-      "armazenamento": "256GB Nvme",
-      "placaVideo": "Gráfico integrado Intel Iris Xe",
-      "tela": "15.6” Full HD",
-      "preco": 2390.00,
-      "descricao": "Windows 11 pro ativado Acompanha carregador",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook7-1.jpeg",
-        "/images/notebook7-2.jpeg",
-        "/images/notebook7-3.jpeg"
-      ]
-    },
-    {
       "id": 8,
       "titulo": "Notebook HP EliteBook 820 G3",
       "marca": "HP",
