@@ -1,24 +1,6 @@
 {
   "notebooks": [
-    {
-      "id": 1,
-      "titulo": "Notebook HP 240 G4",
-      "marca": "HP",
-      "modelo": "HP G4",
-      "processador": "Intel i3-5005U 2.00 ghz",
-      "memoria": "8GB",
-      "armazenamento": "120GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "14 polegadas",
-      "preco": 1240.00,
-      "descricao": "Bateria com autonomia média de 2h Windows 10 pro ativado Acompanha carregador",
-      "estado": "Bom",
-      "imagens": [
-        "/images/notebook1-1.jpeg",
-        "/images/notebook1-2.jpeg",
-        "/images/notebook1-3.jpeg"
-      ]
-    },
+
     {
       "id": 2,
       "titulo": "Notebook Dell Latitude E5570 / i5-6300U",
@@ -153,25 +135,6 @@
       ]
     },  
     {
-      "id": 13,
-      "titulo": "Notebook Acer Aspire | i3 10ª Geração ",
-      "marca": "Acer",
-      "modelo": "Acer Aspire",
-      "processador": "Intel i3-1005G1 10ª geração",
-      "memoria": "8GB",
-      "armazenamento": "256GB Nvme",
-      "placaVideo": "Integrada",
-      "tela": "14",
-      "preco": 1190.00,
-      "descricao": "Windows 11 pro ativado Acompanha carregador",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook13-1.jpeg",
-        "/images/notebook13-2.jpeg",
-        "/images/notebook13-3.jpeg"
-      ]
-    },  
-    {
       "id": 14,
       "titulo": "Notebook Lenovo ThinkPad E14",
       "marca": "Lenovo",
@@ -248,25 +211,6 @@
       ]
     },
     {
-      "id": 21,
-      "titulo": "Notebook Dell Vostro i3-10th",
-      "marca": "Dell",
-      "modelo": "Vostro",
-      "processador": "Intel core i3-1005G1",
-      "memoria": "8GB",
-      "armazenamento": "240GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "14 polegadas",
-      "preco": 1940.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook21-1.jpeg",
-        "/images/notebook21-2.jpeg",
-        "/images/notebook21-3.jpeg"
-      ]
-    },
-    {
       "id": 22,
       "titulo": "Notebook HP Elitebook Intel I5-7200U",
       "marca": "HP",
@@ -283,44 +227,6 @@
         "/images/notebook22-1.jpeg",
         "/images/notebook22-2.jpeg",
         "/images/notebook22-3.jpeg"
-      ]
-    },
-    {
-      "id": 23,
-      "titulo": "Notebook HP Elitebook Intel i5-6300U",
-      "marca": "HP",
-      "modelo": "Elitebook",
-      "processador": "Intel i5-6300U 2.50 ghz",
-      "memoria": "8GB",
-      "armazenamento": "SSD 128GB Nvme",
-      "placaVideo": "Integrada",
-      "tela": "14 polegadas",
-      "preco": 1490.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook23-1.jpeg",
-        "/images/notebook23-2.jpeg",
-        "/images/notebook23-3.jpeg"
-      ]
-    },
-    {
-      "id": 26,
-      "titulo": "Notebook Dell Vostro",
-      "marca": "Dell",
-      "modelo": "Vostro",
-      "processador": "Core I3-8th",
-      "memoria": "8GB",
-      "armazenamento": "256GB",
-      "placaVideo": "Integrada",
-      "tela": "14 polegadas",
-      "preco": 1590.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
-      "estado": "ótimo",
-      "imagens": [
-        "/images/notebook26-1.jpeg",
-        "/images/notebook26-2.jpeg",
-        "/images/notebook26-3.jpeg"
       ]
     },
     {
