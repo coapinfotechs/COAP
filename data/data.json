@@ -1,6 +1,24 @@
 {
   "notebooks": [
-
+   {
+      "id": 1,
+      "titulo": "Notebook Lenovo ThinkPad X280",
+      "marca": "Lenovo",
+      "modelo": "ThinkPad X280",
+      "processador": "Intel i5-8350U 8ª geração",
+      "memoria": "8GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "12.5'",
+      "preco": 1890.00,
+      "descricao": "Bateria com autonomia média de 4h Windows 10 pro ativado Office ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook1-1.jpeg",
+        "/images/notebook1-2.jpeg",
+        "/images/notebook1-3.jpeg"
+      ]
+    },    
     {
       "id": 2,
       "titulo": "Notebook Dell Latitude E5570 / i5-6300U",
@@ -20,7 +38,7 @@
         "/images/notebook2-3.jpeg"
       ]
     },
-        {
+    {
       "id": 3,
       "titulo": " Notebook Lenovo ThinkPad T480 | i7 8ª Geração",
       "marca": "Lenovo",
@@ -39,7 +57,7 @@
         "/images/notebook3-3.jpeg"
       ]
     },
-     {
+    {
       "id": 4,
       "titulo": "Notebook Samsung RV411 i5 M430",
       "marca": "Samsung",
@@ -56,6 +74,63 @@
         "/images/notebook4-1.jpeg",
         "/images/notebook4-2.jpeg",
         "/images/notebook4-3.jpeg"
+      ]
+    },
+    {
+      "id": 5,
+      "titulo": "Notebook Gamer Dell Inspiron 7472",
+      "marca": "Dell",
+      "modelo": "Inspiron 7472",
+      "processador": "Intel i7-8550U 8ª geração",
+      "memoria": "16GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "MX150 4GB dedicada",
+      "tela": "14” Full HD",
+      "preco": 2390.00,
+      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Office ativado Acompanha carregador",
+      "estado": "Bom",
+      "imagens": [
+        "/images/notebook5-1.jpeg",
+        "/images/notebook5-2.jpeg",
+        "/images/notebook5-3.jpeg"
+      ]
+    },
+    {
+      "id": 6,
+      "titulo": "Notebook Acer | i5 7ª Geração",
+      "marca": "Acer",
+      "modelo": "Acer i5",
+      "processador": "Intel i5-7200U 7ª geração",
+      "memoria": "8GB",
+      "armazenamento": "128GB SSD + HD 500GB",
+      "placaVideo": "Integrada",
+      "tela": "15.6",
+      "preco": 1640.00,
+      "descricao": "Bateria com autonomia média de 4h Windows 10 pro ativado Office ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook6-1.jpeg",
+        "/images/notebook6-2.jpeg",
+        "/images/notebook6-3.jpeg"
+      ]
+    },
+    {
+      "id": 7,
+      "titulo": "Notebook Acer Aspire | i5 7ª Geração",
+      "marca": "Acer",
+      "modelo": "Acer i5",
+      "processador": " Intel i5-7200U 7ª geração",
+      "memoria": "12GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": " 940MX 2GB dedicada",
+      "tela": "15.6",
+      "preco": 1790.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Office ativado Acompanha carregador",
+      "estado": "Bom",
+      "imagens": [
+        "/images/notebook7-1.jpeg",
+        "/images/notebook7-2.jpeg",
+        "/images/notebook7-3.jpeg"
       ]
     },
     {
@@ -268,3 +343,4 @@
     "/images/avaliacao-10.png"
   ]
 }
+
