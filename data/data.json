@@ -20,25 +20,6 @@
       ]
     },    
     {
-      "id": 2,
-      "titulo": "Notebook Dell Latitude E5570 / i5-6300U",
-      "marca": "Dell",
-      "modelo": "E5570",
-      "processador": "Intel core i5-6300U 2.50 ghz",
-      "memoria": "8GB",
-      "armazenamento": "256GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "15.6' TouchScreen",
-      "preco": 1890.00,
-      "descricao": "Bateria com autonomia média de 4h Windows 10 pro ativado Office ativado Acompanha carregador original",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook2-1.jpeg",
-        "/images/notebook2-2.jpeg",
-        "/images/notebook2-3.jpeg"
-      ]
-    },
-    {
       "id": 3,
       "titulo": " Notebook Lenovo ThinkPad T480 | i7 8ª Geração",
       "marca": "Lenovo",
@@ -55,25 +36,6 @@
         "/images/notebook3-1.jpeg",
         "/images/notebook3-2.jpeg",
         "/images/notebook3-3.jpeg"
-      ]
-    },
-    {
-      "id": 4,
-      "titulo": "Notebook Samsung RV411 i5 M430",
-      "marca": "Samsung",
-      "modelo": "RV411",
-      "processador": "Intel Core i5 M430 2.30G",
-      "memoria": "6GB",
-      "armazenamento": "128GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "14",
-      "preco": 790.00,
-      "descricao": "Windows 10 pro ativado Office ativado Acompanha carregador",
-      "estado": "Bom",
-      "imagens": [
-        "/images/notebook4-1.jpeg",
-        "/images/notebook4-2.jpeg",
-        "/images/notebook4-3.jpeg"
       ]
     },
     {
@@ -112,25 +74,6 @@
         "/images/notebook6-1.jpeg",
         "/images/notebook6-2.jpeg",
         "/images/notebook6-3.jpeg"
-      ]
-    },
-    {
-      "id": 7,
-      "titulo": "Notebook Acer Aspire | i5 7ª Geração",
-      "marca": "Acer",
-      "modelo": "Acer i5",
-      "processador": " Intel i5-7200U 7ª geração",
-      "memoria": "12GB",
-      "armazenamento": "256GB SSD",
-      "placaVideo": " 940MX 2GB dedicada",
-      "tela": "15.6",
-      "preco": 1790.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Office ativado Acompanha carregador",
-      "estado": "Bom",
-      "imagens": [
-        "/images/notebook7-1.jpeg",
-        "/images/notebook7-2.jpeg",
-        "/images/notebook7-3.jpeg"
       ]
     },
     {
@@ -191,25 +134,6 @@
       ]
     }, 
     {
-      "id": 11,
-      "titulo": "Notebook Dell | i3 7ª Geração",
-      "marca": "Dell",
-      "modelo": "i3 7° geração",
-      "processador": "Intel Core i3 7ª geração",
-      "memoria": "8GB",
-      "armazenamento": "128GB",
-      "placaVideo": "Integrada",
-      "tela": "15.6",
-      "preco": 1640.00,
-      "descricao": "Windows 10 pro ativado Office ativado Acompanha carregador",
-      "estado": "Bom",
-      "imagens": [
-        "/images/notebook11-1.jpeg",
-        "/images/notebook11-2.jpeg",
-        "/images/notebook11-3.jpeg"
-      ]
-    }, 
-    {
       "id": 12,
       "titulo": "Notebook HP ProBook 640 G2 | i5",
       "marca": "HP",
@@ -266,25 +190,6 @@
         "/images/notebook14-3.jpeg"
       ]
     }, 
-    {
-      "id": 15,
-      "titulo": "Notebook Dell Latitude E7470 | i7 6ª Geração",
-      "marca": "Dell",
-      "modelo": "Latitude E7470",
-      "processador": "Intel i7-6600U 6ª geração",
-      "memoria": "16GB",
-      "armazenamento": "256GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "Tela 14” Full HD Touchscreen",
-      "preco": 2090.00,
-      "descricao": "Windows 10 pro ativado Pacote office ativado Acompanha carregador",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook15-1.jpeg",
-        "/images/notebook15-2.jpeg",
-        "/images/notebook15-3.jpeg"
-      ]
-    },
     {
       "id": 16,
       "titulo": "Notebook Dell Latitude E5570 | i5 6ª Geração",
