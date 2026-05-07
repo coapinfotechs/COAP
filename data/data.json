@@ -104,7 +104,7 @@
       "memoria": "8GB",
       "armazenamento": "256GB",
       "placaVideo": "Integrada",
-      "tela": "14",
+      "tela": "12.5",
       "preco": 1440.00,
       "descricao": "Windows 10 pro ativado Acompanha carregador",
       "estado": "Bom",
@@ -112,25 +112,6 @@
         "/images/notebook9-1.jpeg",
         "/images/notebook9-2.jpeg",
         "/images/notebook9-3.jpeg"
-      ]
-    }, 
-     {
-      "id": 10,
-      "titulo": "Notebook Dell Latitude 3410 | i5",
-      "marca": "Dell",
-      "modelo": "Latitude 3410",
-      "processador": "Intel i5-10210U 10ª geração",
-      "memoria": "8GB",
-      "armazenamento": "256GB",
-      "placaVideo": "Integrada",
-      "tela": "14 FHD",
-      "preco": 2090.00,
-      "descricao": "Windows 11 pro ativado Office ativado Acompanha carregador",
-      "estado": "Bom",
-      "imagens": [
-        "/images/notebook10-1.jpeg",
-        "/images/notebook10-2.jpeg",
-        "/images/notebook10-3.jpeg"
       ]
     }, 
     {
@@ -238,7 +219,7 @@
       "armazenamento": "240GB SSD",
       "placaVideo": "Integrada",
       "tela": "Tela 14'",
-      "preco": 1390.00,
+      "preco": 1290.00,
       "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
       "estado": "Bom",
       "imagens": [
