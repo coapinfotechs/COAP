@@ -18,7 +18,26 @@
         "/images/notebook1-2.jpeg",
         "/images/notebook1-3.jpeg"
       ]
-    },    
+    },   
+    {
+      "id": 2,
+      "titulo": "Notebook Dell Latitude E5470 | i5",
+      "marca": "Dell",
+      "modelo": "Latitude E5470",
+      "processador": " Intel i5-6200U 6ª geração",
+      "memoria": "8GB",
+      "armazenamento": "128GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "14'",
+      "preco": 1640.00,
+      "descricao": "Bateria com autonomia média de 4h Windows 10 pro ativado Office ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook2-1.jpeg",
+        "/images/notebook2-2.jpeg",
+        "/images/notebook2-3.jpeg"
+      ]
+    },
     {
       "id": 3,
       "titulo": " Notebook Lenovo ThinkPad T480 | i7 8ª Geração",
@@ -36,6 +55,25 @@
         "/images/notebook3-1.jpeg",
         "/images/notebook3-2.jpeg",
         "/images/notebook3-3.jpeg"
+      ]
+    },
+    {
+      "id": 4,
+      "titulo": "Notebook Lenovo | i3 5ª Geração",
+      "marca": "Lenovo",
+      "modelo": "Lenovo",
+      "processador": "Intel Core i3-5005U 2.00GHz",
+      "memoria": "6GB",
+      "armazenamento": "128GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "14",
+      "preco": 990.00,
+      "descricao": "Windows 10 pro ativado Office ativado Acompanha carregador original",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook4-1.jpeg",
+        "/images/notebook4-2.jpeg",
+        "/images/notebook4-3.jpeg"
       ]
     },
     {
@@ -76,6 +114,25 @@
         "/images/notebook6-3.jpeg"
       ]
     },
+     {
+      "id": 7,
+      "titulo": "Notebook Lenovo B330 | i3 7ª Geração",
+      "marca": "Lenovo",
+      "modelo": "B330",
+      "processador": "Intel Core i3-7020U 2.30GHz",
+      "memoria": "8GB",
+      "armazenamento": "256GB",
+      "placaVideo": "Integrada",
+      "tela": "15.6",
+      "preco": 1640.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Office ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook7-1.jpeg",
+        "/images/notebook7-2.jpeg",
+        "/images/notebook7-3.jpeg"
+      ]
+    },
     {
       "id": 8,
       "titulo": "Notebook HP EliteBook 820 G3",
@@ -106,7 +163,7 @@
       "placaVideo": "Integrada",
       "tela": "12.5",
       "preco": 1440.00,
-      "descricao": "Windows 10 pro ativado Acompanha carregador",
+      "descricao": "Windows 10 pro ativado + Office ativados Acompanha carregador",
       "estado": "Bom",
       "imagens": [
         "/images/notebook9-1.jpeg",
@@ -114,6 +171,44 @@
         "/images/notebook9-3.jpeg"
       ]
     }, 
+    {
+      "id": 10,
+      "titulo": "Notebook Dell Vostro 3481 | i3 7ª Geração",
+      "marca": "Dell",
+      "modelo": "Vostro 3481",
+      "processador": "Intel Core i3-7020U 2.30GHz",
+      "memoria": "8GB",
+      "armazenamento": "256GB",
+      "placaVideo": "Integrada",
+      "tela": "14",
+      "preco": 1640.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook10-1.jpeg",
+        "/images/notebook10-2.jpeg",
+        "/images/notebook10-3.jpeg"
+      ]
+    }, 
+    {
+      "id": 11,
+      "titulo": "Notebook HP 240 G7 | i3 7ª Geração",
+      "marca": "HP",
+      "modelo": "HP 240 G7",
+      "processador": "Intel Core i3-7020U 2.30GHz",
+      "memoria": "8GB",
+      "armazenamento": "256GB",
+      "placaVideo": "Integrada",
+      "tela": "14",
+      "preco": 1590.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook11-1.jpeg",
+        "/images/notebook11-2.jpeg",
+        "/images/notebook11-3.jpeg"
+      ]
+    },
     {
       "id": 12,
       "titulo": "Notebook HP ProBook 640 G2 | i5",
@@ -132,26 +227,26 @@
         "/images/notebook12-2.jpeg",
         "/images/notebook12-3.jpeg"
       ]
-    },  
+    }, 
     {
       "id": 13,
-      "titulo": "Notebook Gamer Acer Nitro 5 | i5 11ª",
-      "marca": "Acer",
-      "modelo": "Nitro 5",
-      "processador": "Intel Core i5-11400H 11ª geração",
-      "memoria": "16GB",
-      "armazenamento": "256GB + HD 500GB",
-      "placaVideo": " GTX 1650 4GB dedicada",
-      "tela": " 17” Full HD 144Hz",
-      "preco": 3590.00,
-      "descricao": "Windows 11 pro ativado Office ativado Acompanha carregador",
+      "titulo": "Notebook HP 240 G6 | i5 7ª Geração",
+      "marca": "HP",
+      "modelo": "HP 240 G6",
+      "processador": "Intel Core i5-7200U 2.50GHz",
+      "memoria": "8GB",
+      "armazenamento": "256GB",
+      "placaVideo": "Integrada",
+      "tela": "14",
+      "preco": 1690.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Acompanha carregador",
       "estado": "Ótimo",
       "imagens": [
         "/images/notebook13-1.jpeg",
         "/images/notebook13-2.jpeg",
         "/images/notebook13-3.jpeg"
       ]
-    }, 
+    },
     {
       "id": 14,
       "titulo": "Notebook Lenovo ThinkPad E14 | i5 ",
@@ -169,6 +264,25 @@
         "/images/notebook14-1.jpeg",
         "/images/notebook14-2.jpeg",
         "/images/notebook14-3.jpeg"
+      ]
+    }, 
+    {
+      "id": 15,
+      "titulo": "Notebook Samsung 350X | i3 7ª Geração",
+      "marca": "Samsung",
+      "modelo": "Samsung 350X",
+      "processador": "Intel Core i3-7020U 2.30GHz",
+      "memoria": "8GB",
+      "armazenamento": "256GB",
+      "placaVideo": "Integrada",
+      "tela": "15.6",
+      "preco": 1640.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Office ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook15-1.jpeg",
+        "/images/notebook15-2.jpeg",
+        "/images/notebook15-3.jpeg"
       ]
     }, 
     {
@@ -191,6 +305,63 @@
       ]
     },
     {
+      "id": 17,
+      "titulo": "Notebook HP ProBook 640 G2 | i5 6ª Geração",
+      "marca": "HP",
+      "modelo": "ProBook 640 G2",
+      "processador": " Intel Core i5-6300U 2.30GHz",
+      "memoria": "8GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "Tela 14",
+      "preco": 1590.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook17-1.jpeg",
+        "/images/notebook17-2.jpeg",
+        "/images/notebook17-3.jpeg"
+      ]
+    },
+    {
+      "id": 18,
+      "titulo": "Notebook Dell Vostro 3468 | i3 6ª Geração",
+      "marca": "DELL",
+      "modelo": "Vostro 3468",
+      "processador": " Intel Core i3-6006U 2.00GHz",
+      "memoria": "8GB",
+      "armazenamento": "128GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "Tela 14",
+      "preco": 1390.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook18-1.jpeg",
+        "/images/notebook18-2.jpeg",
+        "/images/notebook18-3.jpeg"
+      ]
+    },
+    {
+      "id": 19,
+      "titulo": "Notebook Lenovo IdeaPad S145 | Celeron N4000",
+      "marca": "Lenovo",
+      "modelo": "IdeaPad S145",
+      "processador": "Intel Celeron N4000 1.10GHz até 2.60GHz",
+      "memoria": "8GB",
+      "armazenamento": "128GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "Tela 15.6",
+      "preco": 1290.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador",
+      "estado": "Bom",
+      "imagens": [
+        "/images/notebook19-1.jpeg",
+        "/images/notebook19-2.jpeg",
+        "/images/notebook19-3.jpeg"
+      ]
+    },
+    {
       "id": 20,
       "titulo": "Notebook HP G7 i3-10th",
       "marca": "HP",
@@ -201,12 +372,50 @@
       "placaVideo": "Integrada",
       "tela": "14 polegadas",
       "preco": 1790.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador",
       "estado": "Excelente",
       "imagens": [
         "/images/notebook20-1.jpeg",
         "/images/notebook20-2.jpeg",
         "/images/notebook20-3.jpeg"
+      ]
+    },
+    {
+      "id": 21,
+      "titulo": "Notebook Lenovo ThinkPad T470 | i5 6ª Geração",
+      "marca": "Lenovo",
+      "modelo": "ThinkPad T470",
+      "processador": "Intel Core i5-6300U 2.50GHz",
+      "memoria": "8GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "14 polegadas",
+      "preco": 1690.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook21-1.jpeg",
+        "/images/notebook21-2.jpeg",
+        "/images/notebook21-3.jpeg"
+      ]
+    },
+    {
+      "id": 22,
+      "titulo": "Notebook Samsung Book | i7 11ª Geração",
+      "marca": "Samsung",
+      "modelo": "Samsung Book",
+      "processador": "Intel Core i7 11ª Geração",
+      "memoria": "16GB",
+      "armazenamento": "Nvme 256GB SSD",
+      "placaVideo": " Intel Iris Xe",
+      "tela": "15.6 FULL HD",
+      "preco": 2690.00,
+      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Pacote office ativado Acompanha carregador",
+      "estado": "Excelente",
+      "imagens": [
+        "/images/notebook22-1.jpeg",
+        "/images/notebook22-2.jpeg",
+        "/images/notebook22-3.jpeg"
       ]
     },
     {
