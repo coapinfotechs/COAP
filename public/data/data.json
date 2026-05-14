@@ -39,25 +39,6 @@
       ]
     },
     {
-      "id": 3,
-      "titulo": " Notebook Lenovo ThinkPad T480 | i7 8ª Geração",
-      "marca": "Lenovo",
-      "modelo": "T480",
-      "processador": " Intel i7-8650U 8ª geração",
-      "memoria": "16GB",
-      "armazenamento": "256GB SSD",
-      "placaVideo": " MX130 2GB dedicada",
-      "tela": "14 Full HD",
-      "preco": 2290.00,
-      "descricao": "Windows 10 pro ativado Office ativado Acompanha carregador original",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook3-1.jpeg",
-        "/images/notebook3-2.jpeg",
-        "/images/notebook3-3.jpeg"
-      ]
-    },
-    {
       "id": 4,
       "titulo": "Notebook Lenovo | i3 5ª Geração",
       "marca": "Lenovo",
@@ -96,25 +77,6 @@
       ]
     },
     {
-      "id": 6,
-      "titulo": "Notebook Acer | i5 7ª Geração",
-      "marca": "Acer",
-      "modelo": "Acer i5",
-      "processador": "Intel i5-7200U 7ª geração",
-      "memoria": "8GB",
-      "armazenamento": "128GB SSD + HD 500GB",
-      "placaVideo": "Integrada",
-      "tela": "15.6",
-      "preco": 1640.00,
-      "descricao": "Bateria com autonomia média de 4h Windows 10 pro ativado Office ativado Acompanha carregador",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook6-1.jpeg",
-        "/images/notebook6-2.jpeg",
-        "/images/notebook6-3.jpeg"
-      ]
-    },
-     {
       "id": 7,
       "titulo": "Notebook Lenovo B330 | i3 7ª Geração",
       "marca": "Lenovo",
@@ -397,25 +359,6 @@
         "/images/notebook21-1.jpeg",
         "/images/notebook21-2.jpeg",
         "/images/notebook21-3.jpeg"
-      ]
-    },
-    {
-      "id": 22,
-      "titulo": "Notebook Samsung Book | i7 11ª Geração",
-      "marca": "Samsung",
-      "modelo": "Samsung Book",
-      "processador": "Intel Core i7 11ª Geração",
-      "memoria": "16GB",
-      "armazenamento": "Nvme 256GB SSD",
-      "placaVideo": " Intel Iris Xe",
-      "tela": "15.6 FULL HD",
-      "preco": 2690.00,
-      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Pacote office ativado Acompanha carregador",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook22-1.jpeg",
-        "/images/notebook22-2.jpeg",
-        "/images/notebook22-3.jpeg"
       ]
     },
     {
