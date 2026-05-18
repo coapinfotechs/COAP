@@ -209,19 +209,19 @@
         "/images/notebook12-3.jpeg"
       ]
     }, 
-    {
+      {
       "id": 13,
-      "titulo": "Notebook HP 240 G6 | i5 7ª Geração",
-      "marca": "HP",
-      "modelo": "HP 240 G6",
-      "processador": "Intel Core i5-7200U 2.50GHz",
-      "memoria": "8GB",
-      "armazenamento": "256GB",
-      "placaVideo": "Integrada",
-      "tela": "14",
-      "preco": 1690.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Acompanha carregador",
-      "estado": "Ótimo",
+      "titulo": "Notebook Gamer Acer Nitro 5 | i7 11ª Ger. | 16GB",
+      "marca": "Acer",
+      "modelo": "Nitro 5",
+      "processador": "Intel Core i7-11800H",
+      "memoria": "16GB",
+      "armazenamento": "512GB",
+      "placaVideo": "GTX 1650 4GB dedicada",
+      "tela": "17",
+      "preco": 3990.00,
+      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Office ativado Acompanha carregador",
+      "estado": "Excelente",
       "imagens": [
         "/images/notebook13-1.jpeg",
         "/images/notebook13-2.jpeg",
