@@ -228,25 +228,6 @@
         "/images/notebook12-3.jpeg"
       ]
     }, 
-      {
-      "id": 13,
-      "titulo": "Notebook Gamer Acer Nitro 5 | i7 11ª Ger. | 16GB",
-      "marca": "Acer",
-      "modelo": "Nitro 5",
-      "processador": "Intel Core i7-11800H",
-      "memoria": "16GB",
-      "armazenamento": "512GB",
-      "placaVideo": "GTX 1650 4GB dedicada",
-      "tela": "17",
-      "preco": 3990.00,
-      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Office ativado Acompanha carregador",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook13-1.jpeg",
-        "/images/notebook13-2.jpeg",
-        "/images/notebook13-3.jpeg"
-      ]
-    },
     {
       "id": 14,
       "titulo": "Notebook Lenovo ThinkPad E14 | i5 ",
