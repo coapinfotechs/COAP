@@ -228,6 +228,25 @@
         "/images/notebook12-3.jpeg"
       ]
     }, 
+     {
+      "id": 13,
+      "titulo": "Notebook Acer Aspire 5 | i5 11ª Geração",
+      "marca": "Acer",
+      "modelo": " Aspire 5",
+      "processador": "Intel i5-1135G7 11ª geração",
+      "memoria": "8GB",
+      "armazenamento": "256GB",
+      "placaVideo": "Integrada",
+      "tela": "14",
+      "preco": 2090.00,
+      "descricao": "Windows 11 pro ativado Office ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook13-1.jpeg",
+        "/images/notebook13-2.jpeg",
+        "/images/notebook13-3.jpeg"
+      ]
+    }, 
     {
       "id": 14,
       "titulo": "Notebook Lenovo ThinkPad E14 | i5 ",
