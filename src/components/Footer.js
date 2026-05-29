@@ -94,7 +94,7 @@ function Footer({ id }) {
             />
           </a>
         </div>
-        <div className="no-results-message-2 ">CNPJ: 22.228.397/0001-06</div>
+        <div className="no-results-message-2 ">CNPJ: 61.898.450/0001-38</div>
       </div>
     </section>
   );
