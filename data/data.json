@@ -1,24 +1,5 @@
 {
   "notebooks": [
-   {
-      "id": 1,
-      "titulo": "Notebook Lenovo ThinkPad X280",
-      "marca": "Lenovo",
-      "modelo": "ThinkPad X280",
-      "processador": "Intel i5-8350U 8ª geração",
-      "memoria": "8GB",
-      "armazenamento": "256GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "12.5'",
-      "preco": 1890.00,
-      "descricao": "Bateria com autonomia média de 4h Windows 10 pro ativado Office ativado Acompanha carregador",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook1-1.jpeg",
-        "/images/notebook1-2.jpeg",
-        "/images/notebook1-3.jpeg"
-      ]
-    },   
     {
       "id": 2,
       "titulo": "Notebook Dell Latitude E5470 | i5",
@@ -153,25 +134,6 @@
       ]
     },
     {
-      "id": 9,
-      "titulo": "Notebook Dell Latitude E7250 | i5 5ª Geração",
-      "marca": "Dell",
-      "modelo": "Latitude E7250",
-      "processador": "Intel i5-5300U 5ª geração",
-      "memoria": "8GB",
-      "armazenamento": "256GB",
-      "placaVideo": "Integrada",
-      "tela": "12.5",
-      "preco": 1440.00,
-      "descricao": "Windows 10 pro ativado + Office ativados Acompanha carregador",
-      "estado": "Bom",
-      "imagens": [
-        "/images/notebook9-1.jpeg",
-        "/images/notebook9-2.jpeg",
-        "/images/notebook9-3.jpeg"
-      ]
-    }, 
-    {
       "id": 10,
       "titulo": "Notebook Dell Vostro 3481 | i3 7ª Geração",
       "marca": "Dell",
@@ -228,7 +190,7 @@
         "/images/notebook12-3.jpeg"
       ]
     }, 
-    {
+     {
       "id": 13,
       "titulo": "Notebook Acer Aspire 5 | i5 11ª Geração",
       "marca": "Acer",
@@ -245,25 +207,6 @@
         "/images/notebook13-1.jpeg",
         "/images/notebook13-2.jpeg",
         "/images/notebook13-3.jpeg"
-      ]
-    },
-    {
-      "id": 14,
-      "titulo": "Notebook Lenovo ThinkPad E14 | i5 ",
-      "marca": "Lenovo",
-      "modelo": "Thinkpad E14",
-      "processador": "Intel i5-1135G7 11ª geração",
-      "memoria": "8GB",
-      "armazenamento": "256GB",
-      "placaVideo": "Integrada",
-      "tela": "14” Full HD",
-      "preco": 2190.00,
-      "descricao": "Windows 11 pro ativado Office ativado Acompanha carregador",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook14-1.jpeg",
-        "/images/notebook14-2.jpeg",
-        "/images/notebook14-3.jpeg"
       ]
     }, 
     {
@@ -340,25 +283,6 @@
         "/images/notebook18-1.jpeg",
         "/images/notebook18-2.jpeg",
         "/images/notebook18-3.jpeg"
-      ]
-    },
-    {
-      "id": 19,
-      "titulo": "Notebook Lenovo IdeaPad S145 | Celeron N4000",
-      "marca": "Lenovo",
-      "modelo": "IdeaPad S145",
-      "processador": "Intel Celeron N4000 1.10GHz até 2.60GHz",
-      "memoria": "8GB",
-      "armazenamento": "128GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "Tela 15.6",
-      "preco": 1290.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador",
-      "estado": "Bom",
-      "imagens": [
-        "/images/notebook19-1.jpeg",
-        "/images/notebook19-2.jpeg",
-        "/images/notebook19-3.jpeg"
       ]
     },
     {
