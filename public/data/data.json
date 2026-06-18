@@ -228,6 +228,25 @@
         "/images/notebook12-3.jpeg"
       ]
     },
+     {
+      "id": 13,
+      "titulo": "Notebook HP ProBook 640 G2 | i5 6ª Geração",
+      "marca": "HP",
+      "modelo": "ProBook 640 G2",
+      "processador": " Intel Core i5-6300U 2.30GHz",
+      "memoria": "8GB",
+      "armazenamento": "128GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "Tela 14",
+      "preco": 1290.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook13-1.jpeg",
+        "/images/notebook13-2.jpeg",
+        "/images/notebook13-3.jpeg"
+      ]
+    },
     {
       "id": 15,
       "titulo": "Notebook Samsung 350X | i3 7ª Geração",
