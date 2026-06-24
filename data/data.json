@@ -229,25 +229,6 @@
       ]
     },
     {
-      "id": 14,
-      "titulo": "Notebook Gamer Acer Nitro 5 | i5 12ª Gen",
-      "marca": "Acer",
-      "modelo": "Nitro 5",
-      "processador": "Intel Core i5 12ª Geração",
-      "memoria": "16GB",
-      "armazenamento": "512GB SSD Nvme",
-      "placaVideo": "NVIDIA GeForce RTX 3050 4GB",
-      "tela": "Tela 15.6",
-      "preco": 3990.00,
-      "descricao": "Bateria com autonomia média de 3h (uso misto) Windows 11 pro ativado Pacote office ativado Acompanha carregador",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook14-1.jpeg",
-        "/images/notebook14-2.jpeg",
-        "/images/notebook14-3.jpeg"
-      ]
-    },
-    {
       "id": 15,
       "titulo": "Notebook Samsung 350X | i3 7ª Geração",
       "marca": "Samsung",
