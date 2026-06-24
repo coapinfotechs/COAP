@@ -153,25 +153,6 @@
       ]
     },
     {
-      "id": 9,
-      "titulo": "Notebook Dell Inspiron 3501 | Pentium Gold 7505",
-      "marca": "Dell",
-      "modelo": "Inspiron 3501",
-      "processador": "Intel Pentium Gold 7505",
-      "memoria": "8GB",
-      "armazenamento": " SSD 128GB NVMe",
-      "placaVideo": "Integrada",
-      "tela": "15.6 polegadas",
-      "preco": 1640.00,
-      "descricao": "Bateria com autonomia média de até 3h, Windows 11 + Office ativados, Revisado e pronto pra uso",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook9-1.jpeg",
-        "/images/notebook9-2.jpeg",
-        "/images/notebook9-3.jpeg"
-      ]
-    },
-    {
       "id": 10,
       "titulo": "Notebook Dell Vostro 3481 | i3 7ª Geração",
       "marca": "Dell",
@@ -321,25 +302,6 @@
         "/images/notebook17-1.jpeg",
         "/images/notebook17-2.jpeg",
         "/images/notebook17-3.jpeg"
-      ]
-    },
-      {
-      "id": 18,
-      "titulo": "Notebook HP 240 G7 / I5-8th",
-      "marca": "HP",
-      "modelo": "HP 240 G7",
-      "processador": "Intel i5-8250U 1.60 Ghz pro",
-      "memoria": "8GB",
-      "armazenamento": "256GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "Tela 14",
-      "preco": 1590.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook18-1.jpeg",
-        "/images/notebook18-2.jpeg",
-        "/images/notebook18-3.jpeg"
       ]
     },
     {
