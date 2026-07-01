@@ -324,25 +324,6 @@
       ]
     },
     {
-      "id": 21,
-      "titulo": "Notebook Lenovo ThinkPad T470 | i5 6ª Geração",
-      "marca": "Lenovo",
-      "modelo": "ThinkPad T470",
-      "processador": "Intel Core i5-6300U 2.50GHz",
-      "memoria": "8GB",
-      "armazenamento": "256GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "14 polegadas",
-      "preco": 1690.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook21-1.jpeg",
-        "/images/notebook21-2.jpeg",
-        "/images/notebook21-3.jpeg"
-      ]
-    },
-    {
       "id": 29,
       "titulo": "Notebook Dell Latitude E7450 i5-5300U",
       "marca": "Dell",
