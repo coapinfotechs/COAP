@@ -324,22 +324,117 @@
       ]
     },
     {
-      "id": 29,
-      "titulo": "Notebook Dell Latitude E7450 i5-5300U",
-      "marca": "Dell",
-      "modelo": "Latitude E7450",
-      "processador": "Intel core i5-5300U 2.30 Ghz",
+      "id": 18,
+      "titulo": "Lenovo ThinkPad E14 | i5 11ª Geração",
+      "marca": "Lenovo",
+      "modelo": "Thinkpad E14",
+      "processador": "Intel Core i5 11ª Geração",
       "memoria": "8GB",
-      "armazenamento": "240GB SSD",
+      "armazenamento": "256GB SSD",
       "placaVideo": "Integrada",
-      "tela": "Tela 14'",
-      "preco": 1290.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
-      "estado": "Bom",
+      "tela": "Tela 14 Full HD",
+      "preco": 2390.00,
+      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Pacote office ativado Acompanha carregador",
+      "estado": "Ótimo",
       "imagens": [
-        "/images/notebook29-1.jpeg",
-        "/images/notebook29-2.jpeg",
-        "/images/notebook29-3.jpeg"
+        "/images/notebook18-1.jpeg",
+        "/images/notebook18-2.jpeg",
+        "/images/notebook18-3.jpeg"
+      ]
+    },
+      {
+      "id": 19,
+      "titulo": "Notebook Lenovo ThinkBook 14 G6 IRL",
+      "marca": "Lenovo",
+      "modelo": "Thinkbook 14",
+      "processador": "Intel Core i5-13420H 13ª Geração",
+      "memoria": "8GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "Tela 14” WUXGA (1920x1200)",
+      "preco": 3790.00,
+      "descricao": "Bateria com autonomia média de 5h Windows 11 pro ativado Pacote office ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook19-1.jpeg",
+        "/images/notebook19-2.jpeg",
+        "/images/notebook19-3.jpeg"
+      ]
+    },
+      {
+      "id": 20,
+      "titulo": "Notebook Lenovo ThinkBook 14 G6 IRL",
+      "marca": "Lenovo",
+      "modelo": "Thinkbook 14",
+      "processador": "Intel Core i5-13420H 13ª Geração",
+      "memoria": "8GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "Tela 14 WUXGA 1920x1200",
+      "preco": 4190.00,
+      "descricao": "Bateria com autonomia média de 5h Windows 11 pro ativado Pacote office ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook20-1.jpeg",
+        "/images/notebook20-2.jpeg",
+        "/images/notebook20-3.jpeg"
+      ]
+    },
+      {
+      "id": 21,
+      "titulo": "Notebook Dell Latitude 7310",
+      "marca": "Dell",
+      "modelo": "Latitude 7310",
+      "processador": "Intel Core i7-10610U 10ª Geração",
+      "memoria": "16GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Intel UHD Graphics",
+      "tela": "Tela 13,3 Full HD",
+      "preco": 2890.00,
+      "descricao": "Bateria com 100% saúde Windows 11 pro ativado Pacote office ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook21-1.jpeg",
+        "/images/notebook21-2.jpeg",
+        "/images/notebook21-3.jpeg"
+      ]
+    },
+      {
+      "id": 22,
+      "titulo": "Notebook Lenovo ThinkPad E14 | AMD Ryzen 5 5500U",
+      "marca": "Lenovo",
+      "modelo": "Thinkpad E14",
+      "processador": "AMD Ryzen 5 5500U",
+      "memoria": "16GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "Tela 14 Full HD",
+      "preco": 2790.00,
+      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Pacote office ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook22-1.jpeg",
+        "/images/notebook22-2.jpeg",
+        "/images/notebook22-3.jpeg"
+      ]
+    },
+      {
+      "id": 23,
+      "titulo": "Notebook Dell Latitude 5420 | Intel Core i5 11ª Geração",
+      "marca": "Dell",
+      "modelo": "Latitude 5420",
+      "processador": "Intel Core i5 11ª Geração",
+      "memoria": "8GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": " Tela 14 Full HD",
+      "preco": 2390.00,
+      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Pacote office ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook23-1.jpeg",
+        "/images/notebook23-2.jpeg",
+        "/images/notebook23-3.jpeg"
       ]
     }
   ],
