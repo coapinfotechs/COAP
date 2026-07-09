@@ -77,25 +77,6 @@
       ]
     },
     {
-      "id": 5,
-      "titulo": "Notebook Acer | i5 7ª Geração",
-      "marca": "Acer",
-      "modelo": "Acer i5",
-      "processador": "Intel i5-7200U 7ª geração",
-      "memoria": "8GB",
-      "armazenamento": "256GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "15.6",
-      "preco": 1540.00,
-      "descricao": "Windows 10 pro ativado Office ativado Acompanha carregador",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook5-1.jpeg",
-        "/images/notebook5-2.jpeg",
-        "/images/notebook5-3.jpeg"
-      ]
-    },
-    {
       "id": 6,
       "titulo": " Notebook HP 240 G6 | i3 6ª Geração | 8GB",
       "marca": "HP",
@@ -266,25 +247,6 @@
         "/images/notebook15-3.jpeg"
       ]
     }, 
-    {
-      "id": 16,
-      "titulo": "Notebook Dell Latitude E5570 | i5 6ª Geração",
-      "marca": "Dell",
-      "modelo": "Latitude E5570",
-      "processador": "Intel i5-6300U 6ª geração",
-      "memoria": "8GB",
-      "armazenamento": "256GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "Tela 14” Touchscreen",
-      "preco": 1790.00,
-      "descricao": "Windows 10 pro ativado Pacote office ativado Acompanha carregador original",
-      "estado": "Excelente",
-      "imagens": [
-        "/images/notebook16-1.jpeg",
-        "/images/notebook16-2.jpeg",
-        "/images/notebook16-3.jpeg"
-      ]
-    },
     {
       "id": 17,
       "titulo": "Notebook HP ProBook 640 G2 | i5 6ª Geração",
