@@ -57,25 +57,6 @@
         "/images/notebook3-3.jpeg"
       ]
     },
-     {
-      "id": 4,
-      "titulo": "Notebook Lenovo IdeaPad | Intel Core i3 7ª Geração",
-      "marca": "Lenovo",
-      "modelo": "Ideapad",
-      "processador": "Intel Core i3 7ª Geração",
-      "memoria": "8GB",
-      "armazenamento": "240GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "15.6 HD",
-      "preco": 1590.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Office ativado Acompanha carregador",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook4-1.jpeg",
-        "/images/notebook4-2.jpeg",
-        "/images/notebook4-3.jpeg"
-      ]
-    },
     {
       "id": 6,
       "titulo": " Notebook HP 240 G6 | i3 6ª Geração | 8GB",
