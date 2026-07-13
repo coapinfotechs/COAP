@@ -58,6 +58,25 @@
       ]
     },
     {
+      "id": 4,
+      "titulo": "Notebook Dell 5458 | Intel Core i5 5ª Geração",
+      "marca": "Dell",
+      "modelo": "5458",
+      "processador": "Intel Core i5-5200U",
+      "memoria": "10GB",
+      "armazenamento": "240GB SSD Nvme",
+      "placaVideo": "Placa de vídeo dedicada NVIDIA GeForce 920M 2GB",
+      "tela": "14' HD",
+      "preco": 1490.00,
+      "descricao": "Bateria boa Windows 10 pro ativado Office ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook4-1.jpeg",
+        "/images/notebook4-2.jpeg",
+        "/images/notebook4-3.jpeg"
+      ]
+    },
+    {
       "id": 6,
       "titulo": " Notebook HP 240 G6 | i3 6ª Geração | 8GB",
       "marca": "HP",
