@@ -77,6 +77,25 @@
       ]
     },
     {
+      "id": 5,
+      "titulo": "CCE NH4CU03 | Intel Core i3 3ª Geração",
+      "marca": "CCE",
+      "modelo": "NH4CU03",
+      "processador": "Intel Core i3-3217U",
+      "memoria": "6GB",
+      "armazenamento": "128GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "14' HD",
+      "preco": 890.00,
+      "descricao": "Bateria  com média de até 2h Windows 10 pro ativado Office ativado Acompanha carregador",
+      "estado": "Bom",
+      "imagens": [
+        "/images/notebook5-1.jpeg",
+        "/images/notebook5-2.jpeg",
+        "/images/notebook5-3.jpeg"
+      ]
+    },
+    {
       "id": 6,
       "titulo": " Notebook HP 240 G6 | i3 6ª Geração | 8GB",
       "marca": "HP",
@@ -93,25 +112,6 @@
         "/images/notebook6-1.jpeg",
         "/images/notebook6-2.jpeg",
         "/images/notebook6-3.jpeg"
-      ]
-    },
-    {
-      "id": 7,
-      "titulo": "Notebook Lenovo B330 | i3 7ª Geração",
-      "marca": "Lenovo",
-      "modelo": "B330",
-      "processador": "Intel Core i3-7020U 2.30GHz",
-      "memoria": "8GB",
-      "armazenamento": "256GB",
-      "placaVideo": "Integrada",
-      "tela": "15.6",
-      "preco": 1640.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Office ativado Acompanha carregador",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook7-1.jpeg",
-        "/images/notebook7-2.jpeg",
-        "/images/notebook7-3.jpeg"
       ]
     },
     {
@@ -191,25 +191,6 @@
       ]
     },
     {
-      "id": 13,
-      "titulo": "Notebook HP ProBook 640 G2 | i5 6ª Geração",
-      "marca": "HP",
-      "modelo": "ProBook 640 G2",
-      "processador": " Intel Core i5-6300U 2.30GHz",
-      "memoria": "8GB",
-      "armazenamento": "128GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "Tela 14",
-      "preco": 1290.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook13-1.jpeg",
-        "/images/notebook13-2.jpeg",
-        "/images/notebook13-3.jpeg"
-      ]
-    },
-     {
       "id": 14,
       "titulo": "Notebook Samsung Book",
       "marca": "Samsung",
@@ -323,26 +304,7 @@
         "/images/notebook21-3.jpeg"
       ]
     },
-      {
-      "id": 22,
-      "titulo": "Notebook Lenovo ThinkPad E14 | AMD Ryzen 5 5500U",
-      "marca": "Lenovo",
-      "modelo": "Thinkpad E14",
-      "processador": "AMD Ryzen 5 5500U",
-      "memoria": "16GB",
-      "armazenamento": "256GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "Tela 14 Full HD",
-      "preco": 2790.00,
-      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Pacote office ativado Acompanha carregador",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook22-1.jpeg",
-        "/images/notebook22-2.jpeg",
-        "/images/notebook22-3.jpeg"
-      ]
-    },
-      {
+    {
       "id": 23,
       "titulo": "Notebook Dell Latitude 5420 | Intel Core i5 11ª Geração",
       "marca": "Dell",
