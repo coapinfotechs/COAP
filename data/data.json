@@ -38,25 +38,6 @@
         "/images/notebook2-3.jpeg"
       ]
     },
-     {
-      "id": 3,
-      "titulo": "Notebook Dell Latitude 3410 | i3 10ª Geração",
-      "marca": "Dell",
-      "modelo": "Latitude 3410",
-      "processador": "Intel Core i3-10110U",
-      "memoria": "8GB",
-      "armazenamento": "256GB SSD Nvme",
-      "placaVideo": "Integrada",
-      "tela": "14'",
-      "preco": 1990.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 11 pro ativado Office ativado Acompanha carregador",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook3-1.jpeg",
-        "/images/notebook3-2.jpeg",
-        "/images/notebook3-3.jpeg"
-      ]
-    },
     {
       "id": 4,
       "titulo": "Notebook Dell 5458 | Intel Core i5 5ª Geração",
@@ -115,25 +96,6 @@
       ]
     },
     {
-      "id": 8,
-      "titulo": "Notebook HP EliteBook 820 G3",
-      "marca": "HP",
-      "modelo": "820 G3",
-      "processador": "i5-6300U (6ª geração)",
-      "memoria": "8GB RAM",
-      "armazenamento": " SSD 128GB NVMe",
-      "placaVideo": "Integrada",
-      "tela": "12.5 polegadas",
-      "preco": 1490.00,
-      "descricao": "Bateria nova até 4h, Windows 10 + Office ativados, Revisado e pronto pra uso",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook8-1.jpeg",
-        "/images/notebook8-2.jpeg",
-        "/images/notebook8-3.jpeg"
-      ]
-    },
-     {
       "id": 9,
       "titulo": "Ultrabook Dell XPS 13 9300",
       "marca": "Dell",
@@ -283,25 +245,6 @@
         "/images/notebook20-1.jpeg",
         "/images/notebook20-2.jpeg",
         "/images/notebook20-3.jpeg"
-      ]
-    },
-      {
-      "id": 21,
-      "titulo": "Notebook Dell Latitude 7310",
-      "marca": "Dell",
-      "modelo": "Latitude 7310",
-      "processador": "Intel Core i7-10610U 10ª Geração",
-      "memoria": "16GB",
-      "armazenamento": "256GB SSD",
-      "placaVideo": "Intel UHD Graphics",
-      "tela": "Tela 13,3 Full HD",
-      "preco": 2890.00,
-      "descricao": "Bateria com 100% saúde Windows 11 pro ativado Pacote office ativado Acompanha carregador",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook21-1.jpeg",
-        "/images/notebook21-2.jpeg",
-        "/images/notebook21-3.jpeg"
       ]
     },
     {
