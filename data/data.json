@@ -229,6 +229,25 @@
       ]
     },
     {
+      "id": 13,
+      "titulo": "Notebook Lenovo IdeaPad 320",
+      "marca": "Lenovo",
+      "modelo": "Ideapad 320",
+      "processador": "Intel Core i3-6006U",
+      "memoria": "8GB",
+      "armazenamento": "240GB",
+      "placaVideo": "Integrada",
+      "tela": "15.6",
+      "preco": 1440.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook13-1.jpeg",
+        "/images/notebook13-2.jpeg",
+        "/images/notebook13-3.jpeg"
+      ]
+    },
+    {
       "id": 14,
       "titulo": "Notebook Samsung Book",
       "marca": "Samsung",
@@ -249,16 +268,16 @@
     },
     {
       "id": 15,
-      "titulo": "Notebook Samsung 350X | i3 7ª Geração",
-      "marca": "Samsung",
-      "modelo": "Samsung 350X",
-      "processador": "Intel Core i3-7020U 2.30GHz",
+      "titulo": "Notebook Dell N4050 | Intel Core i3 2ª Geração ",
+      "marca": "Dell",
+      "modelo": "N4050",
+      "processador": "Intel Core i3-2310M",
       "memoria": "8GB",
-      "armazenamento": "256GB",
+      "armazenamento": "128GB",
       "placaVideo": "Integrada",
-      "tela": "15.6",
-      "preco": 1640.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Office ativado Acompanha carregador",
+      "tela": "14",
+      "preco": 890.00,
+      "descricao": "Bateria nova Windows 10 pro ativado Office ativado Acompanha carregador",
       "estado": "Ótimo",
       "imagens": [
         "/images/notebook15-1.jpeg",
@@ -324,3 +343,4 @@
     "/images/avaliacao-10.png"
   ]
 }
+
