@@ -78,16 +78,16 @@
     },
     {
       "id": 5,
-      "titulo": "CCE NH4CU03 | Intel Core i3 3ª Geração",
-      "marca": "CCE",
-      "modelo": "NH4CU03",
-      "processador": "Intel Core i3-3217U",
-      "memoria": "6GB",
-      "armazenamento": "128GB SSD",
+      "titulo": "Notebook Acer Aspire A515-51",
+      "marca": "Acer",
+      "modelo": "Aspire A515-51",
+      "processador": "Intel Core i5-7200U – 7ª geração",
+      "memoria": "8GB",
+      "armazenamento": "128GB SSD Nvme",
       "placaVideo": "Integrada",
-      "tela": "14' HD",
-      "preco": 890.00,
-      "descricao": "Bateria  com média de até 2h Windows 10 pro ativado Office ativado Acompanha carregador",
+      "tela": "15,6",
+      "preco": 1690.00,
+      "descricao": "Bateria  com média de até 3h Windows 10 pro ativado Office ativado Acompanha carregador",
       "estado": "Bom",
       "imagens": [
         "/images/notebook5-1.jpeg",
@@ -304,26 +304,7 @@
         "/images/notebook16-3.jpeg"
       ]
     },
-      {
-      "id": 17,
-      "titulo": "Notebook Dell Latitude 3420 | i3 11ª Geração",
-      "marca": "Dell",
-      "modelo": "Latitude 3420",
-      "processador": "Intel Core i3-1115G4",
-      "memoria": "8GB",
-      "armazenamento": "256GB",
-      "placaVideo": "Integrada",
-      "tela": "14 HD",
-      "preco": 1990.00,
-      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Acompanha carregador",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook17-1.jpeg",
-        "/images/notebook17-2.jpeg",
-        "/images/notebook17-3.jpeg"
-      ]
-    },
-      {
+    {
       "id": 18,
       "titulo": "Notebook Lenovo | Intel Core i5 8ª Geração",
       "marca": "Lenovo",
