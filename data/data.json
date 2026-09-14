@@ -134,6 +134,25 @@
       ]
     },
     {
+      "id": 8,
+      "titulo": "Notebook Lenovo | Intel Core i5-7200U 7ª Geração",
+      "marca": "Lenovo",
+      "modelo": "Lenovo i5",
+      "processador": "Intel Core i5-7200U 7ª Geração",
+      "memoria": "8GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Intel HD Graphics 620",
+      "tela": "14",
+      "preco": 1690.00,
+      "descricao": "Bateria com autonomia média de 2h Windows 10 pro ativado Office ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook8-1.jpeg",
+        "/images/notebook8-2.jpeg",
+        "/images/notebook8-3.jpeg"
+      ]
+    },
+    {
       "id": 9,
       "titulo": "Notebook Lenovo ThinkPad T470 | Intel Core i5 7ª Geração",
       "marca": "Lenovo",
@@ -226,6 +245,44 @@
         "/images/notebook13-1.jpeg",
         "/images/notebook13-2.jpeg",
         "/images/notebook13-3.jpeg"
+      ]
+    },
+    {
+      "id": 14,
+      "titulo": "Notebook Dell Vostro 5470 | Intel Core i7-4500U",
+      "marca": "Dell",
+      "modelo": "Vostro 5470",
+      "processador": "Intel Core i7-4500U",
+      "memoria": "8GB",
+      "armazenamento": "256GB",
+      "placaVideo": "NVIDIA GeForce GT 740M dedicada",
+      "tela": "14",
+      "preco": 1690.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook14-1.jpeg",
+        "/images/notebook14-2.jpeg",
+        "/images/notebook14-3.jpeg"
+      ]
+    },
+    {
+      "id": 15,
+      "titulo": "Notebook Lenovo E14 | Intel Core i5 10ª Geração",
+      "marca": "Lenovo",
+      "modelo": "E14",
+      "processador": "Intel Core i5 10ª Geração",
+      "memoria": "8GB",
+      "armazenamento": "256GB",
+      "placaVideo": "Intel UHD Graphics",
+      "tela": "14",
+      "preco": 2290.00,
+      "descricao": "Bateria com autonomia média de 4h Windows 10 pro ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook15-1.jpeg",
+        "/images/notebook15-2.jpeg",
+        "/images/notebook15-3.jpeg"
       ]
     },
     {
