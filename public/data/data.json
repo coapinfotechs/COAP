@@ -134,25 +134,6 @@
       ]
     },
     {
-      "id": 8,
-      "titulo": " Notebook HP 240 G5 | i5 6ª Geração",
-      "marca": "HP",
-      "modelo": "HP 240 G5",
-      "processador": "Intel Core i3-6006U",
-      "memoria": "8GB",
-      "armazenamento": "240GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "14",
-      "preco": 1590.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Office ativado Acompanha carregador",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook8-1.jpeg",
-        "/images/notebook8-2.jpeg",
-        "/images/notebook8-3.jpeg"
-      ]
-    },
-    {
       "id": 9,
       "titulo": "Notebook Lenovo ThinkPad T470 | Intel Core i5 7ª Geração",
       "marca": "Lenovo",
@@ -247,45 +228,7 @@
         "/images/notebook13-3.jpeg"
       ]
     },
-      {
-      "id": 14,
-      "titulo": " Notebook Acer Aspire | i3 7ª Geração",
-      "marca": "Acer",
-      "modelo": "Aspire",
-      "processador": "Intel Core i3-7020U",
-      "memoria": "8GB",
-      "armazenamento": "256GB",
-      "placaVideo": "Integrada",
-      "tela": "15.6 HD",
-      "preco": 1640.00,
-      "descricao": "Bateria com autonomia média de 2h Windows 10 pro ativado Acompanha carregador",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook14-1.jpeg",
-        "/images/notebook14-2.jpeg",
-        "/images/notebook14-3.jpeg"
-      ]
-    },
-      {
-      "id": 15,
-      "titulo": "Notebook Dell Latitude 5420 | Intel Core i5 11ª Geração",
-      "marca": "Dell",
-      "modelo": "Latitude 5420",
-      "processador": "Intel Core i5-1135G7",
-      "memoria": "8GB",
-      "armazenamento": "256GB",
-      "placaVideo": "Integrada",
-      "tela": "14 FULL HD",
-      "preco": 2390.00,
-      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Acompanha carregador",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook15-1.jpeg",
-        "/images/notebook15-2.jpeg",
-        "/images/notebook15-3.jpeg"
-      ]
-    },
-      {
+    {
       "id": 16,
       "titulo": "Notebook Compaq Presario CQ-23 | Intel Celeron N2820",
       "marca": "Compaq",
@@ -302,25 +245,6 @@
         "/images/notebook16-1.jpeg",
         "/images/notebook16-2.jpeg",
         "/images/notebook16-3.jpeg"
-      ]
-    },
-    {
-      "id": 18,
-      "titulo": "Notebook Lenovo | Intel Core i5 8ª Geração",
-      "marca": "Lenovo",
-      "modelo": "Lenovo | Intel Core i5",
-      "processador": "Intel Core i5-8250U",
-      "memoria": "12GB",
-      "armazenamento": "256GB",
-      "placaVideo": "NVIDIA GeForce MX150 2GB dedicada",
-      "tela": "15,6",
-      "preco": 1990.00,
-      "descricao": "Bateria com autonomia média de 2h Windows 10 pro ativado Acompanha carregador",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook18-1.jpeg",
-        "/images/notebook18-2.jpeg",
-        "/images/notebook18-3.jpeg"
       ]
     },
     {
