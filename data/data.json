@@ -114,26 +114,7 @@
         "/images/notebook6-3.jpeg"
       ]
     },
-    {
-      "id": 7,
-      "titulo": "Notebook Dell Latitude 3410 | Intel Core i7 10ª Geração",
-      "marca": "Dell",
-      "modelo": "Dell Latitude 3410",
-      "processador": "Intel Core i7-10510U",
-      "memoria": "8GB",
-      "armazenamento": "256GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "14",
-      "preco": 2490.00,
-      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Office ativado Acompanha carregador",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook7-1.jpeg",
-        "/images/notebook7-2.jpeg",
-        "/images/notebook7-3.jpeg"
-      ]
-    },
-    {
+       {
       "id": 8,
       "titulo": "Notebook Lenovo | Intel Core i5-7200U 7ª Geração",
       "marca": "Lenovo",
@@ -359,25 +340,6 @@
         "/images/notebook21-1.jpeg",
         "/images/notebook21-2.jpeg",
         "/images/notebook21-3.jpeg"
-      ]
-    },
-     {
-      "id": 22,
-      "titulo": "Notebook Nitro 5 AN515-45 | AMD Ryzen 7 5800H",
-      "marca": "Asus",
-      "modelo": "Nitro 5",
-      "processador": "AMD Ryzen 7 5800H",
-      "memoria": "16GB",
-      "armazenamento": "512GB SSD",
-      "placaVideo": "NVIDIA GeForce RTX 3050 4GB",
-      "tela": "15,6 Full HD 144Hz",
-      "preco": 4390.00,
-      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Pacote office ativado Acompanha carregador",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook22-1.jpeg",
-        "/images/notebook22-2.jpeg",
-        "/images/notebook22-3.jpeg"
       ]
     }
     ],
