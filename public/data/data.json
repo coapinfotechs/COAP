@@ -114,6 +114,25 @@
         "/images/notebook6-3.jpeg"
       ]
     },
+      {
+      "id": 7,
+      "titulo": "Notebook Dell Inspiron 3584 | i3 7ª Geração",
+      "marca": "Dell",
+      "modelo": "Inspiron 3584",
+      "processador": "Intel Core i3-7020U 2.30GHz",
+      "memoria": "8GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "15.6 HD",
+      "preco": 1690.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Office ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook7-1.jpeg",
+        "/images/notebook7-2.jpeg",
+        "/images/notebook7-3.jpeg"
+      ]
+    },
        {
       "id": 8,
       "titulo": "Notebook Lenovo | Intel Core i5-7200U 7ª Geração",
