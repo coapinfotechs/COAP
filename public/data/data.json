@@ -305,6 +305,25 @@
       ]
     },
     {
+      "id": 17,
+      "titulo": "Notebook Lenovo IdeaPad S145",
+      "marca": "Lenovo",
+      "modelo": "IdeaPad S145",
+      "processador": "Intel Core i3-8130U 8ª Geração",
+      "memoria": "8GB",
+      "armazenamento": "256GB",
+      "placaVideo": "Integrada",
+      "tela": "15,6",
+      "preco": 1790.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 11 pro ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook17-1.jpeg",
+        "/images/notebook17-2.jpeg",
+        "/images/notebook17-3.jpeg"
+      ]
+    },
+    {
       "id": 19,
       "titulo": "Notebook Lenovo ThinkBook 14 G6 IRL",
       "marca": "Lenovo",
