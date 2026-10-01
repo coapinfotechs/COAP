@@ -267,25 +267,6 @@
       ]
     },
     {
-      "id": 15,
-      "titulo": "Notebook Lenovo E14 | Intel Core i5 10ª Geração",
-      "marca": "Lenovo",
-      "modelo": "E14",
-      "processador": "Intel Core i5 10ª Geração",
-      "memoria": "8GB",
-      "armazenamento": "256GB",
-      "placaVideo": "Intel UHD Graphics",
-      "tela": "14",
-      "preco": 2290.00,
-      "descricao": "Bateria com autonomia média de 4h Windows 10 pro ativado Acompanha carregador",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook15-1.jpeg",
-        "/images/notebook15-2.jpeg",
-        "/images/notebook15-3.jpeg"
-      ]
-    },
-    {
       "id": 16,
       "titulo": "Notebook Compaq Presario CQ-23 | Intel Celeron N2820",
       "marca": "Compaq",
