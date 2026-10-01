@@ -324,6 +324,25 @@
       ]
     },
     {
+      "id": 18,
+      "titulo": "Notebook Dell Latitude 5490 | Intel Core i5-8250U",
+      "marca": "Dell",
+      "modelo": "Latitude 5490",
+      "processador": "Intel Core i5-8250U 8ª Geração",
+      "memoria": "8GB",
+      "armazenamento": "256GB",
+      "placaVideo": "Integrada",
+      "tela": "14" FHD",
+      "preco": 1990.00,
+      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook18-1.jpeg",
+        "/images/notebook18-2.jpeg",
+        "/images/notebook18-3.jpeg"
+      ]
+    },
+    {
       "id": 19,
       "titulo": "Notebook Lenovo ThinkBook 14 G6 IRL",
       "marca": "Lenovo",
@@ -378,6 +397,25 @@
         "/images/notebook21-1.jpeg",
         "/images/notebook21-2.jpeg",
         "/images/notebook21-3.jpeg"
+      ]
+    },
+    {
+      "id": 22,
+      "titulo": "Notebook HP EliteBook 820 G3 | Intel Core i5-6300U",
+      "marca": "HP",
+      "modelo": "EliteBook 820 G3",
+      "processador": "Intel Core i5-6300U 6ª Geração",
+      "memoria": "8GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "12.5",
+      "preco": 1590.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook22-1.jpeg",
+        "/images/notebook22-2.jpeg",
+        "/images/notebook22-3.jpeg"
       ]
     }
     ],
