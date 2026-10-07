@@ -248,25 +248,6 @@
       ]
     },
     {
-      "id": 16,
-      "titulo": "Notebook Compaq Presario CQ-23 | Intel Celeron N2820",
-      "marca": "Compaq",
-      "modelo": "Presario CQ-23",
-      "processador": "Intel Celeron N2820",
-      "memoria": "8GB",
-      "armazenamento": "256GB",
-      "placaVideo": "Integrada",
-      "tela": "14",
-      "preco": 890.00,
-      "descricao": "Bateria com autonomia média de 2h Windows 10 pro ativado Acompanha carregador",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook16-1.jpeg",
-        "/images/notebook16-2.jpeg",
-        "/images/notebook16-3.jpeg"
-      ]
-    },
-    {
       "id": 17,
       "titulo": "Notebook Lenovo IdeaPad S145",
       "marca": "Lenovo",
