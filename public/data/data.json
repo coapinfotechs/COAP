@@ -114,6 +114,25 @@
         "/images/notebook6-3.jpeg"
       ]
     },
+     {
+      "id": 7,
+      "titulo": "Notebook Dell Inspiron 5566 | Intel Core i3",
+      "marca": "Dell",
+      "modelo": "Inspiron 5566",
+      "processador": "Intel Core i3-6006U",
+      "memoria": "8GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Intel HD Graphics 520",
+      "tela": "15.6",
+      "preco": 1490.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 11 pro ativado Office ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook7-1.jpeg",
+        "/images/notebook7-2.jpeg",
+        "/images/notebook7-3.jpeg"
+      ]
+    },
     {
       "id": 8,
       "titulo": "Notebook Lenovo | Intel Core i5-7200U 7ª Geração",
