@@ -209,26 +209,7 @@
         "/images/notebook11-3.jpeg"
       ]
     },
-      {
-      "id": 12,
-      "titulo": "Notebook Dell 5547 | Intel Core i7 4ª Geração",
-      "marca": "Dell",
-      "modelo": " Dell 5547",
-      "processador": "Intel Core i7-4510U",
-      "memoria": "8GB",
-      "armazenamento": "256GB",
-      "placaVideo": "Radeon R7 M260 2GB dedicada",
-      "tela": "15,6 Full HD Touchscreen",
-      "preco": 1690.00,
-      "descricao": "Bateria com autonomia média de 4h Windows 10 pro ativado Acompanha carregador",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook12-1.jpeg",
-        "/images/notebook12-2.jpeg",
-        "/images/notebook12-3.jpeg"
-      ]
-    },
-      {
+    {
       "id": 13,
       "titulo": "Notebook Lenovo G40-80 | Intel Core i3-5005U",
       "marca": "Lenovo",
@@ -266,26 +247,7 @@
         "/images/notebook14-3.jpeg"
       ]
     },
-     {
-      "id": 15,
-      "titulo": "Notebook Samsung | Intel Core i3-1215U 12ª Geração",
-      "marca": "Samsung",
-      "modelo": "Samsung Core i3",
-      "processador": "Intel Core i3-1215U 12ª Geração",
-      "memoria": "8GB",
-      "armazenamento": "256GB",
-      "placaVideo": "Integrada",
-      "tela": "15.6 FULL HD",
-      "preco": 2290.00,
-      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Acompanha carregador",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook15-1.jpeg",
-        "/images/notebook15-2.jpeg",
-        "/images/notebook15-3.jpeg"
-      ]
-    },
-      {
+    {
       "id": 16,
       "titulo": "Notebook Lenovo | Intel Core i5 8ª Geração | 12GB",
       "marca": "Lenovo",
