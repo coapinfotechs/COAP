@@ -266,6 +266,25 @@
         "/images/notebook14-3.jpeg"
       ]
     },
+      {
+      "id": 15,
+      "titulo": "Notebook Dell Latitude 5420 | Intel Core i5 11ª Geração",
+      "marca": "Dell",
+      "modelo": "Dell Latitude 5420",
+      "processador": "Intel Core i5-1135G7",
+      "memoria": "8GB",
+      "armazenamento": "256GB",
+      "placaVideo": "Integrada",
+      "tela": "Tela 14" Full HD",
+      "preco": 2390.00,
+      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook15-1.jpeg",
+        "/images/notebook15-2.jpeg",
+        "/images/notebook15-3.jpeg"
+      ]
+    },
     {
       "id": 16,
       "titulo": "Notebook Lenovo | Intel Core i5 8ª Geração | 12GB",
