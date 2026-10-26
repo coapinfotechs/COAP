@@ -417,6 +417,25 @@
         "/images/notebook22-2.jpeg",
         "/images/notebook22-3.jpeg"
       ]
+    },
+    {
+      "id": 23,
+      "titulo": "Notebook Acer Aspire A315-34 Intel Celeron N4020",
+      "marca": "Acer",
+      "modelo": "Aspire A315-34",
+      "processador": "Intel Celeron N4020",
+      "memoria": "8GB",
+      "armazenamento": "128GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "15.6",
+      "preco": 1290.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook23-1.jpeg",
+        "/images/notebook23-2.jpeg",
+        "/images/notebook23-3.jpeg"
+      ]
     }
     ],
   "redesSociais": {
