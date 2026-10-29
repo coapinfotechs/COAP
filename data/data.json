@@ -401,15 +401,15 @@
     },
     {
       "id": 22,
-      "titulo": "Notebook HP EliteBook 820 G3 | Intel Core i5-6300U",
-      "marca": "HP",
-      "modelo": "EliteBook 820 G3",
-      "processador": "Intel Core i5-6300U 6ª Geração",
+      "titulo": "Notebook Samsung | Intel Core i5-10210U | 8GB",
+      "marca": "Samsung",
+      "modelo": "Samsung",
+      "processador": "Intel Core i5-10210U — 10ª geração",
       "memoria": "8GB",
       "armazenamento": "256GB SSD",
       "placaVideo": "Integrada",
-      "tela": "12.5",
-      "preco": 1590.00,
+      "tela": "15.6",
+      "preco": 2290.00,
       "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador",
       "estado": "Ótimo",
       "imagens": [
@@ -435,6 +435,44 @@
         "/images/notebook23-1.jpeg",
         "/images/notebook23-2.jpeg",
         "/images/notebook23-3.jpeg"
+      ]
+    },
+    {
+      "id": 24,
+      "titulo": "Notebook Dell Latitude 3420 | Intel Core i5-1135G7 | 16GB",
+      "marca": "Dell",
+      "modelo": "Latitude 3420",
+      "processador": "Intel Core i5-1135G7 — 11ª geração",
+      "memoria": "16GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Gráficos Intel Iris Xe integrados",
+      "tela": "14 Full HD",
+      "preco": 2690.00,
+      "descricao": "Windows 11 pro ativado Pacote office ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook24-1.jpeg",
+        "/images/notebook24-2.jpeg",
+        "/images/notebook24-3.jpeg"
+      ]
+    },
+      {
+      "id": 25,
+      "titulo": "Notebook Dell Latitude 3420 | Intel Core i5-1135G7 | 8GB",
+      "marca": "Dell",
+      "modelo": "Latitude 3420",
+      "processador": "Intel Core i5-1135G7 — 11ª geração",
+      "memoria": "8GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Gráficos Intel Iris Xe integrados",
+      "tela": "14 Full HD",
+      "preco": 2390.00,
+      "descricao": "Windows 11 pro ativado Pacote office ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook25-1.jpeg",
+        "/images/notebook25-2.jpeg",
+        "/images/notebook25-3.jpeg"
       ]
     }
     ],
