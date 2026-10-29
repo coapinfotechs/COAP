@@ -1,6 +1,6 @@
 {
   "notebooks": [
-     {
+    {
       "id": 1,
       "titulo": "Notebook Lenovo V14 G3 | Ryzen 5 5625U | 8GB",
       "marca": "Lenovo",
@@ -304,7 +304,7 @@
         "/images/notebook16-3.jpeg"
       ]
     },
-    {
+        {
       "id": 17,
       "titulo": "Notebook Dell Inspiron 7580 | Intel Core i7-8565U",
       "marca": "Dell",
@@ -323,7 +323,7 @@
         "/images/notebook17-3.jpeg"
       ]
     },
-     {
+      {
       "id": 18,
       "titulo": "Notebook Lenovo Ideapad | Intel Core i3 10 ger",
       "marca": "Lenovo",
@@ -400,6 +400,25 @@
       ]
     },
     {
+      "id": 22,
+      "titulo": "Notebook Samsung | Intel Core i5-10210U | 8GB",
+      "marca": "Samsung",
+      "modelo": "Samsung",
+      "processador": "Intel Core i5-10210U — 10ª geração",
+      "memoria": "8GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Integrada",
+      "tela": "15.6",
+      "preco": 2290.00,
+      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook22-1.jpeg",
+        "/images/notebook22-2.jpeg",
+        "/images/notebook22-3.jpeg"
+      ]
+    },
+    {
       "id": 23,
       "titulo": "Notebook Acer Aspire A315-34 Intel Celeron N4020",
       "marca": "Acer",
@@ -416,6 +435,44 @@
         "/images/notebook23-1.jpeg",
         "/images/notebook23-2.jpeg",
         "/images/notebook23-3.jpeg"
+      ]
+    },
+    {
+      "id": 24,
+      "titulo": "Notebook Dell Latitude 3420 | Intel Core i5-1135G7 | 16GB",
+      "marca": "Dell",
+      "modelo": "Latitude 3420",
+      "processador": "Intel Core i5-1135G7 — 11ª geração",
+      "memoria": "16GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Gráficos Intel Iris Xe integrados",
+      "tela": "14 Full HD",
+      "preco": 2690.00,
+      "descricao": "Windows 11 pro ativado Pacote office ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook24-1.jpeg",
+        "/images/notebook24-2.jpeg",
+        "/images/notebook24-3.jpeg"
+      ]
+    },
+      {
+      "id": 25,
+      "titulo": "Notebook Dell Latitude 3420 | Intel Core i5-1135G7 | 8GB",
+      "marca": "Dell",
+      "modelo": "Latitude 3420",
+      "processador": "Intel Core i5-1135G7 — 11ª geração",
+      "memoria": "8GB",
+      "armazenamento": "256GB SSD",
+      "placaVideo": "Gráficos Intel Iris Xe integrados",
+      "tela": "14 Full HD",
+      "preco": 2390.00,
+      "descricao": "Windows 11 pro ativado Pacote office ativado Acompanha carregador",
+      "estado": "Ótimo",
+      "imagens": [
+        "/images/notebook25-1.jpeg",
+        "/images/notebook25-2.jpeg",
+        "/images/notebook25-3.jpeg"
       ]
     }
     ],
