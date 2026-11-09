@@ -249,16 +249,16 @@
     },
     {
       "id": 14,
-      "titulo": "Notebook Dell Vostro 5470 | Intel Core i7-4500U",
+      "titulo": "Notebook Dell Latitude 5490 | Intel Core i5-8250U",
       "marca": "Dell",
-      "modelo": "Vostro 5470",
-      "processador": "Intel Core i7-4500U",
+      "modelo": "Latitude 5490",
+      "processador": "Intel Core i5-8250U 8ª Geração",
       "memoria": "8GB",
       "armazenamento": "256GB",
-      "placaVideo": "NVIDIA GeForce GT 740M dedicada",
-      "tela": "14",
-      "preco": 1690.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Acompanha carregador",
+      "placaVideo": "Intel UHD Graphics 620",
+      "tela": "14 FHD",
+      "preco": 1990.00,
+      "descricao": "Bateria com autonomia média de 4h Windows 11 pro ativado Acompanha carregador",
       "estado": "Ótimo",
       "imagens": [
         "/images/notebook14-1.jpeg",
@@ -416,25 +416,6 @@
         "/images/notebook22-1.jpeg",
         "/images/notebook22-2.jpeg",
         "/images/notebook22-3.jpeg"
-      ]
-    },
-    {
-      "id": 23,
-      "titulo": "Notebook Acer Aspire A315-34 Intel Celeron N4020",
-      "marca": "Acer",
-      "modelo": "Aspire A315-34",
-      "processador": "Intel Celeron N4020",
-      "memoria": "8GB",
-      "armazenamento": "128GB SSD",
-      "placaVideo": "Integrada",
-      "tela": "15.6",
-      "preco": 1290.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 10 pro ativado Pacote office ativado Acompanha carregador",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook23-1.jpeg",
-        "/images/notebook23-2.jpeg",
-        "/images/notebook23-3.jpeg"
       ]
     },
     {
