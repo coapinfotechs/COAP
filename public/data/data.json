@@ -173,16 +173,16 @@
     },
      {
       "id": 12,
-      "titulo": "Notebook Asus Vivobook | Intel Core i3 10 geração",
-      "marca": "Asus",
-      "modelo": "HP 240 G7",
-      "processador": "Intel Core i3-1005G1 10ª geração",
+      "titulo": "Notebook Lenovo | Intel Core i5-3230M | 8GB",
+      "marca": "Lenovo",
+      "modelo": "Lenovo i5",
+      "processador": "Intel Core i5-3230M ",
       "memoria": "8GB",
-      "armazenamento": "256GB",
+      "armazenamento": "128GB",
       "placaVideo": "Integrada",
-      "tela": "15.6",
-      "preco": 1940.00,
-      "descricao": "Bateria com autonomia média de 3h Windows 11 pro ativado Acompanha carregador",
+      "tela": "14",
+      "preco": 1090.00,
+      "descricao": "Bateria com autonomia média de 2h Windows 10 pro ativado Acompanha carregador",
       "estado": "Ótimo",
       "imagens": [
         "/images/notebook12-1.jpeg",
@@ -245,25 +245,6 @@
         "/images/notebook15-1.jpeg",
         "/images/notebook15-2.jpeg",
         "/images/notebook15-3.jpeg"
-      ]
-    },
-    {
-      "id": 16,
-      "titulo": "Notebook Lenovo | Intel Core i5 8ª Geração | 12GB",
-      "marca": "Lenovo",
-      "modelo": "Lenovo i5",
-      "processador": "Intel Core i5-8250U",
-      "memoria": "12GB",
-      "armazenamento": "256GB",
-      "placaVideo": "NVIDIA GeForce MX150 2GB dedicada",
-      "tela": "15.6",
-      "preco": 1990.00,
-      "descricao": "Bateria com autonomia média de 2h Windows 10 pro ativado Acompanha carregador",
-      "estado": "Ótimo",
-      "imagens": [
-        "/images/notebook16-1.jpeg",
-        "/images/notebook16-2.jpeg",
-        "/images/notebook16-3.jpeg"
       ]
     },
     {
